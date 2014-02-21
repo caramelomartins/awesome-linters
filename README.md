@@ -52,5 +52,5 @@ Contribuitions and pull requests are very welcome.
 
 We're still figuring out how to organize everything, though, so it might take some time until we accept pull requests.
 
-## Authors
+## Main Collaborators
 Hugo Martins & Filipe Bento
