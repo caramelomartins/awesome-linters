@@ -34,7 +34,7 @@ This is as much of a learning experience as a source of wisdom.
 We hope it might be as useful to you as it is to us.
 
 
-### Widely known coding standards:
+#### Widely known coding standards:
 
 * GNU - http://www.gnu.org/prep/standards/
 * Drupal - https://drupal.org/coding-standards
@@ -43,6 +43,14 @@ We hope it might be as useful to you as it is to us.
 * C++ - http://www.possibility.com/Cpp/CppCodingStandard.html
 * Linux Kernel - https://www.kernel.org/doc/Documentation/CodingStyle
 * Sun - http://www.oracle.com/technetwork/java/codeconventions-150003.pdf
+* Apache - http://httpd.apache.org/dev/styleguide.html
+* Mozilla - https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style
 
-*Current contributors:*  
+## Contributions
+
+Contribuitions and pull requests are very welcome.
+
+We're still figuring out how to organize everything, though, so it might take some time until we accept pull requests.
+
+## Authors
 Hugo Martins & Filipe Bento
