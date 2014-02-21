@@ -36,15 +36,15 @@ We hope it might be as useful to you as it is to us.
 
 #### Widely known coding standards:
 
-* GNU - http://www.gnu.org/prep/standards/
-* Drupal - https://drupal.org/coding-standards
-* Wordpress - http://codex.wordpress.org/WordPress_Coding_Standards
-* Pear - http://pear.php.net/manual/en/standards.php
-* C++ - http://www.possibility.com/Cpp/CppCodingStandard.html
-* Linux Kernel - https://www.kernel.org/doc/Documentation/CodingStyle
-* Sun - http://www.oracle.com/technetwork/java/codeconventions-150003.pdf
 * Apache - http://httpd.apache.org/dev/styleguide.html
+* C++ - http://www.possibility.com/Cpp/CppCodingStandard.html
+* Drupal - https://drupal.org/coding-standards
+* GNU - http://www.gnu.org/prep/standards/
+* Linux Kernel - https://www.kernel.org/doc/Documentation/CodingStyle
 * Mozilla - https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style
+* Pear - http://pear.php.net/manual/en/standards.php
+* Sun - http://www.oracle.com/technetwork/java/codeconventions-150003.pdf
+* Wordpress - http://codex.wordpress.org/WordPress_Coding_Standards
 
 ## Contributions
 
