@@ -37,7 +37,7 @@ We hope it might be as useful to you as it is to us.
 ## Widely Known Projects' Coding Standards
 
 * Apache - http://httpd.apache.org/dev/styleguide.html
-* Cocoa - https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/CodingGuidelines/CodingGuidelines.html
+* Cocoa - https://developer.apple.com/library/mac/documentation/cocoa/conceptual/codingguidelines/CodingGuidelines.pdf
 * Drupal - https://drupal.org/coding-standards
 * GNU - http://www.gnu.org/prep/standards/
 * Google - https://code.google.com/p/google-styleguide/
