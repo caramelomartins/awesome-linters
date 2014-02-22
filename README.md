@@ -45,6 +45,7 @@ We hope it might be as useful to you as it is to us.
 * Mozilla - https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style
 * NetBSD - ftp://ftp.netbsd.org/pub/NetBSD/NetBSD-current/src/share/misc/style
 * OpenBSD - http://www.openbsd.org/cgi-bin/man.cgi?query=style&sektion=9
+* Python - http://legacy.python.org/dev/peps/pep-0008/
 * Wordpress - http://codex.wordpress.org/WordPress_Coding_Standards
 * Zend Framework - http://framework.zend.com/manual/1.12/en/coding-standard.html
 
