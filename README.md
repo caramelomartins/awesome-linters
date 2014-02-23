@@ -33,6 +33,14 @@ This is as much of a learning experience as a source of wisdom.
 
 We hope it might be as useful to you as it is to us.
 
+## Structure
+
+At this tiem we're are using the following structure:
+
+* [Languages.md] (https://github.com/CarameloMartins/Daemon/blob/master/Languages.md) - Coding standards for
+several languages, alphabetically ordered.
+* [Projects.md] (https://github.com/CarameloMartins/Daemon/blob/master/Projects.md) - Coding standards for
+several projects, alphabetically ordered.
 
 ## Contributions
 
