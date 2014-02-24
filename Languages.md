@@ -10,3 +10,4 @@ This file organizes coding standards by language, alphabeticallly ordered.
 * PHP (PSR-2) - http://www.php-fig.org/psr/psr-2/
 * Python - http://legacy.python.org/dev/peps/pep-0008/
 * Ruby (GitHub) - https://github.com/styleguide/ruby
+* Oracle PL SQL (Top Coder)- http://www.topcoder.com/i/development/uml/Oracle_PLSQL_Coding_Guidelines.pdf
