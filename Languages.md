@@ -3,14 +3,14 @@ Languages
 
 This file organizes coding standards by language, alphabeticallly ordered.
 
-* [Assembly] (# assembly)
-* [C++] (# c++)
-* [Java] (# java)
-* [Perl] (# perl)
-* [PHP] (# php)
-* [Python] (# python)
-* [Ruby] (# ruby)
-* [SQL] (# sql)
+* [Assembly] (#assembly)
+* [C++] (#c++)
+* [Java] (#java)
+* [Perl] (#perl)
+* [PHP] (#php)
+* [Python] (#python)
+* [Ruby] (#ruby)
+* [SQL] (#sql)
 
 ### <a name="assembly"></a> Assembly
 
