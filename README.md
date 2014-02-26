@@ -1,11 +1,14 @@
 Daemon
 ======
 
-A list of resources about coding standards/conventions.
+A list of resources about coding standards/conventions.  
 
+> A foolish consistency is the hobgoblin of little minds, adored by
+> little statesmen and philosophers and divines.
+>
+> – Ralph Waldo Emerson  
 
-## Introduction
-
+## Introduction  
 
 There is a good amount of discussion on what constitutes a good coding style and
 what practices should it enforce.
