@@ -74,6 +74,7 @@ This file organizes coding standards by language, alphabeticallly ordered.
 ### Shell
 
 * Google - http://google-styleguide.googlecode.com/svn/trunk/shell.xml
+* Fritz Mehner - http://lug.fh-swf.de/vim/vim-bash/StyleGuideShell.en.pdf
 
 ### SQL
 
