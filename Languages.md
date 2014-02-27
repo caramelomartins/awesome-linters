@@ -5,9 +5,11 @@ This file organizes coding standards by language, alphabeticallly ordered.
 
 * [Assembly] (#assembly)
 * [C++] (#c++)
+* [C-Sharp] (#c-sharp)
 * [CSS] (#css)
 * [Java] (#java)
 * [JavaScript] (#javascript)
+* [Go] (#go)
 * [HTML] (#html)
 * [Lisp] (#lisp)
 * [Objective-C] (#objective-c)
@@ -26,6 +28,11 @@ This file organizes coding standards by language, alphabeticallly ordered.
 
 * Possibility- http://www.possibility.com/Cpp/CppCodingStandard.html
 * Google - http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
+* CERN - http://pst.web.cern.ch/PST/HandBookWorkBook/Handbook/Programming/CodingStandard/c++standard.pdf
+
+### C-Sharp 
+
+* Microsoft - http://msdn.microsoft.com/en-us/library/ff926074.aspx
 
 ### CSS
 
@@ -39,6 +46,10 @@ This file organizes coding standards by language, alphabeticallly ordered.
 ### JavaScript
 
 * Google - http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+
+### Go
+
+* Effective Go (Official) - http://golang.org/doc/effective_go.html
 
 ### HTML
 
