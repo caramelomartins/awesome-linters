@@ -13,6 +13,7 @@ This file organizes coding standards by language, alphabeticallly ordered.
 * [Go] (#go)
 * [HTML] (#html)
 * [Lisp] (#lisp)
+* [Node.js] (#nodejs)
 * [Objective-C] (#objective-c)
 * [Perl] (#perl)
 * [PHP] (#php)
@@ -27,15 +28,15 @@ This file organizes coding standards by language, alphabeticallly ordered.
 
 ### <a name="c-plus"></a> C++
 
-* Possibility - http://www.possibility.com/Cpp/CppCodingStandard.html
-* Google - http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
 * CERN - http://pst.web.cern.ch/PST/HandBookWorkBook/Handbook/Programming/CodingStandard/c++standard.pdf
+* Google - http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
+* Possibility - http://www.possibility.com/Cpp/CppCodingStandard.html
 
 ### C
 
 * Apache - http://httpd.apache.org/dev/styleguide.html
-* Rob Pike (UNIX developer) - http://www.maultech.com/chrislott/resources/cstyle/pikestyle.pdf
 * Henry Spencer (The Ten Commandments for C Programmers) -          http://www.maultech.com/chrislott/resources/cstyle/ten-commandments.pdf 
+* Rob Pike (UNIX developer) - http://www.maultech.com/chrislott/resources/cstyle/pikestyle.pdf
 
 ### C-Sharp 
 
@@ -44,15 +45,17 @@ This file organizes coding standards by language, alphabeticallly ordered.
 ### CSS
 
 * Google - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
+* Wordpress - http://make.wordpress.org/core/handbook/coding-standards/css/
 
 ### Java
 
-* Sun - http://www.oracle.com/technetwork/java/codeconventions-150003.pdf
 * Google - http://google-styleguide.googlecode.com/svn/trunk/javaguide.html
+* Sun - http://www.oracle.com/technetwork/java/codeconventions-150003.pdf
 
 ### JavaScript
 
 * Google - http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+* jQuery - https://contribute.jquery.org/style-guide/js/
 
 ### Go
 
@@ -61,10 +64,15 @@ This file organizes coding standards by language, alphabeticallly ordered.
 ### HTML
 
 * Google - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
+* jQuery - https://contribute.jquery.org/style-guide/html/
 
 ### Lisp
 
 * Google - http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml
+
+### <a name="nodejs"></a> Node.js
+
+* Felix's Node.js Style Guide - https://github.com/felixge/node-style-guide
 
 ### Objective-C
 
@@ -82,8 +90,8 @@ This file organizes coding standards by language, alphabeticallly ordered.
 
 ### Python
 
-* Guido van Rossum - http://legacy.python.org/dev/peps/pep-0008/
 * Google - http://google-styleguide.googlecode.com/svn/trunk/pyguide.html
+* Guido van Rossum - http://legacy.python.org/dev/peps/pep-0008/
 
 ### Ruby
 
@@ -91,8 +99,8 @@ This file organizes coding standards by language, alphabeticallly ordered.
 
 ### Shell
 
-* Google - http://google-styleguide.googlecode.com/svn/trunk/shell.xml
 * Fritz Mehner - http://lug.fh-swf.de/vim/vim-bash/StyleGuideShell.en.pdf
+* Google - http://google-styleguide.googlecode.com/svn/trunk/shell.xml
 
 ### SQL
 
