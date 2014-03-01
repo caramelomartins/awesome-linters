@@ -34,6 +34,8 @@ This file organizes coding standards by language, alphabeticallly ordered.
 ### C
 
 * Apache - http://httpd.apache.org/dev/styleguide.html
+* Rob Pike (UNIX developer) - http://www.maultech.com/chrislott/resources/cstyle/pikestyle.pdf
+* Henry Spencer (The Ten Commandments for C Programmers) -          http://www.maultech.com/chrislott/resources/cstyle/ten-commandments.pdf 
 
 ### C-Sharp 
 
