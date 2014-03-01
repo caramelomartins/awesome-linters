@@ -3,7 +3,6 @@ Projects
 
 This file lists projects' coding standards, alphabetically ordered. Similar to 'Languages.md'.
 
-* Apache - http://httpd.apache.org/dev/styleguide.html
 * Cocoa - https://developer.apple.com/library/mac/documentation/cocoa/conceptual/codingguidelines/CodingGuidelines.pdf
 * Drupal - https://drupal.org/coding-standards
 * GNU - http://www.gnu.org/prep/standards/
