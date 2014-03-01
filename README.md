@@ -1,8 +1,6 @@
 Daemon
 ======
 
-A list of resources about coding standards/conventions.  
-
 > A foolish consistency is the hobgoblin of little minds, adored by
 > little statesmen and philosophers and divines.
 >
