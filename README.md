@@ -44,6 +44,8 @@ At this moment we're are using the following structure:
 several languages, alphabetically ordered.
 * [Projects.md] (https://github.com/CarameloMartins/Daemon/blob/master/Projects.md) - Coding standards for
 several projects, alphabetically ordered.
+* [Sources.md] (https://github.com/CarameloMartins/Daemon/blob/master/Projects.md) - Sources where we found 
+several coding standards.
 
 ## Contributions
 
