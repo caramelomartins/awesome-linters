@@ -4,6 +4,7 @@ Languages
 This file organizes coding standards by language, alphabeticallly ordered.
 
 * [Assembly] (#assembly)
+* [C] (#c)
 * [C++] (#c-plus)
 * [C-Sharp] (#c-sharp)
 * [CSS] (#css)
@@ -29,6 +30,10 @@ This file organizes coding standards by language, alphabeticallly ordered.
 * Possibility - http://www.possibility.com/Cpp/CppCodingStandard.html
 * Google - http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml
 * CERN - http://pst.web.cern.ch/PST/HandBookWorkBook/Handbook/Programming/CodingStandard/c++standard.pdf
+
+### C
+
+* Apache - http://httpd.apache.org/dev/styleguide.html
 
 ### C-Sharp 
 
