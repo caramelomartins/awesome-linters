@@ -44,6 +44,7 @@ This file organizes coding standards by language, alphabeticallly ordered.
 
 ### CSS
 
+* @mdo - http://mdo.github.io/code-guide/
 * Google - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
 * Wordpress - http://make.wordpress.org/core/handbook/coding-standards/css/
 
@@ -63,6 +64,7 @@ This file organizes coding standards by language, alphabeticallly ordered.
 
 ### HTML
 
+* @mdo - http://mdo.github.io/code-guide/
 * Google - http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml
 * jQuery - https://contribute.jquery.org/style-guide/html/
 
