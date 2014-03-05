@@ -55,7 +55,10 @@ This file organizes coding standards by language, alphabeticallly ordered.
 
 ### JavaScript
 
+* Airbnb - http://nerds.airbnb.com/our-javascript-style-guide/
+* Douglas Crockford - http://javascript.crockford.com/code.html
 * Google - http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml
+* Idiomatic.js - https://github.com/rwaldron/idiomatic.js/
 * jQuery - https://contribute.jquery.org/style-guide/js/
 
 ### Go
