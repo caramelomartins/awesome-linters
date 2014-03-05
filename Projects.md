@@ -3,8 +3,10 @@ Projects
 
 This file lists projects' coding standards, alphabetically ordered. Similar to 'Languages.md'.
 
+* Aloha Editor - http://aloha-editor.org/guides/style_guide.html
 * Android - https://source.android.com/source/code-style.html
 * Cocoa - https://developer.apple.com/library/mac/documentation/cocoa/conceptual/codingguidelines/CodingGuidelines.pdf
+* Dojo Toolkit - http://dojotoolkit.org/
 * Drupal - https://drupal.org/coding-standards
 * GNU - http://www.gnu.org/prep/standards/
 * Google - https://code.google.com/p/google-styleguide/
