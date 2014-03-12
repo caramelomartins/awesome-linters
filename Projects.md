@@ -14,8 +14,10 @@ This file lists projects' coding standards, alphabetically ordered. Similar to '
 * Linux Kernel - https://www.kernel.org/doc/Documentation/CodingStyle
 * LLVM - http://llvm.org/docs/CodingStandards.html
 * Mozilla - https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style
+* NetBeans IDE - https://netbeans.org/community/guidelines/code-conventions.html
 * NetBSD - ftp://ftp.netbsd.org/pub/NetBSD/NetBSD-current/src/share/misc/style
 * OpenBSD - http://www.openbsd.org/cgi-bin/man.cgi?query=style&sektion=9
+* PostgreSQL - http://www.postgresql.org/docs/9.3/static/source.html
 * SilverStripe Framework - http://doc.silverstripe.org/framework/en/trunk/misc/coding-conventions
 * Wordpress - http://codex.wordpress.org/WordPress_Coding_Standards
 * Zend Framework - http://framework.zend.com/manual/1.12/en/coding-standard.html
