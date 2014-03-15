@@ -45,11 +45,3 @@ several projects, alphabetically ordered.
 * [Sources.md] (https://github.com/CarameloMartins/Daemon/blob/master/Sources.md) - Sources where we found 
 several coding standards.
 
-## Contributions
-
-Contribuitions and pull requests are very welcome.
-
-We're still figuring out how to organize everything, though, so it might take some time until we accept pull requests.
-
-## Main Collaborators
-Hugo Martins & Filipe Bento
