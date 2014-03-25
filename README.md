@@ -38,10 +38,17 @@ We hope it might be as useful to you as it is to us.
 
 At this moment we're are using the following structure:
 
-|
+* coding-standards
+ * [Languages.md] (https://github.com/CarameloMartins/Daemon/blob/master/Languages.md) - Coding standards for
+   several languages, alphabetically ordered.
+ * [Projects.md] (https://github.com/CarameloMartins/Daemon/blob/master/Projects.md) - Coding standards for
+   several projects, alphabetically ordered.
+ * [Sources.md] (https://github.com/CarameloMartins/Daemon/blob/master/Sources.md) - Sources where we found 
+   several coding standards.
 
 ## TODO
 
-- [ ] Tutorial - I think a tutorial section would be a good idea. Both for languages and specific projects/subjects.
-- [ ] Debate - A section with resources that could help people better understand certain topics that are less plain.
-- [ ] Tools - A section with tools to help in the developing process.
+- Tutorial - I think a tutorial section would be a good idea. Both for languages and specific projects/subjects.
+- Debate - A section with resources that could help people better understand certain topics that are less plain.
+- Tools - A section with tools to help in the developing process.
+
