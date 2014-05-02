@@ -6,6 +6,8 @@ Daemon
 >
 > – Ralph Waldo Emerson  
 
+***\**This project is not being maintained at the moment.\*****  
+
 ## Introduction  
 
 There is a good amount of discussion on what constitutes a good coding style and
