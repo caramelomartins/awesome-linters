@@ -6,12 +6,12 @@ A curated list of resources for a more literate programming inspired by the awes
 
 ## Index
 
-* Coding Standards
-    * Languages
-    * Projects
-* Contributing
+* [Coding Standards] (#coding-standards)
+    * [Languages] (#languages)
+    * [Projects] (#projects)
+* [Contributing] (#contributing)
     
-## Coding Standards
+## <a name="coding-standards"></a> Coding Standards
 
 #### Languages
 
