@@ -11,7 +11,7 @@ A curated list of resources for a more literate programming inspired by the awes
     * [Languages] (#languages)
     * [Projects] (#projects)
 * Documentation
-* [Miscellaneous] (#iscellaneous)
+* [Miscellaneous] (#miscellaneous)
 * Papers
 * Tools
 * [Contributing] (#contributing)
