@@ -6,9 +6,13 @@ A curated list of resources for a more literate programming inspired by the awes
 
 ## Index
 
+* Books
 * [Coding Standards] (#coding-standards)
     * [Languages] (#languages)
     * [Projects] (#projects)
+* Documentation
+* Papers
+* Tools
 * [Contributing] (#contributing)
     
 ## <a name="coding-standards"></a> Coding Standards
