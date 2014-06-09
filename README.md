@@ -4,6 +4,8 @@ A curated list of resources for a more literate programming inspired by the awes
 
 ## Philosophy
 
+As programmers we face the challenge of the ever growing pool of knowledge. It seems as thoughb as soon as you learn something new, something else is starting to grow and you have to learn it.
+
 ## Index
 
 * [Books] (#books)
