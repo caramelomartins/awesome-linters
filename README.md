@@ -6,15 +6,20 @@ A curated list of resources for a more literate programming inspired by the awes
 
 ## Index
 
-* Books
+* [Books] (#books)
 * [Coding Standards] (#coding-standards)
     * [Languages] (#languages)
     * [Projects] (#projects)
 * Documentation
+* [Miscellaneous] (#iscellaneous)
 * Papers
 * Tools
 * [Contributing] (#contributing)
-    
+
+## Books
+
+* Free Programming Books - https://github.com/vhf/free-programming-books
+
 ## <a name="coding-standards"></a> Coding Standards
 
 #### Languages
@@ -147,6 +152,11 @@ A curated list of resources for a more literate programming inspired by the awes
 * SilverStripe Framework - http://doc.silverstripe.org/framework/en/trunk/misc/coding-conventions
 * Wordpress - http://codex.wordpress.org/WordPress_Coding_Standards
 * Zend Framework - http://framework.zend.com/manual/1.12/en/coding-standard.html
+
+## Miscellaneous
+
+* Frontend Development - https://github.com/dypsilon/frontend-dev-bookmarks
+* Awesome Sysadmin - https://github.com/kahun/awesome-sysadmin
 
 ## Contributing
 
