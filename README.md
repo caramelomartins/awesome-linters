@@ -11,17 +11,21 @@ This is my list of resources so I can try to keep up with my demand for learning
 ## Index
 
 * [Books] (#books)
+    * [Collections] (#book-collections)
 * [Coding Standards] (#coding-standards)
     * [Languages] (#languages)
     * [Projects] (#projects)
 * [Documentation] (#documentation)
+    * [Collections] (#docs-collections)
 * [Miscellaneous] (#miscellaneous)
 * Papers
-* Talks
+* [Talks] (#talks)
 * Tools
 * [Contributing] (#contributing)
 
 ## Books
+
+#### <a name="book-collections"></a> Collections 
 
 * Free Programming Books - https://github.com/vhf/free-programming-books
 
@@ -160,12 +164,18 @@ This is my list of resources so I can try to keep up with my demand for learning
 
 ## Documentation
 
+#### <a name="docs-collections"></a> Collections 
+
 * Beautiful Docs - https://github.com/PharkMillups/beautiful-docs
 
 ## Miscellaneous
 
 * Frontend Development - https://github.com/dypsilon/frontend-dev-bookmarks
 * Awesome Sysadmin - https://github.com/kahun/awesome-sysadmin
+
+## Talks
+
+* [Jennifer Pahlka: Coding a better government] (http://www.ted.com/talks/jennifer_pahlka_coding_a_better_government) - Can government be run like the Internet, permissionless and open?
 
 ## Contributing
 
