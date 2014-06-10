@@ -4,7 +4,9 @@ A curated list of resources for a more literate programming inspired by the awes
 
 ## Philosophy
 
-As programmers we face the challenge of the ever growing pool of knowledge. It seems as thoughb as soon as you learn something new, something else is starting to grow and you have to learn it.
+As programmers we face the challenge of the ever growing pool of knowledge. It seems as though as soon as you learn something, something else is starting to grow and you have to learn it too.
+
+This is my list of resources so I can try to keep up with my demand for learning new things. 
 
 ## Index
 
@@ -12,9 +14,10 @@ As programmers we face the challenge of the ever growing pool of knowledge. It s
 * [Coding Standards] (#coding-standards)
     * [Languages] (#languages)
     * [Projects] (#projects)
-* Documentation
+* [Documentation] (#documentation)
 * [Miscellaneous] (#miscellaneous)
 * Papers
+* Talks
 * Tools
 * [Contributing] (#contributing)
 
@@ -155,6 +158,10 @@ As programmers we face the challenge of the ever growing pool of knowledge. It s
 * Wordpress - http://codex.wordpress.org/WordPress_Coding_Standards
 * Zend Framework - http://framework.zend.com/manual/1.12/en/coding-standard.html
 
+## Documentation
+
+* Beautiful Docs - https://github.com/PharkMillups/beautiful-docs
+
 ## Miscellaneous
 
 * Frontend Development - https://github.com/dypsilon/frontend-dev-bookmarks
@@ -162,4 +169,4 @@ As programmers we face the challenge of the ever growing pool of knowledge. It s
 
 ## Contributing
 
-For mroe information see CONTRIBUTING document.
+For more information see CONTRIBUTING document.
