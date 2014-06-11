@@ -176,6 +176,7 @@ This is my list of resources so I can try to keep up with my demand for learning
 ## Talks
 
 * [Jennifer Pahlka: Coding a better government] (http://www.ted.com/talks/jennifer_pahlka_coding_a_better_government) - Can government be run like the Internet, permissionless and open?
+* [The Myth of the Genius Programmer] (https://www.youtube.com/watch?v=0SARbwvhupQ) - Brian Fitzpatrick and Ben Collins-Sussman, Google I/O 2009
 
 ## Contributing
 
