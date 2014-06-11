@@ -22,6 +22,7 @@ This is my list of resources so I can try to keep up with my demand for learning
 * [Talks] (#talks)
 * [Tools] (#tools)
    * [Markdown Editing] (#markdown-editing) 
+* [Tutorials] (#tutorials)
 * [Contributing] (#contributing)
 
 ## Books
@@ -178,6 +179,7 @@ This is my list of resources so I can try to keep up with my demand for learning
 
 * [Jennifer Pahlka: Coding a better government] (http://www.ted.com/talks/jennifer_pahlka_coding_a_better_government) - Can government be run like the Internet, permissionless and open?
 * [The Myth of the Genius Programmer] (https://www.youtube.com/watch?v=0SARbwvhupQ) - Brian Fitzpatrick and Ben Collins-Sussman, Google I/O 2009
+* [An Ode to Creative Work] (http://vimeo.com/52184081) - by Behance. A film about the opportunity, hardship and responsibility of creative work.
 
 ## Tools
 
@@ -185,6 +187,10 @@ This is my list of resources so I can try to keep up with my demand for learning
 
 * StackEdit - https://stackedit.io/
 * Gitbook Editor - https://github.com/GitbookIO/editor
+
+## Tutorials
+
+* [The definitive guide to form based website authentication] (http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication) - StackOverflow
 
 ## Contributing
 
