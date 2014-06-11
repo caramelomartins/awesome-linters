@@ -20,7 +20,8 @@ This is my list of resources so I can try to keep up with my demand for learning
 * [Miscellaneous] (#miscellaneous)
 * Papers
 * [Talks] (#talks)
-* Tools
+* [Tools] (#tools)
+   * [Markdown Editing] (#markdown-editing) 
 * [Contributing] (#contributing)
 
 ## Books
@@ -180,7 +181,7 @@ This is my list of resources so I can try to keep up with my demand for learning
 
 ## Tools
 
-#### Markdown Editing
+#### <a name="markdown-editing"></a> Markdown Editing
 
 * StackEdit - https://stackedit.io/
 * Gitbook Editor - https://github.com/GitbookIO/editor
