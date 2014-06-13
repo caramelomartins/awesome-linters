@@ -191,6 +191,8 @@ This is my list of resources so I can try to keep up with my demand for learning
 ## Tutorials
 
 * [The definitive guide to form based website authentication] (http://stackoverflow.com/questions/549/the-definitive-guide-to-form-based-website-authentication) - StackOverflow
+* [My First 5 Minutes On A Server; Or, Essential Security for Linux Servers] (http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) - Bryan Kennedy
+* [How to secure an Ubuntu 12.04 LTS server] (http://www.thefanclub.co.za/how-to/how-secure-ubuntu-1204-lts-server-part-1-basics) - The Fan Club 
 
 ## Contributing
 
