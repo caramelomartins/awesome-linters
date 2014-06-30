@@ -18,7 +18,7 @@ This is my list of resources so I can try to keep up with my demand for learning
 * [Documentation] (#documentation)
     * [Collections] (#docs-collections)
 * [Miscellaneous] (#miscellaneous)
-* Papers
+* [Papers] (#papers)
 * [Talks] (#talks)
 * [Tools] (#tools)
    * [Markdown Editing] (#markdown-editing) 
@@ -174,6 +174,10 @@ This is my list of resources so I can try to keep up with my demand for learning
 
 * Frontend Development - https://github.com/dypsilon/frontend-dev-bookmarks
 * Awesome Sysadmin - https://github.com/kahun/awesome-sysadmin
+
+## Papers
+
+* [Personal Extreme Programming – An Agile Process for Autonomous Developers] (https://research.uni-sofia.bg/bitstream/10506/647/1/S3T2009_37_YDzhurov_IKrasteva_SIlieva.pdf) - Yani Dzhurov, Iva Krasteva, and Sylvia Ilieva
 
 ## Talks
 
