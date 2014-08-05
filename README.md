@@ -10,13 +10,16 @@ This is my list of resources so I can try to keep up with my demand for learning
 
 ## Index
 
+* [Blogs/Magazines] (#blogs-Magazines)
+   * [Blogs] (#blogs)
+   * [Magazines] (#magazines)
 * [Books] (#books)
-    * [Collections] (#book-collections)
+   * [Collections] (#book-collections)
 * [Coding Standards] (#coding-standards)
-    * [Languages] (#languages)
-    * [Projects] (#projects)
+   * [Languages] (#languages)
+   * [Projects] (#projects)
 * [Documentation] (#documentation)
-    * [Collections] (#docs-collections)
+   * [Collections] (#docs-collections)
 * [Miscellaneous] (#miscellaneous)
 * [Papers] (#papers)
 * [Talks] (#talks)
@@ -24,6 +27,18 @@ This is my list of resources so I can try to keep up with my demand for learning
    * [Markdown Editing] (#markdown-editing) 
 * [Tutorials] (#tutorials)
 * [Contributing] (#contributing)
+
+## <a name="blogs-magazines"></a> Blogs/Magazines
+
+#### Blogs
+
+* Scott Hanselman - [http://www.hanselman.com/](http://www.hanselman.com/)
+* Coding Horror - [http://blog.codinghorror.com/](http://blog.codinghorror.com/)
+
+#### Magazines
+
+* Smashing Magazine - [http://www.smashingmagazine.com/](http://www.smashingmagazine.com/)
+* A List Apart - [http://alistapart.com/](http://alistapart.com/)
 
 ## Books
 
@@ -198,7 +213,10 @@ This is my list of resources so I can try to keep up with my demand for learning
 * [My First 5 Minutes On A Server; Or, Essential Security for Linux Servers] (http://plusbryan.com/my-first-5-minutes-on-a-server-or-essential-security-for-linux-servers) - Bryan Kennedy
 * [How to secure an Ubuntu 12.04 LTS server] (http://www.thefanclub.co.za/how-to/how-secure-ubuntu-1204-lts-server-part-1-basics) - The Fan Club 
 * [How to Lose Weight in the Browser] (http://browserdiet.com/en/)
+* [What Great .NET Developers Ought To Know (More .NET Interview Questions)](http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx) - Scott Hanselman
 
 ## Contributing
 
-For more information see CONTRIBUTING document.
+Contributing is pretty easy. If you think it's a resource that could possibly improve your knowledge or help you to better your skills, just add a pull request. 
+
+The only rule is: keep it organized.
