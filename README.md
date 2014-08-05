@@ -202,6 +202,8 @@ This is my list of resources so I can try to keep up with my demand for learning
 
 ## Tools
 
+* [Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
+
 #### <a name="markdown-editing"></a> Markdown Editing
 
 * StackEdit - https://stackedit.io/
