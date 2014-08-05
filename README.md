@@ -217,6 +217,6 @@ This is my list of resources so I can try to keep up with my demand for learning
 
 ## Contributing
 
-Contributing is pretty easy. If you think it's a resource that could possibly improve your knowledge or help you to better your skills, just add a pull request. 
+Contributing is pretty easy. If you think it's a resource that could possibly improve your knowledge or help you to better your skills, or if it's something that could improve the project, just add a pull request.
 
 The only rule is: keep it organized.
