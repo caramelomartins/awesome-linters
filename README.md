@@ -184,7 +184,7 @@ This is my list of resources so I can try to keep up with my demand for learning
 ## Documentaries
 
 * [The Internet's Own Boy: The Story of Aaron Swartz] (https://www.youtube.com/watch?v=vXr-2hwTk58)
-* [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary] - (https://www.youtube.com/watch?v=4Q7FTjhvZ7Y)~
+* [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary] (https://www.youtube.com/watch?v=4Q7FTjhvZ7Y)~
 
 ## Documentation
 
