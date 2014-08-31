@@ -18,12 +18,14 @@ This is my list of resources so I can try to keep up with my demand for learning
 * [Coding Standards] (#coding-standards)
    * [Languages] (#languages)
    * [Projects] (#projects)
+* [Documentaries] (#documentaries)
 * [Documentation] (#documentation)
    * [Collections] (#docs-collections)
 * [Miscellaneous] (#miscellaneous)
 * [Papers] (#papers)
 * [Talks] (#talks)
 * [Tools] (#tools)
+*  * [Collectiongs] (#tool-collections)
    * [Markdown Editing] (#markdown-editing) 
 * [Tutorials] (#tutorials)
 * [Contributing] (#contributing)
@@ -179,6 +181,11 @@ This is my list of resources so I can try to keep up with my demand for learning
 * Wordpress - http://codex.wordpress.org/WordPress_Coding_Standards
 * Zend Framework - http://framework.zend.com/manual/1.12/en/coding-standard.html
 
+## Documentaries
+
+* [The Internet's Own Boy: The Story of Aaron Swartz] (https://www.youtube.com/watch?v=vXr-2hwTk58)
+* [Project Code Rush - The Beginnings of Netscape / Mozilla Documentary] - (https://www.youtube.com/watch?v=4Q7FTjhvZ7Y)~
+
 ## Documentation
 
 #### <a name="docs-collections"></a> Collections 
@@ -192,6 +199,7 @@ This is my list of resources so I can try to keep up with my demand for learning
 
 ## Papers
 
+* [Services Engineering Reading List] (https://github.com/mmcgrana/services-engineering)
 * [Personal Extreme Programming – An Agile Process for Autonomous Developers] (https://research.uni-sofia.bg/bitstream/10506/647/1/S3T2009_37_YDzhurov_IKrasteva_SIlieva.pdf) - Yani Dzhurov, Iva Krasteva, and Sylvia Ilieva
 
 ## Talks
@@ -202,7 +210,10 @@ This is my list of resources so I can try to keep up with my demand for learning
 
 ## Tools
 
+#### <a name="tool-collection"></a> Collections
+
 * [Scott Hanselman's 2014 Ultimate Developer and Power Users Tool List for Windows](http://www.hanselman.com/blog/ScottHanselmans2014UltimateDeveloperAndPowerUsersToolListForWindows.aspx)
+* [Awesome Sysadmin] (https://github.com/kahun/awesome-sysadmin)
 
 #### <a name="markdown-editing"></a> Markdown Editing
 
