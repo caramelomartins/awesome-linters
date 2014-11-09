@@ -228,6 +228,7 @@ This is my list of resources so I can try to keep up with my demand for learning
 * [How to secure an Ubuntu 12.04 LTS server] (http://www.thefanclub.co.za/how-to/how-secure-ubuntu-1204-lts-server-part-1-basics) - The Fan Club 
 * [How to Lose Weight in the Browser] (http://browserdiet.com/en/)
 * [What Great .NET Developers Ought To Know (More .NET Interview Questions)](http://www.hanselman.com/blog/WhatGreatNETDevelopersOughtToKnowMoreNETInterviewQuestions.aspx) - Scott Hanselman
+* [BasicSecurity](https://wiki.ubuntu.com/BasicSecurity) - Ubuntu Wiki
 
 ## Contributing
 
