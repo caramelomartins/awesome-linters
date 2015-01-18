@@ -25,8 +25,8 @@ This is my list of resources so I can try to keep up with my demand for learning
 * [Papers] (#papers)
 * [Talks] (#talks)
 * [Tools] (#tools)
-*  * [Collectiongs] (#tool-collections)
-   * [Markdown Editing] (#markdown-editing) 
+  * [Collections] (#tool-collections)
+  * [Markdown Editing] (#markdown-editing) 
 * [Tutorials] (#tutorials)
 * [Contributing] (#contributing)
 
@@ -196,6 +196,7 @@ This is my list of resources so I can try to keep up with my demand for learning
 
 * Frontend Development - https://github.com/dypsilon/frontend-dev-bookmarks
 * Awesome Sysadmin - https://github.com/kahun/awesome-sysadmin
+* Awesome Lists - https://github.com/sindresorhus/awesome
 
 ## Papers
 
