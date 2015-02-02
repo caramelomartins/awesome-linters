@@ -175,7 +175,7 @@ As a lone programmer one can sometimes forget the importance of writing well str
 
 ##### Go
 
-* [golang] - (https://github.com/golang/lint)
+* [golang](https://github.com/golang/lint)
 
 ##### Haskell
 
