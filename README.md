@@ -13,6 +13,9 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [Coding Standards] (#coding-standards)
    * [Languages] (#languages)
    * [Projects] (#projects)
+* [Linters] (#linters)
+* [Contribution Guidelines] (#contribution-guidelines)
+* [Main Contributors] (#main-contributors)
 
 ## <a name="coding-standards"></a> Coding Standards
 
@@ -147,11 +150,75 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [Wordpress](http://codex.wordpress.org/WordPress_Coding_Standards)
 * [Zend Framework](http://framework.zend.com/manual/1.12/en/coding-standard.html)
 
-## Contributing
+## <a name="linters"></a> Linters
+
+##### CoffeScript
+
+* [coffeelint](https://github.com/clutchski/coffeelint)
+
+##### C
+
+* [oclint](https://github.com/oclint/oclint)
+
+##### C++
+
+* [oclint](https://github.com/oclint/oclint)
+
+##### CSS
+
+* [csslint](https://github.com/CSSLint/csslint)
+* [csscomb](https://github.com/csscomb/csscomb.js)
+
+##### Erlang
+
+* [elvis](https://github.com/inaka/elvis)
+
+##### Go
+
+* [golang] - (https://github.com/golang/lint)
+
+##### Haskell
+
+* [hlint](https://github.com/ndmitchell/hlint)
+
+##### HTML
+
+* [HTMLHint](https://github.com/yaniswang/HTMLHint)
+
+##### JavaScript
+
+* [eslint](https://github.com/eslint/eslint)
+* [jshint](https://github.com/jshint/jshint)
+
+##### Objective-C
+
+* [oclint](https://github.com/oclint/oclint)
+
+##### Puppet
+
+* [puppet-lint](https://github.com/rodjek/puppet-lint)
+
+##### Python
+
+* [pep8](https://github.com/jcrocholl/pep8)
+
+##### Ruby
+
+* [rubocop](https://github.com/bbatsov/rubocop)
+
+##### Sass
+
+* [scss-lint](https://github.com/causes/scss-lint)
+
+##### Shell
+
+* [shellcheck](https://github.com/koalaman/shellcheck)
+
+## <a name="contributing-guidelines"></a> Contributing
 
 The only rule is: [keep it organized](https://github.com/CarameloMartins/awesome-lint/blob/master/CONTRIBUTING.md). 
 
-## Main Contributors
+## <a name="main-contributors"></a> Main Contributors
 
 * [FilipeBento](https://github.com/FilipeBento)
 * [f-apolinario](https://github.com/f-apolinario)
