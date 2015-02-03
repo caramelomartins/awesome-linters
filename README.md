@@ -64,6 +64,7 @@ As a lone programmer one can sometimes forget the importance of writing well str
 
 * [@mdo](http://mdo.github.io/code-guide/)
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+* [rscss](https://github.com/rstacruz/rscss)
 * [Wordpress](http://make.wordpress.org/core/handbook/coding-standards/css/)
 
 ##### Java
