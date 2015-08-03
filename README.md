@@ -146,7 +146,6 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [LLVM](http://llvm.org/docs/CodingStandards.html)
 * [Mozilla](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style)
 * [NetBeans IDE](https://netbeans.org/community/guidelines/code-conventions.html)
-* [NetBSD](ftp://ftp.netbsd.org/pub/NetBSD/NetBSD-current/src/share/misc/style)
 * [OpenBSD](http://www.openbsd.org/cgi-bin/man.cgi?query=style&sektion=9)
 * [PostgreSQL](http://www.postgresql.org/docs/9.3/static/source.html)
 * [SilverStripe Framework](http://doc.silverstripe.org/framework/en/trunk/misc/coding-conventions)
