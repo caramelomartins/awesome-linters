@@ -26,6 +26,7 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [C++] (#c-plus)
 * [C-Sharp] (#c-sharp)
 * [CSS] (#css)
+* [Erlang] (#erlang)
 * [Java] (#java)
 * [JavaScript] (#javascript)
 * [Go] (#go)
@@ -53,10 +54,10 @@ As a lone programmer one can sometimes forget the importance of writing well str
 ##### C
 
 * [Apache](http://httpd.apache.org/dev/styleguide.html)
-* [Henry Spencer (The Ten Commandments for C Programmers)](http://www.maultech.com/chrislott/resources/cstyle/ten-commandments.pdf) 
+* [Henry Spencer (The Ten Commandments for C Programmers)](http://www.maultech.com/chrislott/resources/cstyle/ten-commandments.pdf)
 * [Rob Pike (UNIX developer)](http://www.maultech.com/chrislott/resources/cstyle/pikestyle.pdf)
 
-##### C-Sharp 
+##### C-Sharp
 
 * [Microsoft](http://msdn.microsoft.com/en-us/library/ff926074.aspx)
 
@@ -66,6 +67,7 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
 * [rscss](https://github.com/rstacruz/rscss)
 * [Wordpress](http://make.wordpress.org/core/handbook/coding-standards/css/)
+* [csslint](https://github.com/CSSLint/csslint)
 
 ##### Java
 
@@ -175,6 +177,10 @@ As a lone programmer one can sometimes forget the importance of writing well str
 
 * [elvis](https://github.com/inaka/elvis)
 
+##### Java
+
+* [checkstyle](https://github.com/checkstyle/checkstyle)
+
 ##### Go
 
 * [golang](https://github.com/golang/lint)
@@ -191,6 +197,8 @@ As a lone programmer one can sometimes forget the importance of writing well str
 
 * [eslint](https://github.com/eslint/eslint)
 * [jshint](https://github.com/jshint/jshint)
+* [node-jscs](https://github.com/jscs-dev/node-jscs)
+* [standard](https://github.com/feross/standard)
 
 ##### Objective-C
 
@@ -218,7 +226,7 @@ As a lone programmer one can sometimes forget the importance of writing well str
 
 ## <a name="contribution-guidelines"></a> Contributing
 
-The only rule is: [keep it organized](https://github.com/CarameloMartins/awesome-lint/blob/master/CONTRIBUTING.md). 
+The only rule is: [keep it organized](https://github.com/CarameloMartins/awesome-lint/blob/master/CONTRIBUTING.md).
 
 ## <a name="main-contributors"></a> Main Contributors
 
