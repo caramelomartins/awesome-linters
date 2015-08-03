@@ -229,5 +229,6 @@ The only rule is: [keep it organized](https://github.com/CarameloMartins/awesome
 
 ## <a name="main-contributors"></a> Main Contributors
 
+* [Hugo Martins](http://github.com/CarameloMartins)
 * [FilipeBento](https://github.com/FilipeBento)
 * [f-apolinario](https://github.com/f-apolinario)
