@@ -25,21 +25,32 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [C] (#c)
 * [C++] (#c-plus)
 * [C-Sharp] (#c-sharp)
+* [Clojure]
 * [CSS] (#css)
 * [Erlang] (#erlang)
 * [Java] (#java)
 * [JavaScript] (#javascript)
 * [Go] (#go)
+* [Groovy]
+* [Haskell] (#haskell)
 * [HTML] (#html)
+* [Lua]
 * [Lisp] (#lisp)
 * [Node.js] (#nodejs)
 * [Objective-C] (#objective-c)
 * [Perl] (#perl)
 * [PHP] (#php)
+* [PowerShell]
 * [Python] (#python)
+* [R] (#r)
 * [Ruby] (#ruby)
+* [Rust]
+* [Scala]
 * [Shell] (#shell)
 * [SQL] (#sql)
+* [Swift]
+* [TeX] (#tex)
+* [VimL] (#viml)
 
 ##### Assembly
 
@@ -86,6 +97,8 @@ As a lone programmer one can sometimes forget the importance of writing well str
 
 * [Effective Go (Official)](http://golang.org/doc/effective_go.html)
 
+##### Haskell
+
 ##### HTML
 
 * [@mdo](http://mdo.github.io/code-guide/)
@@ -119,9 +132,17 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
 * [Guido van Rossum](http://legacy.python.org/dev/peps/pep-0008/)
 
+##### R
+
+* [jefworks](http://jefworks.github.io/R-style-guide/)
+* [Google](https://google.github.io/styleguide/Rguide.xml)
+* [Advanced R](http://adv-r.had.co.nz/Style.html)
+
 ##### Ruby
 
 * [GitHub](https://github.com/styleguide/ruby)
+
+##### Scala
 
 ##### Shell
 
@@ -131,6 +152,17 @@ As a lone programmer one can sometimes forget the importance of writing well str
 ##### SQL
 
 * [Top Coder](http://www.topcoder.com/i/development/uml/Oracle_PLSQL_Coding_Guidelines.pdf)
+
+##### Swift
+
+
+##### TeX
+
+* [Didier Verna](http://www.tug.org/TUGboat/tb32-3/tb102verna.pdf)
+
+##### VimL
+
+* [Google](http://google.github.io/styleguide/vimscriptguide.xml)
 
 ### Projects
 
