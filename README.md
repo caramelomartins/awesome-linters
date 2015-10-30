@@ -26,6 +26,7 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [C++] (#c-plus)
 * [C-Sharp] (#c-sharp)
 * [Clojure]
+* [CommonMark]
 * [CSS] (#css)
 * [Erlang] (#erlang)
 * [Java] (#java)
