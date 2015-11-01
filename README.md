@@ -25,31 +25,30 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [C] (#c)
 * [C++] (#c-plus)
 * [C-Sharp] (#c-sharp)
-* [Clojure]
-* [CommonMark]
+* [Clojure] (#clojure)
+* [CommonMark] (#commonmark)
 * [CSS] (#css)
 * [Erlang] (#erlang)
 * [Java] (#java)
 * [JavaScript] (#javascript)
 * [Go] (#go)
-* [Groovy]
+* [Groovy] (#groovy)
 * [Haskell] (#haskell)
 * [HTML] (#html)
-* [Lua]
 * [Lisp] (#lisp)
+* [Lua] (#lua)
 * [Node.js] (#nodejs)
 * [Objective-C] (#objective-c)
 * [Perl] (#perl)
 * [PHP] (#php)
-* [PowerShell]
+* [PowerShell] (#powershell)
 * [Python] (#python)
 * [R] (#r)
 * [Ruby] (#ruby)
-* [Rust]
-* [Scala]
+* [Scala] (#scala)
 * [Shell] (#shell)
 * [SQL] (#sql)
-* [Swift]
+* [Swift] (#swift)
 * [TeX] (#tex)
 * [VimL] (#viml)
 
@@ -72,6 +71,14 @@ As a lone programmer one can sometimes forget the importance of writing well str
 ##### C-Sharp
 
 * [Microsoft](http://msdn.microsoft.com/en-us/library/ff926074.aspx)
+
+##### Clojure
+
+* [Clojure Development](http://dev.clojure.org/display/community/Library+Coding+Standards)
+
+##### CommonMark
+
+* [CommonMark Spec](http://spec.commonmark.org/)
 
 ##### CSS
 
@@ -98,7 +105,13 @@ As a lone programmer one can sometimes forget the importance of writing well str
 
 * [Effective Go (Official)](http://golang.org/doc/effective_go.html)
 
+##### Groovy
+
+* [Official Groovy](http://www.groovy-lang.org/style-guide.html)
+
 ##### Haskell
+
+* [Official Haskell](https://wiki.haskell.org/Programming_guidelines)
 
 ##### HTML
 
@@ -109,6 +122,11 @@ As a lone programmer one can sometimes forget the importance of writing well str
 ##### Lisp
 
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
+
+##### Lua
+
+* [Official Lua](http://lua-users.org/wiki/LuaStyleGuide)
+* [Olivine Labs](https://github.com/Olivine-Labs/lua-style-guide)
 
 ##### <a name="nodejs"></a> Node.js
 
@@ -128,6 +146,10 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [PSR-1](http://www.php-fig.org/psr/psr-1/)
 * [PSR-2](http://www.php-fig.org/psr/psr-2/)
 
+##### PowerShell
+
+* [PoshCode](https://github.com/PoshCode/PowerShellPracticeAndStyle)
+
 ##### Python
 
 * [Google](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
@@ -145,6 +167,10 @@ As a lone programmer one can sometimes forget the importance of writing well str
 
 ##### Scala
 
+* [Official Scala](http://docs.scala-lang.org/style/)
+* [PayPal](https://github.com/paypal/scala-style-guide)
+* [DataBricks](https://github.com/databricks/scala-style-guide)
+
 ##### Shell
 
 * [Fritz Mehner](http://lug.fh-swf.de/vim/vim-bash/StyleGuideShell.en.pdf)
@@ -156,6 +182,9 @@ As a lone programmer one can sometimes forget the importance of writing well str
 
 ##### Swift
 
+* [Ray Wenderlich](https://github.com/raywenderlich/swift-style-guide)
+* [Github](https://github.com/github/swift-style-guide)
+* [Coursera](https://github.com/coursera/swift-style-guide)
 
 ##### TeX
 
