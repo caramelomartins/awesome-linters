@@ -17,6 +17,10 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [Contribution Guidelines] (#contribution-guidelines)
 * [Main Contributors] (#main-contributors)
 
+## Roadmap
+* Add a dynamic off-line website with searching capabilities to it to be able to search it with ease.
+* Add the links to projects homepages if they exist and support for direct download of latest releases of each linter.
+
 ## <a name="coding-standards"></a> Coding Standards
 
 #### Languages
