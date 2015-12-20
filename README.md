@@ -198,26 +198,6 @@ As a lone programmer one can sometimes forget the importance of writing well str
 
 * [Google](http://google.github.io/styleguide/vimscriptguide.xml)
 
-### Projects
-
-* [Aloha Editor](http://aloha-editor.org/guides/style_guide.html)
-* [Android](https://source.android.com/source/code-style.html)
-* [CakePHP](http://book.cakephp.org/2.0/en/contributing/cakephp-coding-conventions.html)
-* [Cocoa](https://developer.apple.com/library/mac/documentation/cocoa/conceptual/codingguidelines/CodingGuidelines.pdf)
-* [Dojo Toolkit](http://dojotoolkit.org/)
-* [Drupal](https://drupal.org/coding-standards)
-* [GNU](http://www.gnu.org/prep/standards/)
-* [Google](https://code.google.com/p/google-styleguide/)
-* [Linux Kernel](https://www.kernel.org/doc/Documentation/CodingStyle)
-* [LLVM](http://llvm.org/docs/CodingStandards.html)
-* [Mozilla](https://developer.mozilla.org/en-US/docs/Developer_Guide/Coding_Style)
-* [NetBeans IDE](https://netbeans.org/community/guidelines/code-conventions.html)
-* [OpenBSD](http://www.openbsd.org/cgi-bin/man.cgi?query=style&sektion=9)
-* [PostgreSQL](http://www.postgresql.org/docs/9.3/static/source.html)
-* [SilverStripe Framework](http://doc.silverstripe.org/framework/en/trunk/misc/coding-conventions)
-* [Wordpress](http://codex.wordpress.org/WordPress_Coding_Standards)
-* [Zend Framework](http://framework.zend.com/manual/1.12/en/coding-standard.html)
-
 ## <a name="linters"></a> Linters
 
 ##### CoffeScript
@@ -238,6 +218,10 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [csscomb](https://github.com/csscomb/csscomb.js)
 * [ie8linter](https://github.com/israelidanny/ie8linter)
 
+##### Dart
+
+* [linter](https://github.com/dart-lang/linter)
+
 ##### Erlang
 
 * [elvis](https://github.com/inaka/elvis)
@@ -257,6 +241,7 @@ As a lone programmer one can sometimes forget the importance of writing well str
 ##### HTML
 
 * [HTMLHint](https://github.com/yaniswang/HTMLHint)
+* [bootlint](https://github.com/twbs/bootlint)
 
 ##### JavaScript
 
@@ -264,6 +249,10 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [jshint](https://github.com/jshint/jshint)
 * [node-jscs](https://github.com/jscs-dev/node-jscs)
 * [standard](https://github.com/feross/standard)
+
+##### Lua
+
+* [lualint](https://github.com/philips/lualint)
 
 ##### Objective-C
 
