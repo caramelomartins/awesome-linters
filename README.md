@@ -16,10 +16,7 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [Linters] (#linters)
 * [Contribution Guidelines] (#contribution-guidelines)
 * [Main Contributors] (#main-contributors)
-
-## Roadmap
-* [ ] Add a dynamic off-line website with searching capabilities to it to be able to search it with ease.
-* [ ] Add the links to projects homepages if they exist and support for direct download of latest releases of each linter.
+* [Roadmap] (#roadmap)
 
 ## <a name="coding-standards"></a> Coding Standards
 
@@ -290,3 +287,7 @@ The only rule is: [keep it organized](https://github.com/CarameloMartins/awesome
 
 ## License
 [unlicense](https://github.com/CarameloMartins/awesome-lint/blob/master/LICENSE.md)
+
+## Roadmap
+* [ ] Add a dynamic off-line website with searching capabilities to it to be able to search it with ease.
+* [ ] Add the links to projects homepages if they exist and support for direct download of latest releases of each linter.
