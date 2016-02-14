@@ -285,10 +285,5 @@ The only rule is: [keep it organized](https://github.com/CarameloMartins/awesome
 * [FilipeBento](https://github.com/FilipeBento)
 * [f-apolinario](https://github.com/f-apolinario)
 
-## Roadmap
-* [ ] Add a dynamic off-line website with searching capabilities to it to be able to search it with ease.
-* [ ] Add the links to projects homepages if they exist and support for direct download of latest releases of each linter.
-
 ## License
 [unlicense](https://github.com/CarameloMartins/awesome-lint/blob/master/LICENSE.md)
-
