@@ -16,7 +16,6 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [Linters] (#linters)
 * [Contribution Guidelines] (#contribution-guidelines)
 * [Main Contributors] (#main-contributors)
-* [Roadmap] (#roadmap)
 
 ## <a name="coding-standards"></a> Coding Standards
 
