@@ -276,13 +276,16 @@ As a lone programmer one can sometimes forget the importance of writing well str
 
 ## <a name="contribution-guidelines"></a> Contributing
 
+Contributions are very welcome! Create a new pull request, solve a bug or grab an issue that is currently unassigned!
+
 The only rule is: [keep it organized](https://github.com/CarameloMartins/awesome-lint/blob/master/CONTRIBUTING.md).
 
 ## <a name="main-contributors"></a> Main Contributors
 
 * [Hugo Martins](http://github.com/CarameloMartins)
 * [FilipeBento](https://github.com/FilipeBento)
-* [f-apolinario](https://github.com/f-apolinario)
+
+Thanks to [everyone](graphs/contributors) that helped!
 
 ## License
-[unlicense](https://github.com/CarameloMartins/awesome-lint/blob/master/LICENSE.md)
+[unlicense](LICENSE.md)
