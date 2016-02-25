@@ -289,7 +289,7 @@ The only rule is: [keep it organized](https://github.com/CarameloMartins/awesome
 * [Hugo Martins](http://github.com/CarameloMartins)
 * [FilipeBento](https://github.com/FilipeBento)
 
-Thanks to [everyone](graphs/contributors) that helped!
+Thanks to [everyone](https://github.com/caramelomartins/awesome-lint/graphs/contributors) that helped!
 
 ## License
 [unlicense](LICENSE.md)
