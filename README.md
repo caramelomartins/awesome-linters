@@ -274,6 +274,10 @@ As a lone programmer one can sometimes forget the importance of writing well str
 
 * [shellcheck](https://github.com/koalaman/shellcheck)
 
+##### TypeScript
+
+* [tslint](https://github.com/palantir/tslint)
+
 ## <a name="contribution-guidelines"></a> Contributing
 
 The only rule is: [keep it organized](https://github.com/CarameloMartins/awesome-lint/blob/master/CONTRIBUTING.md).
