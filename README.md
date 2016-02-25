@@ -274,6 +274,10 @@ As a lone programmer one can sometimes forget the importance of writing well str
 
 * [shellcheck](https://github.com/koalaman/shellcheck)
 
+##### TypeScript
+
+* [tslint](https://github.com/palantir/tslint)
+
 ## <a name="contribution-guidelines"></a> Contributing
 
 Contributions are very welcome! Create a new pull request, solve a bug or grab an issue that is currently unassigned!
