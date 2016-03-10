@@ -213,6 +213,7 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [csslint](https://github.com/CSSLint/csslint)
 * [csscomb](https://github.com/csscomb/csscomb.js)
 * [ie8linter](https://github.com/israelidanny/ie8linter)
+* [stylelint](http://stylelint.io)
 
 ##### Dart
 
