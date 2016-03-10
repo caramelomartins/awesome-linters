@@ -214,6 +214,12 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [csscomb](https://github.com/csscomb/csscomb.js)
 * [ie8linter](https://github.com/israelidanny/ie8linter)
 
+##### CommonMark
+
+* [markdownlint](https://github.com/DavidAnson/markdownlint)
+* [mdl](https://github.com/mivok/markdownlint)
+* [remark-lint](https://github.com/wooorm/remark-lint)
+
 ##### Dart
 
 * [linter](https://github.com/dart-lang/linter)
