@@ -16,7 +16,7 @@ successfulness of a project.
 
 * [Coding Standards] (#coding-standards)
 * [Linters] (#linters)
-* [Contribution Guidelines] (#contributig)
+* [Contribution Guidelines] (#contributing)
 * [Main Contributors] (#main-contributors)
 
 ## Coding Standards
@@ -265,7 +265,7 @@ The only rule is: [keep it organized](https://github.com/CarameloMartins/awesome
 ## Main Contributors
 
 * [Hugo Martins](http://github.com/CarameloMartins)
-    * [FilipeBento](https://github.com/FilipeBento)
+* [FilipeBento](https://github.com/FilipeBento)
 
 Thanks to [everyone](https://github.com/caramelomartins/awesome-lint/graphs/contributors)
 that helped!
