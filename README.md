@@ -1,303 +1,275 @@
 # Awesome Lint
 
-> A foolish consistency is the hobgoblin of little minds, adored by little statesmen and philosophers and divines.
+> A foolish consistency is the hobgoblin of little minds, adored by little
+> statesmen and philosophers and divines.
 >
 > – Ralph Waldo Emerson
 
 ## Philosophy
 
-As a lone programmer one can sometimes forget the importance of writing well structured, easy-to-maintain code. When working in teams, be it small or large ones, or developing open source software, coding standards can determine the successfulness of a project.
+As a lone programmer one can sometimes forget the importance of writing well
+structured, easy-to-maintain code. When working in teams, be it small or large
+ones, or developing open source software, coding standards can determine the
+successfulness of a project.
 
 ## Table of Contents
 
-* [Coding Standards] (#coding-standards)
-   * [Languages] (#languages)
-   * [Projects] (#projects)
-* [Linters] (#linters)
-* [Contribution Guidelines] (#contribution-guidelines)
-* [Main Contributors] (#main-contributors)
+    * [Coding Standards] (#coding-standards)
+    * [Linters] (#linters)
+    * [Contribution Guidelines] (#contributig)
+    * [Main Contributors] (#main-contributors)
 
-## <a name="coding-standards"></a> Coding Standards
+## Coding Standards
 
-#### Languages
+### Assembly
 
-* [Assembly] (#assembly)
-* [C] (#c)
-* [C++] (#c-plus)
-* [C-Sharp] (#c-sharp)
-* [Clojure] (#clojure)
-* [CSS] (#css)
-* [Erlang] (#erlang)
-* [Java] (#java)
-* [JavaScript] (#javascript)
-* [Go] (#go)
-* [Groovy] (#groovy)
-* [Haskell] (#haskell)
-* [HTML] (#html)
-* [Lisp] (#lisp)
-* [Lua] (#lua)
-* [Markdown] (#markdown)
-* [Node.js] (#nodejs)
-* [Objective-C] (#objective-c)
-* [Perl] (#perl)
-* [PHP] (#php)
-* [PowerShell] (#powershell)
-* [Python] (#python)
-* [R] (#r)
-* [Ruby] (#ruby)
-* [Scala] (#scala)
-* [Shell] (#shell)
-* [SQL] (#sql)
-* [Swift] (#swift)
-* [TeX] (#tex)
-* [VimL] (#viml)
+    * [Randall Hyde](http://www.sourceformat.com/coding-standard-asm-style.htm)
 
-##### Assembly
+### C++
 
-* [Randall Hyde](http://www.sourceformat.com/coding-standard-asm-style.htm)
+    * [CERN](http://pst.web.cern.ch/PST/HandBookWorkBook/Handbook/Programming/CodingStandard/c++standard.pdf)
+    * [Google](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
+    * [Possibility](http://www.possibility.com/Cpp/CppCodingStandard.html)
 
-##### <a name="c-plus"></a> C++
+### C
 
-* [CERN](http://pst.web.cern.ch/PST/HandBookWorkBook/Handbook/Programming/CodingStandard/c++standard.pdf)
-* [Google](http://google-styleguide.googlecode.com/svn/trunk/cppguide.xml)
-* [Possibility](http://www.possibility.com/Cpp/CppCodingStandard.html)
+    * [Apache](http://httpd.apache.org/dev/styleguide.html)
+    * [Henry Spencer (The Ten Commandments for C Programmers)](http://www.maultech.com/chrislott/resources/cstyle/ten-commandments.pdf)
+    * [Rob Pike (UNIX developer)](http://www.maultech.com/chrislott/resources/cstyle/pikestyle.pdf)
 
-##### C
+### C-Sharp
 
-* [Apache](http://httpd.apache.org/dev/styleguide.html)
-* [Henry Spencer (The Ten Commandments for C Programmers)](http://www.maultech.com/chrislott/resources/cstyle/ten-commandments.pdf)
-* [Rob Pike (UNIX developer)](http://www.maultech.com/chrislott/resources/cstyle/pikestyle.pdf)
+    * [Microsoft](http://msdn.microsoft.com/en-us/library/ff926074.aspx)
 
-##### C-Sharp
+### Clojure
 
-* [Microsoft](http://msdn.microsoft.com/en-us/library/ff926074.aspx)
+    * [Clojure Development](http://dev.clojure.org/display/community/Library+Coding+Standards)
 
-##### Clojure
+### CSS
 
-* [Clojure Development](http://dev.clojure.org/display/community/Library+Coding+Standards)
+    * [@mdo](http://mdo.github.io/code-guide/)
+    * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+    * [rscss](https://github.com/rstacruz/rscss)
+    * [Wordpress](http://make.wordpress.org/core/handbook/coding-standards/css/)
+    * [csslint](https://github.com/CSSLint/csslint)
 
-##### CSS
+### Java
 
-* [@mdo](http://mdo.github.io/code-guide/)
-* [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-* [rscss](https://github.com/rstacruz/rscss)
-* [Wordpress](http://make.wordpress.org/core/handbook/coding-standards/css/)
-* [csslint](https://github.com/CSSLint/csslint)
+    * [Google](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
+    * [Sun](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
 
-##### Java
+### JavaScript
 
-* [Google](http://google-styleguide.googlecode.com/svn/trunk/javaguide.html)
-* [Sun](http://www.oracle.com/technetwork/java/codeconventions-150003.pdf)
+    * [Airbnb](http://nerds.airbnb.com/our-javascript-style-guide/)
+    * [Douglas Crockford](http://javascript.crockford.com/code.html)
+    * [Google](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
+    * [Idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
+    * [jQuery](https://contribute.jquery.org/style-guide/js/)
 
-##### JavaScript
+### Go
 
-* [Airbnb](http://nerds.airbnb.com/our-javascript-style-guide/)
-* [Douglas Crockford](http://javascript.crockford.com/code.html)
-* [Google](http://google-styleguide.googlecode.com/svn/trunk/javascriptguide.xml)
-* [Idiomatic.js](https://github.com/rwaldron/idiomatic.js/)
-* [jQuery](https://contribute.jquery.org/style-guide/js/)
+    * [Effective Go (Official)](http://golang.org/doc/effective_go.html)
 
-##### Go
+### Groovy
 
-* [Effective Go (Official)](http://golang.org/doc/effective_go.html)
+    * [Official Groovy](http://www.groovy-lang.org/style-guide.html)
 
-##### Groovy
+### Haskell
 
-* [Official Groovy](http://www.groovy-lang.org/style-guide.html)
+    * [Official Haskell](https://wiki.haskell.org/Programming_guidelines)
 
-##### Haskell
+### HTML
 
-* [Official Haskell](https://wiki.haskell.org/Programming_guidelines)
+    * [@mdo](http://mdo.github.io/code-guide/)
+    * [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+    * [jQuery](https://contribute.jquery.org/style-guide/html/)
 
-##### HTML
+### Lisp
 
-* [@mdo](http://mdo.github.io/code-guide/)
-* [Google](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-* [jQuery](https://contribute.jquery.org/style-guide/html/)
+    * [Google](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
 
-##### Lisp
+### Lua
 
-* [Google](http://google-styleguide.googlecode.com/svn/trunk/lispguide.xml)
+    * [Official Lua](http://lua-users.org/wiki/LuaStyleGuide)
+    * [Olivine Labs](https://github.com/Olivine-Labs/lua-style-guide)
 
-##### Lua
+### Node.js
 
-* [Official Lua](http://lua-users.org/wiki/LuaStyleGuide)
-* [Olivine Labs](https://github.com/Olivine-Labs/lua-style-guide)
+    * [Felix's Node.js Style Guide](https://github.com/felixge/node-style-guide)
 
-##### Markdown
+### Markdown
 
-* [John Gruber's Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax)
-* [CommonMark Spec](http://spec.commonmark.org/)
+    * [John Gruber's Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax)
+    * [CommonMark Spec](http://spec.commonmark.org/)
 
-##### <a name="nodejs"></a> Node.js
+### Objective-C
 
-* [Felix's Node.js Style Guide](https://github.com/felixge/node-style-guide)
+    * [Google](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
 
-##### Objective-C
+### Perl
 
-* [Google](http://google-styleguide.googlecode.com/svn/trunk/objcguide.xml)
+    * [PerlDoc](http://perldoc.perl.org/perlstyle.html)
 
-##### Perl
+### PHP
 
-* [PerlDoc](http://perldoc.perl.org/perlstyle.html)
+    * [Pear](http://pear.php.net/manual/en/standards.php)
+    * [PSR-1](http://www.php-fig.org/psr/psr-1/)
+    * [PSR-2](http://www.php-fig.org/psr/psr-2/)
 
-##### PHP
+### PowerShell
 
-* [Pear](http://pear.php.net/manual/en/standards.php)
-* [PSR-1](http://www.php-fig.org/psr/psr-1/)
-* [PSR-2](http://www.php-fig.org/psr/psr-2/)
+    * [PoshCode](https://github.com/PoshCode/PowerShellPracticeAndStyle)
 
-##### PowerShell
+### Python
 
-* [PoshCode](https://github.com/PoshCode/PowerShellPracticeAndStyle)
+    * [Google](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
+    * [Guido van Rossum](http://legacy.python.org/dev/peps/pep-0008/)
 
-##### Python
+### R
 
-* [Google](http://google-styleguide.googlecode.com/svn/trunk/pyguide.html)
-* [Guido van Rossum](http://legacy.python.org/dev/peps/pep-0008/)
+    * [jefworks](http://jefworks.github.io/R-style-guide/)
+    * [Google](https://google.github.io/styleguide/Rguide.xml)
+    * [Advanced R](http://adv-r.had.co.nz/Style.html)
 
-##### R
+### Ruby
 
-* [jefworks](http://jefworks.github.io/R-style-guide/)
-* [Google](https://google.github.io/styleguide/Rguide.xml)
-* [Advanced R](http://adv-r.had.co.nz/Style.html)
+    * [GitHub](https://github.com/styleguide/ruby)
 
-##### Ruby
+### Scala
 
-* [GitHub](https://github.com/styleguide/ruby)
+    * [Official Scala](http://docs.scala-lang.org/style/)
+    * [PayPal](https://github.com/paypal/scala-style-guide)
+    * [DataBricks](https://github.com/databricks/scala-style-guide)
 
-##### Scala
+### Shell
 
-* [Official Scala](http://docs.scala-lang.org/style/)
-* [PayPal](https://github.com/paypal/scala-style-guide)
-* [DataBricks](https://github.com/databricks/scala-style-guide)
+    * [Fritz Mehner](http://lug.fh-swf.de/vim/vim-bash/StyleGuideShell.en.pdf)
+    * [Google](http://google-styleguide.googlecode.com/svn/trunk/shell.xml)
 
-##### Shell
+### SQL
 
-* [Fritz Mehner](http://lug.fh-swf.de/vim/vim-bash/StyleGuideShell.en.pdf)
-* [Google](http://google-styleguide.googlecode.com/svn/trunk/shell.xml)
+    * [Top Coder](http://www.topcoder.com/i/development/uml/Oracle_PLSQL_Coding_Guidelines.pdf)
 
-##### SQL
+### Swift
 
-* [Top Coder](http://www.topcoder.com/i/development/uml/Oracle_PLSQL_Coding_Guidelines.pdf)
+    * [Ray Wenderlich](https://github.com/raywenderlich/swift-style-guide)
+    * [Github](https://github.com/github/swift-style-guide)
+    * [Coursera](https://github.com/coursera/swift-style-guide)
 
-##### Swift
+### TeX
 
-* [Ray Wenderlich](https://github.com/raywenderlich/swift-style-guide)
-* [Github](https://github.com/github/swift-style-guide)
-* [Coursera](https://github.com/coursera/swift-style-guide)
+    * [Didier Verna](http://www.tug.org/TUGboat/tb32-3/tb102verna.pdf)
 
-##### TeX
+### VimL
 
-* [Didier Verna](http://www.tug.org/TUGboat/tb32-3/tb102verna.pdf)
+    * [Google](http://google.github.io/styleguide/vimscriptguide.xml)
 
-##### VimL
+## Linters
 
-* [Google](http://google.github.io/styleguide/vimscriptguide.xml)
+### CoffeScript
 
-## <a name="linters"></a> Linters
+    * [coffeelint](https://github.com/clutchski/coffeelint)
 
-##### CoffeScript
+### C
 
-* [coffeelint](https://github.com/clutchski/coffeelint)
+    * [oclint](https://github.com/oclint/oclint)
 
-##### C
+### C++
 
-* [oclint](https://github.com/oclint/oclint)
+    * [oclint](https://github.com/oclint/oclint)
 
-##### C++
+### CSS
 
-* [oclint](https://github.com/oclint/oclint)
+    * [csslint](https://github.com/CSSLint/csslint)
+    * [csscomb](https://github.com/csscomb/csscomb.js)
+    * [ie8linter](https://github.com/israelidanny/ie8linter)
+    * [stylelint](http://stylelint.io)
 
-##### CSS
+### Dart
 
-* [csslint](https://github.com/CSSLint/csslint)
-* [csscomb](https://github.com/csscomb/csscomb.js)
-* [ie8linter](https://github.com/israelidanny/ie8linter)
-* [stylelint](http://stylelint.io)
+    * [linter](https://github.com/dart-lang/linter)
 
-##### Dart
+### Erlang
 
-* [linter](https://github.com/dart-lang/linter)
+    * [elvis](https://github.com/inaka/elvis)
 
-##### Erlang
+### Java
 
-* [elvis](https://github.com/inaka/elvis)
+    * [checkstyle](https://github.com/checkstyle/checkstyle)
 
-##### Java
+### Go
 
-* [checkstyle](https://github.com/checkstyle/checkstyle)
+    * [golang](https://github.com/golang/lint)
 
-##### Go
+### Haskell
 
-* [golang](https://github.com/golang/lint)
+    * [hlint](https://github.com/ndmitchell/hlint)
 
-##### Haskell
+### HTML
 
-* [hlint](https://github.com/ndmitchell/hlint)
+    * [HTMLHint](https://github.com/yaniswang/HTMLHint)
+    * [bootlint](https://github.com/twbs/bootlint)
 
-##### HTML
+### JavaScript
 
-* [HTMLHint](https://github.com/yaniswang/HTMLHint)
-* [bootlint](https://github.com/twbs/bootlint)
+    * [eslint](https://github.com/eslint/eslint)
+    * [jshint](https://github.com/jshint/jshint)
+    * [node-jscs](https://github.com/jscs-dev/node-jscs)
+    * [standard](https://github.com/feross/standard)
 
-##### JavaScript
+### Lua
 
-* [eslint](https://github.com/eslint/eslint)
-* [jshint](https://github.com/jshint/jshint)
-* [node-jscs](https://github.com/jscs-dev/node-jscs)
-* [standard](https://github.com/feross/standard)
+    * [lualint](https://github.com/philips/lualint)
 
-##### Lua
+### Objective-C
 
-* [lualint](https://github.com/philips/lualint)
+    * [oclint](https://github.com/oclint/oclint)
 
-##### Markdown
+### Markdown
 
-* [markdownlint](https://github.com/DavidAnson/markdownlint)
-* [mdl](https://github.com/mivok/markdownlint)
-* [remark-lint](https://github.com/wooorm/remark-lint)
+    * [markdownlint](https://github.com/DavidAnson/markdownlint)
+    * [mdl](https://github.com/mivok/markdownlint)
+    * [remark-lint](https://github.com/wooorm/remark-lint)
 
-##### Objective-C
+### Puppet
 
-* [oclint](https://github.com/oclint/oclint)
+    * [puppet-lint](https://github.com/rodjek/puppet-lint)
 
-##### Puppet
+### Python
 
-* [puppet-lint](https://github.com/rodjek/puppet-lint)
+    * [pep8](https://github.com/jcrocholl/pep8)
 
-##### Python
+### Ruby
 
-* [pep8](https://github.com/jcrocholl/pep8)
+    * [rubocop](https://github.com/bbatsov/rubocop)
 
-##### Ruby
+### Sass
 
-* [rubocop](https://github.com/bbatsov/rubocop)
+    * [scss-lint](https://github.com/causes/scss-lint)
 
-##### Sass
+### Shell
 
-* [scss-lint](https://github.com/causes/scss-lint)
+    * [shellcheck](https://github.com/koalaman/shellcheck)
 
-##### Shell
+### TypeScript
 
-* [shellcheck](https://github.com/koalaman/shellcheck)
+    * [tslint](https://github.com/palantir/tslint)
 
-##### TypeScript
+## Contributing
 
-* [tslint](https://github.com/palantir/tslint)
-
-## <a name="contribution-guidelines"></a> Contributing
-
-Contributions are very welcome! Create a new pull request, solve a bug or grab an issue that is currently unassigned!
+Contributions are very welcome! Create a new pull request, solve a bug or grab
+an issue that is currently unassigned!
 
 The only rule is: [keep it organized](https://github.com/CarameloMartins/awesome-lint/blob/master/CONTRIBUTING.md).
 
-## <a name="main-contributors"></a> Main Contributors
+## Main Contributors
 
-* [Hugo Martins](http://github.com/CarameloMartins)
-* [FilipeBento](https://github.com/FilipeBento)
+    * [Hugo Martins](http://github.com/CarameloMartins)
+    * [FilipeBento](https://github.com/FilipeBento)
 
-Thanks to [everyone](https://github.com/caramelomartins/awesome-lint/graphs/contributors) that helped!
+Thanks to [everyone](https://github.com/caramelomartins/awesome-lint/graphs/contributors)
+that helped!
 
 ## License
+
 [unlicense](LICENSE.md)
