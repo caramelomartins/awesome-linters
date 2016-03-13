@@ -26,7 +26,6 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [C++] (#c-plus)
 * [C-Sharp] (#c-sharp)
 * [Clojure] (#clojure)
-* [CommonMark] (#commonmark)
 * [CSS] (#css)
 * [Erlang] (#erlang)
 * [Java] (#java)
@@ -37,6 +36,7 @@ As a lone programmer one can sometimes forget the importance of writing well str
 * [HTML] (#html)
 * [Lisp] (#lisp)
 * [Lua] (#lua)
+* [Markdown] (#markdown)
 * [Node.js] (#nodejs)
 * [Objective-C] (#objective-c)
 * [Perl] (#perl)
@@ -75,10 +75,6 @@ As a lone programmer one can sometimes forget the importance of writing well str
 ##### Clojure
 
 * [Clojure Development](http://dev.clojure.org/display/community/Library+Coding+Standards)
-
-##### CommonMark
-
-* [CommonMark Spec](http://spec.commonmark.org/)
 
 ##### CSS
 
@@ -127,6 +123,11 @@ As a lone programmer one can sometimes forget the importance of writing well str
 
 * [Official Lua](http://lua-users.org/wiki/LuaStyleGuide)
 * [Olivine Labs](https://github.com/Olivine-Labs/lua-style-guide)
+
+##### Markdown
+
+* [John Gruber's Markdown Syntax Documentation](https://daringfireball.net/projects/markdown/syntax)
+* [CommonMark Spec](http://spec.commonmark.org/)
 
 ##### <a name="nodejs"></a> Node.js
 
@@ -250,6 +251,12 @@ As a lone programmer one can sometimes forget the importance of writing well str
 ##### Lua
 
 * [lualint](https://github.com/philips/lualint)
+
+##### Markdown
+
+* [markdownlint](https://github.com/DavidAnson/markdownlint)
+* [mdl](https://github.com/mivok/markdownlint)
+* [remark-lint](https://github.com/wooorm/remark-lint)
 
 ##### Objective-C
 
