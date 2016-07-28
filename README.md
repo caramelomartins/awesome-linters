@@ -193,6 +193,9 @@ successfulness of a project.
 
 * [linter](https://github.com/dart-lang/linter)
 
+### English
+* [proselint](https://github.com/amperser/proselint)
+
 ### Erlang
 
 * [elvis](https://github.com/inaka/elvis)
