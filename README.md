@@ -166,13 +166,17 @@ successfulness of a project.
 
 ## Linters
 
-### CoffeScript
+### Language Agnostic
 
-* [coffeelint](https://github.com/clutchski/coffeelint)
+* [coala](https://github.com/coala-analyzer/coala)
 
 ### C
 
 * [oclint](https://github.com/oclint/oclint)
+
+### CoffeScript
+
+* [coffeelint](https://github.com/clutchski/coffeelint)
 
 ### C++
 
@@ -193,10 +197,6 @@ successfulness of a project.
 
 * [elvis](https://github.com/inaka/elvis)
 
-### Java
-
-* [checkstyle](https://github.com/checkstyle/checkstyle)
-
 ### Go
 
 * [golang](https://github.com/golang/lint)
@@ -210,6 +210,10 @@ successfulness of a project.
 * [HTMLHint](https://github.com/yaniswang/HTMLHint)
 * [bootlint](https://github.com/twbs/bootlint)
 
+### Java
+
+* [checkstyle](https://github.com/checkstyle/checkstyle)
+
 ### JavaScript
 
 * [eslint](https://github.com/eslint/eslint)
@@ -221,15 +225,15 @@ successfulness of a project.
 
 * [lualint](https://github.com/philips/lualint)
 
-### Objective-C
-
-* [oclint](https://github.com/oclint/oclint)
-
 ### Markdown
 
 * [markdownlint](https://github.com/DavidAnson/markdownlint)
 * [mdl](https://github.com/mivok/markdownlint)
 * [remark-lint](https://github.com/wooorm/remark-lint)
+
+### Objective-C
+
+* [oclint](https://github.com/oclint/oclint)
 
 ### Puppet
 
@@ -238,6 +242,7 @@ successfulness of a project.
 ### Python
 
 * [pep8](https://github.com/jcrocholl/pep8)
+* [pycodestyle](https://github.com/PyCQA/pycodestyle)
 
 ### Ruby
 
