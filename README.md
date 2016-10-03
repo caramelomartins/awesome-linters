@@ -74,7 +74,9 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 
 ### Go
 
-- [golang](https://github.com/golang/lint)
+- [golint](https://github.com/golang/lint)
+- [gometalinter](https://github.com/alecthomas/gometalinter)
+- [go vet](https://golang.org/cmd/vet/)
 
 ### Haskell
 
