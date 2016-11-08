@@ -28,6 +28,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
   - [Python](#python)
   - [Ruby](#ruby)
   - [Sass](#sass)
+  - [Scala](#scala)
   - [Shell](#shell)
   - [TypeScript](#typescript)
 
@@ -128,6 +129,13 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 ### Sass
 
 - [scss-lint](https://github.com/causes/scss-lint)
+
+### Scala
+
+- [Linter](https://github.com/HairyFotr/linter)
+- [Scalastyle](http://www.scalastyle.org/)
+- [Scapegoat](https://github.com/sksamuel/scapegoat)
+- [WartRemover](http://github.com/puffnfresh/wartremover)
 
 ### Shell
 
