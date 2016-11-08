@@ -26,6 +26,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
   - [Objective-C](#objective-c)
   - [Puppet](#puppet)
   - [Python](#python)
+  - [reStructuredText](#reStructuredText)
   - [Ruby](#ruby)
   - [Sass](#sass)
   - [Shell](#shell)
@@ -120,6 +121,11 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 
 - [pep8](https://github.com/jcrocholl/pep8)
 - [pycodestyle](https://github.com/PyCQA/pycodestyle)
+
+### reStructuredText
+
+- [reStructuredText Lint](https://github.com/twolfson/restructuredtext-lint)
+
 
 ### Ruby
 
