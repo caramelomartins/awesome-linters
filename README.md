@@ -90,6 +90,8 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 ### Java
 
 - [checkstyle](https://github.com/checkstyle/checkstyle)
+- [Findbugs](http://findbugs.sourceforge.net/)
+- [PMD](http://pmd.github.io/)
 
 ### JavaScript
 
