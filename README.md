@@ -26,7 +26,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
   - [Objective-C](#objective-c)
   - [Puppet](#puppet)
   - [Python](#python)
-  - [reStructuredText](#reStructuredText)
+  - [reStructuredText](#restructuredtext)
   - [Ruby](#ruby)
   - [Sass](#sass)
   - [Scala](#scala)
