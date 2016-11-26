@@ -122,8 +122,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 
 ### Python
 
-- [pep8](https://github.com/jcrocholl/pep8)
-- [pycodestyle](https://github.com/PyCQA/pycodestyle)
+- [pycodestyle (formerly called pep8)](https://github.com/PyCQA/pycodestyle)
 
 ### reStructuredText
 
