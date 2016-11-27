@@ -1,4 +1,4 @@
-# Awesome Lint
+# Awesome Lint [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A list of curated tools for static analysis of source code.
 
@@ -97,8 +97,8 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 ### Java
 
 - [checkstyle](https://github.com/checkstyle/checkstyle)
-- [Findbugs](http://findbugs.sourceforge.net/)
-- [PMD](http://pmd.github.io/)
+- [Findbugs](http://findbugs.sourceforge.net)
+- [PMD](http://pmd.github.io)
 
 ### JavaScript
 
@@ -106,7 +106,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 - [jshint](https://github.com/jshint/jshint)
 - [node-jscs](https://github.com/jscs-dev/node-jscs)
 - [standard](https://github.com/feross/standard)
-- [xo](https://github.com/sindresorhus/xo/)
+- [xo](https://github.com/sindresorhus/xo)
 
 ### Lua
 
@@ -157,7 +157,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 ### Scala
 
 - [Linter](https://github.com/HairyFotr/linter)
-- [Scalastyle](http://www.scalastyle.org/)
+- [Scalastyle](http://www.scalastyle.org)
 - [Scapegoat](https://github.com/sksamuel/scapegoat)
 - [WartRemover](http://github.com/puffnfresh/wartremover)
 
