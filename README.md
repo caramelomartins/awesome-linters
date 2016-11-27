@@ -9,7 +9,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 - [Linters](#linters)
 
   - [Language Agnostic](#language-agnostic)
-  - [Awesome Lists](#awesome-list)
+  - [Awesome Lists](#awesome-lists)
   - [C](#c)
   - [CoffeScript](#coffescript)
   - [C++](#c++)
