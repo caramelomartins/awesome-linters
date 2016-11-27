@@ -123,6 +123,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 ### Python
 
 - [pycodestyle (formerly called pep8)](https://github.com/PyCQA/pycodestyle)
+- [pylint](https://github.com/PyCQA/pylint)
 
 ### reStructuredText
 
