@@ -61,6 +61,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 - [csslint](https://github.com/CSSLint/csslint)
 - [csscomb](https://github.com/csscomb/csscomb.js)
 - [ie8linter](https://github.com/israelidanny/ie8linter)
+- [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter)
 - [stylelint](http://stylelint.io)
 
 ### Dart
