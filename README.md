@@ -101,6 +101,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 - [jshint](https://github.com/jshint/jshint)
 - [node-jscs](https://github.com/jscs-dev/node-jscs)
 - [standard](https://github.com/feross/standard)
+- [xo](https://github.com/sindresorhus/xo/)
 
 ### Lua
 
