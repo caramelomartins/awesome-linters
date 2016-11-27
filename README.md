@@ -31,6 +31,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
   - [Sass](#sass)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [Swift](#swift)
   - [TypeScript](#typescript)
 
 - [Contribution Guidelines](#contributing)
@@ -150,6 +151,10 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 ### Shell
 
 - [shellcheck](https://github.com/koalaman/shellcheck)
+
+### Swift
+
+- [swiftlint](https://github.com/realm/SwiftLint)
 
 ### TypeScript
 
