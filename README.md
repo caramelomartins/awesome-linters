@@ -139,6 +139,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 
 ### Sass
 
+- [sass-lint](https://github.com/sasstools/sass-lint)
 - [scss-lint](https://github.com/causes/scss-lint)
 
 ### Scala
