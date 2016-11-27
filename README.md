@@ -9,6 +9,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 - [Linters](#linters)
 
   - [Language Agnostic](#language-agnostic)
+  - [Awesome-List](#awesome-lint)
   - [C](#c)
   - [CoffeScript](#coffescript)
   - [C++](#c++)
@@ -43,6 +44,10 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 ### Language Agnostic
 
 - [coala](https://github.com/coala-analyzer/coala)
+
+### Awesome-List
+
+- [awesome-lint](https://github.com/sindresorhus/awesome-lint)
 
 ### C
 
