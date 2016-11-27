@@ -28,6 +28,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
   - [Python](#python)
   - [reStructuredText](#restructuredtext)
   - [Ruby](#ruby)
+  - [Rust](#rust)
   - [Sass](#sass)
   - [Scala](#scala)
   - [Shell](#shell)
@@ -136,6 +137,10 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 ### Ruby
 
 - [rubocop](https://github.com/bbatsov/rubocop)
+
+### Rust
+
+- [rust-clippy](https://github.com/Manishearth/rust-clippy)
 
 ### Sass
 
