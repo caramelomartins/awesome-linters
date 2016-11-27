@@ -72,6 +72,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 
 ### English
 
+- [alex](https://github.com/wooorm/alex)
 - [proselint](https://github.com/amperser/proselint)
 
 ### Erlang
