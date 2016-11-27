@@ -24,6 +24,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
   - [Lua](#lua)
   - [Markdown](#markdown)
   - [Objective-C](#objective-c)
+  - [Polymer](#polymer)
   - [Puppet](#puppet)
   - [Python](#python)
   - [reStructuredText](#restructuredtext)
@@ -119,6 +120,10 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 ### Objective-C
 
 - [oclint](https://github.com/oclint/oclint)
+
+### Polymer
+
+- [polylint](https://github.com/PolymerLabs/polylint)
 
 ### Puppet
 
