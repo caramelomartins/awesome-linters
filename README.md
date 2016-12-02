@@ -4,7 +4,7 @@ A list of curated tools for static analysis of source code.
 
 Here's a complementary list regarding [Coding Standards](https://github.com/caramelomartins/awesome-standards/).
 
-## Table of Contents
+## Contents
 
 - [Linters](#linters)
 
