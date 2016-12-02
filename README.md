@@ -11,7 +11,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
   - [Language Agnostic](#language-agnostic)
   - [Awesome Lists](#awesome-lists)
   - [C](#c)
-  - [CoffeScript](#coffescript)
+  - [CoffeeScript](#coffeescript)
   - [C++](#c++)
   - [CSS](#css)
   - [Dart](#dart)
@@ -21,7 +21,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
   - [Haskell](#haskell)
   - [HTML](#html)
   - [Java](#java)
-  - [JavaScript](#javacript)
+  - [JavaScript](#javascript)
   - [Lua](#lua)
   - [Markdown](#markdown)
   - [Objective-C](#objective-c)
@@ -55,7 +55,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 
 - [oclint](https://github.com/oclint/oclint)
 
-### CoffeScript
+### CoffeeScript
 
 - [coffeelint](https://github.com/clutchski/coffeelint)
 
@@ -96,14 +96,14 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 
 ### HTML
 
-- [HTMLHint](https://github.com/yaniswang/HTMLHint)
+- [htmlhint](https://github.com/yaniswang/HTMLHint)
 - [bootlint](https://github.com/twbs/bootlint)
 
 ### Java
 
 - [checkstyle](https://github.com/checkstyle/checkstyle)
-- [Findbugs](http://findbugs.sourceforge.net)
-- [PMD](http://pmd.github.io)
+- [findbugs](http://findbugs.sourceforge.net)
+- [pmd](http://pmd.github.io)
 
 ### JavaScript
 
@@ -161,10 +161,10 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 
 ### Scala
 
-- [Linter](https://github.com/HairyFotr/linter)
-- [Scalastyle](http://www.scalastyle.org)
-- [Scapegoat](https://github.com/sksamuel/scapegoat)
-- [WartRemover](http://github.com/puffnfresh/wartremover)
+- [linter](https://github.com/HairyFotr/linter)
+- [scalastyle](http://www.scalastyle.org)
+- [scapegoat](https://github.com/sksamuel/scapegoat)
+- [wartRemover](http://github.com/puffnfresh/wartremover)
 
 ### Shell
 
