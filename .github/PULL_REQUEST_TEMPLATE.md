@@ -13,4 +13,5 @@
 - [ ] Is it sorted alphabetically inside the container?
 - [ ] Does the title follow the template:  "Add [LINTER] for [LANGUAGE]."?
 
+For reference, there's some [contributing guidelines](/CONTRIBUTING.md).
 <!-- Thank you for helping out! -->
