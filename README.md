@@ -45,31 +45,31 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 
 ### Language Agnostic
 
-- [coala](https://github.com/coala-analyzer/coala)
+- [coala](https://github.com/coala-analyzer/coala) - Language agnostic linter based on rules and standards. Written in Python.
 
 ### Awesome Lists
 
-- [awesome-lint](https://github.com/sindresorhus/awesome-lint)
+- [awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists. Helps to createa and maintain Awesome lists. Written in Javascript.
 
 ### C
 
-- [oclint](https://github.com/oclint/oclint)
+- [oclint](https://github.com/oclint/oclint) - Static analysis for C, C++ and Objective-C. Written in C++.
 
 ### CoffeeScript
 
-- [coffeelint](https://github.com/clutchski/coffeelint)
+- [coffeelint](https://github.com/clutchski/coffeelint) -
 
 ### C++
 
-- [oclint](https://github.com/oclint/oclint)
+- [oclint](https://github.com/oclint/oclint) - Static analysis for C, C++ and Objective-C. Written in C++.
 
 ### CSS
 
-- [csslint](https://github.com/CSSLint/csslint)
-- [csscomb](https://github.com/csscomb/csscomb.js)
-- [ie8linter](https://github.com/israelidanny/ie8linter)
-- [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter)
-- [stylelint](http://stylelint.io)
+- [csslint](https://github.com/CSSLint/csslint) - CSS static analysis written in Javascript. Uses pluggable rules.
+- [csscomb](https://github.com/csscomb/csscomb.js) - CSS tool that beautifies CSS based on a configuration. Helps with keeping CSS consistent. Written in Javascript.
+- [ie8linter](https://github.com/israelidanny/ie8linter) - Static analysis for Internet Explorer 8 compatibility. Written in Javascript.
+- [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter) - A plugin for PostCSS to lint CSS according to _BEM-style_. Written in Javascript.
+- [stylelint](http://stylelint.io) - CSS linter that is unopinionated, supports plugins and has a wide range of rules built-in. Written in Javascript.
 
 ### Dart
 
