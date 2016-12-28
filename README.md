@@ -73,110 +73,109 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 
 ### Dart
 
-- [linter](https://github.com/dart-lang/linter)
+- [linter](https://github.com/dart-lang/linter)  - Linter for Dart mostly focused on style lints. It's configurable but comes with configured rules out of the box. Written in Dart.
 
 ### English
 
-- [alex](https://github.com/wooorm/alex)
-- [proselint](https://github.com/amperser/proselint)
+- [alex](https://github.com/wooorm/alex) - Linter to help catch insensitive writing in English. Written in Javascript.
+- [proselint](https://github.com/amperser/proselint) - Linter for English that provides guidelines to make better writing. It has plugins for several editors and is configurable.
 
 ### Erlang
 
-- [elvis](https://github.com/inaka/elvis)
+- [elvis](https://github.com/inaka/elvis) - Configurable Erlang linter written in Erlang.
 
 ### Go
 
-- [golint](https://github.com/golang/lint)
-- [gometalinter](https://github.com/alecthomas/gometalinter)
-- [go vet](https://golang.org/cmd/vet/)
+- [golint](https://github.com/golang/lint) - Go style linter written in Go. Focus with coding styles more than with correctness.
+- [gometalinter](https://github.com/alecthomas/gometalinter) - Concurrently run Go lint tools and normalise their output.
+- [go vet](https://golang.org/cmd/vet/) - Examines Go source code and reports suspicious constructs.
 
 ### Haskell
 
-- [hlint](https://github.com/ndmitchell/hlint)
+- [hlint](https://github.com/ndmitchell/hlint) - Tool for suggesting possible improvements to Haskell code. These suggestions include ideas such as using alternative functions, simplifying code and spotting redundancies.
 
 ### HTML
 
-- [htmlhint](https://github.com/yaniswang/HTMLHint)
-- [bootlint](https://github.com/twbs/bootlint)
+- [htmlhint](https://github.com/yaniswang/HTMLHint) - HTMLHint is a Static Code Analysis Tool for HTML, you can use it with IDE or in build system.
+- [bootlint](https://github.com/twbs/bootlint) - Bootlint is a tool that checks for several common HTML mistakes in webpages that are using Bootstrap.
 
 ### Java
 
-- [checkstyle](https://github.com/checkstyle/checkstyle)
-- [findbugs](http://findbugs.sourceforge.net)
-- [pmd](http://pmd.github.io)
+- [checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard.
+- [findbugs](http://findbugs.sourceforge.net) - Uses static analysis to look for bugs in Java code.
+- [pmd](http://pmd.github.io) - Static analyzer that finds common programming flaws. It supports Java, JavaScript, Salesforce.com Apex, PLSQL, Apache Velocity, XML, XSL.
 
 ### JavaScript
 
-- [eslint](https://github.com/eslint/eslint)
-- [jshint](https://github.com/jshint/jshint)
-- [node-jscs](https://github.com/jscs-dev/node-jscs)
-- [standard](https://github.com/feross/standard)
-- [xo](https://github.com/sindresorhus/xo)
+- [eslint](https://github.com/eslint/eslint) - Fully pluggable tool for identifying and reporting on patterns in JavaScript.
+- [jshint](https://github.com/jshint/jshint) - Community-driven tool that detects errors and potential problems in JavaScript code.
+- [standard](https://github.com/feross/standard) - Javascript style linter that allows no configuration.
+- [xo](https://github.com/sindresorhus/xo) - Opinionated but configurable ESLint wrapper with lots of goodies included. Enforces strict and readable code.
 
 ### Lua
 
-- [lualint](https://github.com/philips/lualint)
+- [lualint](https://github.com/philips/lualint) - lualint performs luac-based static analysis of global variable usage in Lua source code.
 
 ### Markdown
 
-- [markdownlint](https://github.com/DavidAnson/markdownlint)
-- [mdl](https://github.com/mivok/markdownlint)
-- [remark-lint](https://github.com/wooorm/remark-lint)
+- [markdownlint](https://github.com/DavidAnson/markdownlint) - Node.js style checker and lint tool for Markdown/CommonMark files.
+- [mdl](https://github.com/mivok/markdownlint) - Check markdown files and flag style issues. Written in ruby and is distributed as a rubygem.
+- [remark-lint](https://github.com/wooorm/remark-lint) - Written in Javascript. remark-lint provides configurable Markdown style linting.
 
 ### Objective-C
 
-- [oclint](https://github.com/oclint/oclint)
+- [oclint](https://github.com/oclint/oclint) - Static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. Written in C++.
 
 ### Polymer
 
-- [polylint](https://github.com/PolymerLabs/polylint)
+- [polylint](https://github.com/PolymerLabs/polylint) - Catch errors in your polymer project before even running your code. Written in TypeScript.
 
 ### Puppet
 
-- [puppet-lint](https://github.com/rodjek/puppet-lint)
+- [puppet-lint](https://github.com/rodjek/puppet-lint) - Test modules and manifests against the recommended Puppet style guidelines from the Puppet Labs style guide. Written in Ruby.
 
 ### Python
 
-- [flake8](https://github.com/PyCQA/flake8)
-- [pycodestyle (formerly called pep8)](https://github.com/PyCQA/pycodestyle)
-- [pylint](https://github.com/PyCQA/pylint)
+- [flake8](https://github.com/PyCQA/flake8) - Runs PyFlakes, pycodestyle and other tools from only one CLI. Written in Python.
+- [pycodestyle (formerly called pep8)](https://github.com/PyCQA/pycodestyle) - Tool to check your Python code against some of the style conventions in PEP 8.
+- [pylint](https://github.com/PyCQA/pylint) - Source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells.
 
 ### reStructuredText
 
-- [reStructuredText Lint](https://github.com/twolfson/restructuredtext-lint)
+- [reStructuredText Lint](https://github.com/twolfson/restructuredtext-lint) - Validate reST files either as a module or from a CLI utility. Written in Python.
 
 
 ### Ruby
 
-- [rubocop](https://github.com/bbatsov/rubocop)
+- [rubocop](https://github.com/bbatsov/rubocop) - Ruby static code analyzer. Out of the box it will enforce many of the guidelines outlined in the community Ruby Style Guide.
 
 ### Rust
 
-- [rust-clippy](https://github.com/Manishearth/rust-clippy)
+- [rust-clippy](https://github.com/Manishearth/rust-clippy) - Collection of lints to catch common mistakes and improve your Rust code.
 
 ### Sass
 
-- [sass-lint](https://github.com/sasstools/sass-lint)
-- [scss-lint](https://github.com/causes/scss-lint)
+- [sass-lint](https://github.com/sasstools/sass-lint) - Node-only Sass linter for both sass and scss syntax.
+- [scss-lint](https://github.com/causes/scss-lint) - Tool to help keep your SCSS files clean and readable by running it against a collection of configurable linter rules.
 
 ### Scala
 
-- [linter](https://github.com/HairyFotr/linter)
-- [scalastyle](http://www.scalastyle.org)
-- [scapegoat](https://github.com/sksamuel/scapegoat)
-- [wartRemover](http://github.com/puffnfresh/wartremover)
+- [linter](https://github.com/HairyFotr/linter) - Scala static analysis compiler plugin which adds compile-time checks for various possible bugs, inefficiencies, and style problems.
+- [scalastyle](http://www.scalastyle.org) -  Examines your Scala code and indicates potential problems with it. Similar to Checkstyle for Java.
+- [scapegoat](https://github.com/sksamuel/scapegoat) - Another similar tool to Checkstyle for Java. Flags suspicious language usage in code.
+- [wartRemover](http://github.com/puffnfresh/wartremover) - Flexible and configurable Scala linter written in Scala.
 
 ### Shell
 
-- [shellcheck](https://github.com/koalaman/shellcheck)
+- [shellcheck](https://github.com/koalaman/shellcheck) - Gives warnings and suggestions for bash/sh shell scripts.
 
 ### Swift
 
-- [swiftlint](https://github.com/realm/SwiftLint)
+- [swiftlint](https://github.com/realm/SwiftLint) - Tool to enforce Swift style and conventions, loosely based on GitHub's Swift Style Guide.
 
 ### TypeScript
 
-- [tslint](https://github.com/palantir/tslint)
+- [tslint](https://github.com/palantir/tslint) - Customizable TypeScript linter with automatic fixing of formating and style violations.
 
 ## Contributing
 
