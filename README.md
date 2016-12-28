@@ -57,7 +57,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 
 ### CoffeeScript
 
-- [coffeelint](https://github.com/clutchski/coffeelint) -
+- [coffeelint](https://github.com/clutchski/coffeelint) - Configurable linter written in CoffeScript to analyze CoffeScript.
 
 ### C++
 
