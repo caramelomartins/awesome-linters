@@ -1,6 +1,9 @@
-# Awesome Lint [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Linters [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> A curated list of awesome linters.
 
-A list of curated tools for static analysis of source code.
+Code linters are programs that performs static analysis on your code. They check your code for common mistakes and bad coding style/practices thus helping you catch errors before compilation/interpretation and forcing you and your team to keep a consistent code style within a project.
+
+Most of the linters in this list have plugins available for popular text editors and IDEs and are pretty easy to setup and automate (via a pre-commit hook or a CI service for example).
 
 Here's a complementary list regarding [Coding Standards](https://github.com/caramelomartins/awesome-standards/).
 
