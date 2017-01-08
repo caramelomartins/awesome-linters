@@ -27,6 +27,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
   - [JavaScript](#javascript)
   - [Lua](#lua)
   - [Markdown](#markdown)
+  - [npm](#npm)
   - [Objective-C](#objective-c)
   - [Polymer](#polymer)
   - [Puppet](#puppet)
@@ -124,6 +125,10 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - Node.js style checker and lint tool for Markdown/CommonMark files.
 - [mdl](https://github.com/mivok/markdownlint) - Check markdown files and flag style issues. Written in ruby and is distributed as a rubygem.
 - [remark-lint](https://github.com/wooorm/remark-lint) - Written in Javascript. remark-lint provides configurable Markdown style linting.
+
+### npm
+
+- [npm-package-json-lint](https://github.com/tclindner/npm-package-json-lint) - Configurable linter to enforce standards in npm package.json files.
 
 ### Objective-C
 
