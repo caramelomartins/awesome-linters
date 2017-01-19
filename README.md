@@ -111,6 +111,7 @@ Here's a complementary list regarding [Coding Standards](https://github.com/cara
 
 ### JavaScript
 
+- [clinton](https://github.com/SamVerschueren/clinton) - JavaScript project style linter.
 - [eslint](https://github.com/eslint/eslint) - Fully pluggable tool for identifying and reporting on patterns in JavaScript.
 - [jshint](https://github.com/jshint/jshint) - Community-driven tool that detects errors and potential problems in JavaScript code.
 - [prettier](https://github.com/jlongster/prettier) - Opinionated JavaScript formatter inspired by refmt with advanced support for language features from ES2017, JSX, and Flow.
