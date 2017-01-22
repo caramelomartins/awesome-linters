@@ -5,8 +5,6 @@ Code linters are programs that performs static analysis on your code. They check
 
 Most of the linters in this list have plugins available for popular text editors and IDEs and are pretty easy to setup and automate (via a pre-commit hook or a CI service for example).
 
-Here's a complementary list regarding [Coding Standards](https://github.com/caramelomartins/awesome-standards/).
-
 ## Contents
 
 - [Linters](#linters)
