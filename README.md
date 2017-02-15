@@ -1,4 +1,4 @@
-# Awesome Linters [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Linters
 > A curated list of awesome linters.
 
 Code linters are programs that performs static analysis on your code. They check your code for common mistakes and bad coding style/practices thus helping you catch errors before compilation/interpretation and forcing you and your team to keep a consistent code style within a project.
