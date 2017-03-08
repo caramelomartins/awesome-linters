@@ -22,6 +22,7 @@ This project is not closed to actual static analyzers. With this repository we i
   - [Erlang](#erlang)
   - [Go](#go)
   - [Haskell](#haskell)
+  - [Haxe](#haxe)
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
@@ -97,6 +98,10 @@ This project is not closed to actual static analyzers. With this repository we i
 ### Haskell
 
 - [hlint](https://github.com/ndmitchell/hlint) - Tool for suggesting possible improvements to Haskell code. These suggestions include ideas such as using alternative functions, simplifying code and spotting redundancies.
+
+### Haxe
+
+- [haxe-checkstyle](https://github.com/HaxeCheckstyle/haxe-checkstyle) - Haxe Checkstyle is a static analysis tool to help developers write Haxe code that adheres to a coding standard.
 
 ### HTML
 
