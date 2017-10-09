@@ -31,6 +31,7 @@ This project is not closed to actual static analyzers. With this repository we i
   - [npm](#npm)
   - [Objective-C](#objective-c)
   - [Polymer](#polymer)
+  - [Pug](#pug)
   - [Puppet](#puppet)
   - [Python](#python)
   - [reStructuredText](#restructuredtext)
@@ -144,6 +145,10 @@ This project is not closed to actual static analyzers. With this repository we i
 ### Polymer
 
 - [polylint](https://github.com/PolymerLabs/polylint) - Catch errors in your polymer project before even running your code. Written in TypeScript.
+
+### Pug
+
+- [pug-lint](https://github.com/pugjs/pug-lint) — An unopinionated and configurable linter and style checker for Pug (formerly Jade)
 
 ### Puppet
 
