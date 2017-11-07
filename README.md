@@ -60,7 +60,7 @@ This project is not closed to actual static analyzers. With this repository we i
 ### C
 
 - [oclint](https://github.com/oclint/oclint) - Static analysis for C, C++ and Objective-C. Written in C++.
-- [uncrustify](https://github.com/uncrustify/uncrustify) - A source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA
+- [uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 
 ### CoffeeScript
 
@@ -69,7 +69,7 @@ This project is not closed to actual static analyzers. With this repository we i
 ### C++
 
 - [oclint](https://github.com/oclint/oclint) - Static analysis for C, C++ and Objective-C. Written in C++.
-- [uncrustify](https://github.com/uncrustify/uncrustify) - A source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA
+- [uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 
 ### CSS
 
@@ -116,7 +116,7 @@ This project is not closed to actual static analyzers. With this repository we i
 - [checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard.
 - [findbugs](http://findbugs.sourceforge.net) - Uses static analysis to look for bugs in Java code.
 - [pmd](http://pmd.github.io) - Static analyzer that finds common programming flaws. It supports Java, JavaScript, Salesforce.com Apex, PLSQL, Apache Velocity, XML, XSL.
-- [uncrustify](https://github.com/uncrustify/uncrustify) - A source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA
+- [uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 
 ### JavaScript
 
@@ -144,7 +144,7 @@ This project is not closed to actual static analyzers. With this repository we i
 ### Objective-C
 
 - [oclint](https://github.com/oclint/oclint) - Static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. Written in C++.
-- [uncrustify](https://github.com/uncrustify/uncrustify) - A source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA
+- [uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 
 ### Polymer
 
