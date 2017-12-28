@@ -15,7 +15,7 @@ This project is not closed to actual static analyzers. With this repository we i
   - [Awesome Lists](#awesome-lists)
   - [C](#c)
   - [CoffeeScript](#coffeescript)
-  - [C++](#c++)
+  - [C++](#c-1)
   - [CSS](#css)
   - [Dart](#dart)
   - [English](#english)
