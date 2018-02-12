@@ -148,7 +148,7 @@ This project is not closed to actual static analyzers. With this repository we i
 - [uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 
 ### PHP
-- [phplint](https://www.npmjs.com/package/phplint) - A node wrapper around the native php linter that allows for parallel linting and integration with build systems like Grunt, Gulp and more.
+- [phplint](https://www.npmjs.com/package/phplint) - Node wrapper around the native php linter that allows for parallel linting and integration with build systems like Grunt, Gulp and more.
 - [PHP Mess Detector](https://github.com/phpmd/phpmd) - PHPMD can be seen as an user friendly and easy to configure frontend for the raw metrics measured by PHP Depend.
 
 ### Polymer
