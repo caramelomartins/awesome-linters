@@ -30,6 +30,7 @@ This project is not closed to actual static analyzers. With this repository we i
   - [Markdown](#markdown)
   - [npm](#npm)
   - [Objective-C](#objective-c)
+  - [PHP](#php)
   - [Polymer](#polymer)
   - [Pug](#pug)
   - [Puppet](#puppet)
@@ -145,6 +146,9 @@ This project is not closed to actual static analyzers. With this repository we i
 
 - [oclint](https://github.com/oclint/oclint) - Static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. Written in C++.
 - [uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
+
+### PHP
+- [phplint](https://www.npmjs.com/package/phplint) - A node wrapper around the native php linter that allows for parallel linting and integration with build systems like Grunt, Gulp and more.
 
 ### Polymer
 
