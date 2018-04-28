@@ -18,6 +18,7 @@ This project is not closed to actual static analyzers. With this repository we i
   - [C++](#c-1)
   - [CSS](#css)
   - [Dart](#dart)
+  - [Dockerfile](#dockerfile)
   - [English](#english)
   - [Erlang](#erlang)
   - [Go](#go)
@@ -84,6 +85,10 @@ This project is not closed to actual static analyzers. With this repository we i
 ### Dart
 
 - [linter](https://github.com/dart-lang/linter)  - Linter for Dart mostly focused on style lints. It's configurable but comes with configured rules out of the box. Written in Dart.
+
+### Dockerfile
+
+- [hadolint](https://github.com/hadolint/hadolint)  - Linter for Dockerfiles. The linter is parsing the Dockerfile into an AST and performs rules on top of the AST. It is standing on the shoulders of ShellCheck to lint the Bash code inside RUN instructions.
 
 ### English
 
