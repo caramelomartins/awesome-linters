@@ -176,6 +176,7 @@ This project is not closed to actual static analyzers. With this repository we i
 
 ### reStructuredText
 
+- [doc8](https://launchpad.net/doc8) - Doc8 is an opinionated style checker for rst (with basic support for plain text) styles of documentation. Notice, it does not support additional sphinx extensions. Project is also available on [OpenStack](http://git.openstack.org/cgit/openstack/doc8/) or [GitHub](https://github.com/openstack/doc8)
 - [reStructuredText Lint](https://github.com/twolfson/restructuredtext-lint) - Validate reST files either as a module or from a CLI utility. Written in Python.
 
 
