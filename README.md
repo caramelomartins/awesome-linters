@@ -12,6 +12,7 @@ This project is not closed to actual static analyzers. With this repository we i
 - [Linters](#linters)
 
   - [Language Agnostic](#language-agnostic)
+  - [Ansible](#ansible)
   - [Awesome Lists](#awesome-lists)
   - [C](#c)
   - [CoffeeScript](#coffeescript)
@@ -55,6 +56,10 @@ This project is not closed to actual static analyzers. With this repository we i
 ### Language Agnostic
 
 - [coala](https://github.com/coala-analyzer/coala) - Language agnostic linter based on rules and standards. Written in Python.
+
+### Ansible
+
+- [ansible-lint](https://github.com/ansible/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved
 
 ### Awesome Lists
 
