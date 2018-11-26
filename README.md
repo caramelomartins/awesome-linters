@@ -46,6 +46,7 @@ This project is not closed to actual static analyzers. With this repository we i
   - [Shell](#shell)
   - [Swift](#swift)
   - [TypeScript](#typescript)
+  - [YAML](#yaml)
 
 - [Contribution Guidelines](#contributing)
 
@@ -223,6 +224,10 @@ This project is not closed to actual static analyzers. With this repository we i
 ### TypeScript
 
 - [tslint](https://github.com/palantir/tslint) - Customizable TypeScript linter with automatic fixing of formating and style violations.
+
+### YAML
+
+- [yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
 
 ## Contributing
 
