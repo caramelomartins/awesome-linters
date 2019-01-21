@@ -17,6 +17,7 @@ This project is not closed to actual static analyzers. With this repository we i
   - [C](#c)
   - [CoffeeScript](#coffeescript)
   - [C++](#c-1)
+  - [Crystal](#crystal)
   - [CSS](#css)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
@@ -80,6 +81,10 @@ This project is not closed to actual static analyzers. With this repository we i
 - [cppcheck](http://cppcheck.sourceforge.net/) - Cppcheck is a static analysis tool for C/C++ code. It provides unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs. The goal is to detect only real errors in the code (i.e. have very few false positives).
 - [oclint](https://github.com/oclint/oclint) - Static analysis for C, C++ and Objective-C. Written in C++.
 - [uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
+
+### Crystal
+
+- [ameba](https://github.com/veelenga/ameba) - A static code analysis tool for Crystal.
 
 ### CSS
 
