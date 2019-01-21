@@ -85,14 +85,14 @@ This project is not closed to actual static analyzers. With this repository we i
 
 ### Crystal
 
-- [ameba](https://github.com/veelenga/ameba) - A static code analysis tool for Crystal.
+- [ameba](https://github.com/veelenga/ameba) - Static code analysis tool for Crystal.
 
 ### CSS
 
 - [csslint](https://github.com/CSSLint/csslint) - CSS static analysis written in Javascript. Uses pluggable rules.
 - [csscomb](https://github.com/csscomb/csscomb.js) - CSS tool that beautifies CSS based on a configuration. Helps with keeping CSS consistent. Written in Javascript.
 - [ie8linter](https://github.com/israelidanny/ie8linter) - Static analysis for Internet Explorer 8 compatibility. Written in Javascript.
-- [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter) - A plugin for PostCSS to lint CSS according to _BEM-style_. Written in Javascript.
+- [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter) - Plugin for PostCSS to lint CSS according to _BEM-style_. Written in Javascript.
 - [stylelint](http://stylelint.io) - CSS linter that is unopinionated, supports plugins and has a wide range of rules built-in. Written in Javascript.
 
 ### Dart
@@ -106,7 +106,7 @@ This project is not closed to actual static analyzers. With this repository we i
 
 ### Elixir
 
-- [credo](https://github.com/rrrene/credo) - A static code analysis tool for the Elixir language with a focus on code consistency and teaching.
+- [credo](https://github.com/rrrene/credo) - Static code analysis tool for the Elixir language with a focus on code consistency and teaching.
 
 ### English
 
@@ -237,7 +237,7 @@ This project is not closed to actual static analyzers. With this repository we i
 
 ### YAML
 
-- [yamllint](https://github.com/adrienverge/yamllint) - A linter for YAML files.
+- [yamllint](https://github.com/adrienverge/yamllint) - Linter for YAML files.
 
 ## Contributing
 
