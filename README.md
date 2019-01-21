@@ -21,6 +21,7 @@ This project is not closed to actual static analyzers. With this repository we i
   - [CSS](#css)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
+  - [Elixir](#elixir)
   - [English](#english)
   - [Erlang](#erlang)
   - [Go](#go)
@@ -102,6 +103,10 @@ This project is not closed to actual static analyzers. With this repository we i
 
 - [dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) - Rule based linter for Dockerfiles. The linter rules can be used to check file syntax as well as arbitrary semantic and best practice attributes determined by the rule file writer. The linter can also be used to check LABEL rules against docker images.
 - [hadolint](https://github.com/hadolint/hadolint)  - Linter for Dockerfiles. The linter is parsing the Dockerfile into an AST and performs rules on top of the AST. It is standing on the shoulders of ShellCheck to lint the Bash code inside RUN instructions.
+
+### Elixir
+
+- [credo](https://github.com/rrrene/credo) - A static code analysis tool for the Elixir language with a focus on code consistency and teaching.
 
 ### English
 
