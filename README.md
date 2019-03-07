@@ -25,6 +25,7 @@ This project is not closed to actual static analyzers. With this repository we i
   - [English](#english)
   - [Erlang](#erlang)
   - [Go](#go)
+  - [GraphQL](#graphql)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
   - [HTML](#html)
@@ -122,6 +123,10 @@ This project is not closed to actual static analyzers. With this repository we i
 - [golint](https://github.com/golang/lint) - Go style linter written in Go. Focus with coding styles more than with correctness.
 - [gometalinter](https://github.com/alecthomas/gometalinter) - Concurrently run Go lint tools and normalise their output.
 - [go vet](https://golang.org/cmd/vet/) - Examines Go source code and reports suspicious constructs.
+
+### GraphQL
+
+- [graphql-schema-linter](https://github.com/cjoudrey/graphql-schema-linter) - Validate GraphQL schema definitions against a set of rules.
 
 ### Haskell
 
