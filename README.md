@@ -140,6 +140,7 @@ This project is not closed to actual static analyzers. With this repository we i
 
 - [htmlhint](https://github.com/yaniswang/HTMLHint) - HTMLHint is a Static Code Analysis Tool for HTML, you can use it with IDE or in build system.
 - [bootlint](https://github.com/twbs/bootlint) - Bootlint is a tool that checks for several common HTML mistakes in webpages that are using Bootstrap.
+- [jinjalint](https://github.com/motet-a/jinjalint) - A prototype linter which checks the indentation and the correctness of Jinja-like/HTML templates. Also supports Django Templates.
 
 ### Java
 
