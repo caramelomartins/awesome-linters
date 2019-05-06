@@ -14,9 +14,8 @@ This project is not closed to actual static analyzers. With this repository we i
   - [Language Agnostic](#language-agnostic)
   - [Ansible](#ansible)
   - [Awesome Lists](#awesome-lists)
-  - [C](#c)
+  - [C/C++](#cc)
   - [CoffeeScript](#coffeescript)
-  - [C++](#c-1)
   - [Crystal](#crystal)
   - [CSS](#css)
   - [Dart](#dart)
@@ -69,20 +68,27 @@ This project is not closed to actual static analyzers. With this repository we i
 
 - [awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome lists. Helps to createa and maintain Awesome lists. Written in Javascript.
 
-### C
+### C/C++
 
-- [oclint](https://github.com/oclint/oclint) - Static analysis for C, C++ and Objective-C. Written in C++.
-- [uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
+- [clang-format](https://clang.llvm.org/docs/ClangFormat.html) - Formats C/C++
+  code according to a coding style (Google, LLVM, Mozilla, Webkit, and Chromium
+  available)
+- [clang-tidy](https://clang.llvm.org/extra/clang-tidy/) - A clang-based C/C++
+  linter tool to provide an extensible framework for diagnosing and fixing
+  typical programming errors
+- [cppcheck](http://cppcheck.sourceforge.net/) - Cppcheck is a static analysis
+  tool for C/C++ code. It provides unique code analysis to detect bugs and
+  focuses on detecting undefined behaviour and dangerous coding constructs. The
+  goal is to detect only real errors in the code (i.e. have very few false
+  positives).
+- [oclint](https://github.com/oclint/oclint) - Static analysis for C, C++ and
+  Objective-C. Written in C++.
+- [uncrustify](https://github.com/uncrustify/uncrustify) - Source code
+  beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 
 ### CoffeeScript
 
 - [coffeelint](https://github.com/clutchski/coffeelint) - Configurable linter written in CoffeScript to analyze CoffeScript.
-
-### C++
-
-- [cppcheck](http://cppcheck.sourceforge.net/) - Cppcheck is a static analysis tool for C/C++ code. It provides unique code analysis to detect bugs and focuses on detecting undefined behaviour and dangerous coding constructs. The goal is to detect only real errors in the code (i.e. have very few false positives).
-- [oclint](https://github.com/oclint/oclint) - Static analysis for C, C++ and Objective-C. Written in C++.
-- [uncrustify](https://github.com/uncrustify/uncrustify) - Source code beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 
 ### Crystal
 
