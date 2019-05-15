@@ -1,0 +1,10 @@
+# To add pre-commit hooks, `pre-commit install`
+fail_fast: false
+
+repos:
+  - repo: https://github.com/prettier/prettier
+    rev: master
+    hooks:
+      - id: prettier
+        args: ["--write", "--prose-wrap", "always"]
+        additional_dependencies: [prettier]
