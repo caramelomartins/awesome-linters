@@ -1,5 +1,7 @@
 # Awesome Linters
 
+[![Build Status](https://travis-ci.org/caramelomartins/awesome-linters.svg?branch=master)](https://travis-ci.org/caramelomartins/awesome-linters)
+
 > A curated list of awesome linters.
 
 Code linters are programs that performs static analysis on your code. They check
