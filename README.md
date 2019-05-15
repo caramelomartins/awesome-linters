@@ -34,6 +34,7 @@ this topic will be welcome as well as links related to actual linters.
   - [Elixir](#elixir)
   - [English](#english)
   - [Erlang](#erlang)
+  - [Git](#git)
   - [Go](#go)
   - [GraphQL](#graphql)
   - [Haskell](#haskell)
@@ -160,6 +161,12 @@ this topic will be welcome as well as links related to actual linters.
 
 - [elvis](https://github.com/inaka/elvis) - Configurable Erlang linter written
   in Erlang.
+
+### Git
+
+- [commitlint](https://github.com/conventional-changelog/commitlint) -
+  commitlint checks if your commit messages meet the
+  [conventional commit format](https://conventionalcommits.org).
 
 ### Go
 
