@@ -208,6 +208,7 @@ This project is not closed to actual static analyzers. With this repository we i
 - [flake8](https://github.com/PyCQA/flake8) - Runs PyFlakes, pycodestyle and other tools from only one CLI. Written in Python.
 - [pycodestyle (formerly called pep8)](https://github.com/PyCQA/pycodestyle) - Tool to check your Python code against some of the style conventions in PEP 8.
 - [pylint](https://github.com/PyCQA/pylint) - Source code analyzer which looks for programming errors, helps enforcing a coding standard and sniffs for some code smells.
+- [yala](https://github.com/cemsbr/yala) - YALA combines many linters to improve the quality of your code.
 
 ### reStructuredText
 
