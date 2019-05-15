@@ -72,6 +72,9 @@ this topic will be welcome as well as links related to actual linters.
 
 - [coala](https://github.com/coala-analyzer/coala) - Language agnostic linter
   based on rules and standards. Written in Python.
+- [commitlint](https://github.com/conventional-changelog/commitlint) -
+  commitlint checks if your commit messages meet the
+  [conventional commit format](https://conventionalcommits.org).
 
 ### Ansible
 
@@ -161,12 +164,6 @@ this topic will be welcome as well as links related to actual linters.
 
 - [elvis](https://github.com/inaka/elvis) - Configurable Erlang linter written
   in Erlang.
-
-### Git
-
-- [commitlint](https://github.com/conventional-changelog/commitlint) -
-  commitlint checks if your commit messages meet the
-  [conventional commit format](https://conventionalcommits.org).
 
 ### Go
 
