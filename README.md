@@ -168,8 +168,8 @@ this topic will be welcome as well as links related to actual linters.
 ### Go
 
 - [golangci-lint](https://github.com/golangci/golangci-lint) - Linters Runner
-  for Go. 5x faster than gometalinter. Nice colored output. Can report only
-  new issues. Fewer false-positives. Yaml/toml config.
+  for Go. 5x faster than gometalinter. Nice colored output. Can report only new
+  issues. Fewer false-positives. Yaml/toml config.
 - [golint](https://github.com/golang/lint) - Go style linter written in Go.
   Focus with coding styles more than with correctness.
 - [gometalinter](https://github.com/alecthomas/gometalinter) - Concurrently run
