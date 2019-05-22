@@ -34,7 +34,6 @@ this topic will be welcome as well as links related to actual linters.
   - [Elixir](#elixir)
   - [English](#english)
   - [Erlang](#erlang)
-  - [Git](#git)
   - [Go](#go)
   - [GraphQL](#graphql)
   - [Haskell](#haskell)
