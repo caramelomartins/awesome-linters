@@ -298,6 +298,8 @@ this topic will be welcome as well as links related to actual linters.
 - [pylint](https://github.com/PyCQA/pylint) - Source code analyzer which looks
   for programming errors, helps enforcing a coding standard and sniffs for some
   code smells.
+- [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -
+  The strictest and most opinionated python linter ever.
 - [yala](https://github.com/cemsbr/yala) - YALA combines many linters to improve
   the quality of your code.
 
