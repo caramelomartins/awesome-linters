@@ -111,8 +111,8 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Crystal
 
-- [ameba](https://github.com/crystal-ameba/ameba) - Static code analysis tool for
-  Crystal.
+- [ameba](https://github.com/crystal-ameba/ameba) - Static code analysis tool
+  for Crystal.
 
 ### CSS
 
