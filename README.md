@@ -54,6 +54,7 @@ this topic will be welcome as well as links related to actual linters.
   - [reStructuredText](#restructuredtext)
   - [Ruby](#ruby)
   - [Rust](#rust)
+  - [SaltStack](#saltstack)
   - [Sass](#sass)
   - [Scala](#scala)
   - [Shell](#shell)
@@ -324,6 +325,11 @@ this topic will be welcome as well as links related to actual linters.
 
 - [rust-clippy](https://github.com/Manishearth/rust-clippy) - Collection of
   lints to catch common mistakes and improve your Rust code.
+
+### SaltStack
+
+- [salt-lint](https://github.com/warpnet/salt-lint) - A command-line utility
+  that checks for best practices in SaltStack.
 
 ### Sass
 
