@@ -127,7 +127,8 @@ this topic will be welcome as well as links related to actual linters.
 - [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter) - Plugin
   for PostCSS to lint CSS according to _BEM-style_. Written in Javascript.
 - [stylelint](http://stylelint.io) - CSS linter that is unopinionated, supports
-  plugins and has a wide range of rules built-in. Written in Javascript.
+  plugins and has a wide range of rules built-in. Written in Javascript, it
+  parses by default CSS-like syntaxes such as SCSS, Sass, Less and SugarSS.
 
 ### Dart
 
@@ -338,6 +339,9 @@ this topic will be welcome as well as links related to actual linters.
 - [scss-lint](https://github.com/causes/scss-lint) - Tool to help keep your SCSS
   files clean and readable by running it against a collection of configurable
   linter rules.
+- [stylelint](http://stylelint.io) - CSS linter that is unopinionated, supports
+  plugins and has a wide range of rules built-in. Written in Javascript, it
+  parses by default CSS-like syntaxes such as SCSS, Sass, Less and SugarSS.
 
 ### Scala
 
