@@ -249,6 +249,8 @@ this topic will be welcome as well as links related to actual linters.
 
 ### npm
 
+- [lockfile-lint](https://github.com/lirantal/lockfile-lint) - Lint an npm or
+  yarn lockfile to analyze and detect security issues.
 - [npm-package-json-lint](https://github.com/tclindner/npm-package-json-lint) -
   Configurable linter to enforce standards in npm package.json files.
 
