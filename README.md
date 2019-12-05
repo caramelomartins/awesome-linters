@@ -160,6 +160,8 @@ this topic will be welcome as well as links related to actual linters.
 - [proselint](https://github.com/amperser/proselint) - Linter for English that
   provides guidelines to make better writing. It has plugins for several editors
   and is configurable.
+- [textlint](https://textlint.github.io/) - The pluggable linting tool for
+  natural language texts.
 
 ### Erlang
 
