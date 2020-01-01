@@ -33,6 +33,7 @@ this topic will be welcome as well as links related to actual linters.
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
   - [English](#english)
+  - [Env](#env)
   - [Erlang](#erlang)
   - [Go](#go)
   - [GraphQL](#graphql)
@@ -162,6 +163,10 @@ this topic will be welcome as well as links related to actual linters.
   and is configurable.
 - [textlint](https://textlint.github.io/) - The pluggable linting tool for
   natural language texts.
+
+### Env
+
+- [dotenv-linter](https://github.com/mgrachev/dotenv-linter) - Linter for `.env` files.
 
 ### Erlang
 
