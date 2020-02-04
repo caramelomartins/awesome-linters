@@ -7,6 +7,12 @@ Most of the linters in this list have plugins available for popular text editors
 
 This project is not closed to actual static analyzers. With this repository we intend to have an information resource for all things related to static analysis of code. By this, we mean that articles, talks or any other resource related to this topic will be welcome as well as links related to actual linters.
 
+* Organize it inside the right language "container".
+* Organize it inside the right language "container".
+* Organize it inside the right language "container".
+* Organize it inside the right language "container".
+* Organize it inside the right language "container".
+
 ## Contents
 
 - [Linters](#linters)
