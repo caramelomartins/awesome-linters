@@ -245,7 +245,8 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Kotlin
 
-- [ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
+- [ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin
+  linter with built-in formatter
 
 ### Lua
 
