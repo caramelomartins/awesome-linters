@@ -42,6 +42,7 @@ this topic will be welcome as well as links related to actual linters.
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Markdown](#markdown)
   - [npm](#npm)
@@ -241,6 +242,10 @@ this topic will be welcome as well as links related to actual linters.
   allows no configuration.
 - [xo](https://github.com/sindresorhus/xo) - Opinionated but configurable ESLint
   wrapper with lots of goodies included. Enforces strict and readable code.
+
+### Kotlin
+
+- [ktlint](https://github.com/pinterest/ktlint) - An anti-bikeshedding Kotlin linter with built-in formatter
 
 ### Lua
 
