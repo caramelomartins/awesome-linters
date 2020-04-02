@@ -148,6 +148,9 @@ this topic will be welcome as well as links related to actual linters.
 - [Dockerfilelint](https://github.com/replicatedhq/dockerfilelint)
   Dockerfilelint is an node module that analyzes a Dockerfile and looks for
   common traps, mistakes and helps enforce best practices
+- [Dockerlint](https://github.com/RedCoolBeans/dockerlint) Linting tool for
+  Dockerfiles based on recommendations from Dockerfile Reference and Best 
+  practices for writing Dockerfiles as of Docker 1.6.
 - [hadolint](https://github.com/hadolint/hadolint) - Linter for Dockerfiles. The
   linter is parsing the Dockerfile into an AST and performs rules on top of the
   AST. It is standing on the shoulders of ShellCheck to lint the Bash code
