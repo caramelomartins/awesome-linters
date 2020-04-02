@@ -145,6 +145,9 @@ this topic will be welcome as well as links related to actual linters.
   syntax as well as arbitrary semantic and best practice attributes determined
   by the rule file writer. The linter can also be used to check LABEL rules
   against docker images.
+- [Dockerfilelint](https://github.com/replicatedhq/dockerfilelint)
+  Dockerfilelint is an node module that analyzes a Dockerfile and looks for
+  common traps, mistakes and helps enforce best practices
 - [hadolint](https://github.com/hadolint/hadolint) - Linter for Dockerfiles. The
   linter is parsing the Dockerfile into an AST and performs rules on top of the
   AST. It is standing on the shoulders of ShellCheck to lint the Bash code
