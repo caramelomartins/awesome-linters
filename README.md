@@ -281,8 +281,8 @@ this topic will be welcome as well as links related to actual linters.
 
 - [perlcritic](https://github.com/Perl-Critic) - The leading static analyzer for
   Perl. Configurable, extensible, powerful.
-- [Perltidy](http://perltidy.sourceforge.net/) - a Perl code autoformatter /
-  beautifier.
+- [Perltidy](http://perltidy.sourceforge.net/) - a Perl code
+  autoformatter/beautifier.
 
 ### PHP
 
