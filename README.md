@@ -147,7 +147,7 @@ this topic will be welcome as well as links related to actual linters.
   by the rule file writer. The linter can also be used to check LABEL rules
   against docker images.
 - [Dockerfilelint](https://github.com/replicatedhq/dockerfilelint)
-  Dockerfilelint is an node module that analyzes a Dockerfile and looks for
+  Dockerfilelint is a node module that analyzes a Dockerfile and looks for
   common traps, mistakes and helps enforce best practices
 - [Dockerlint](https://github.com/RedCoolBeans/dockerlint) Linting tool for
   Dockerfiles based on recommendations from Dockerfile Reference and Best
@@ -302,7 +302,7 @@ this topic will be welcome as well as links related to actual linters.
 - [phplint](https://www.npmjs.com/package/phplint) - Node wrapper around the
   native php linter that allows for parallel linting and integration with build
   systems like Grunt, Gulp and more.
-- [PHP Mess Detector](https://github.com/phpmd/phpmd) - PHPMD can be seen as an
+- [PHP Mess Detector](https://github.com/phpmd/phpmd) - PHPMD can be seen as a
   user friendly and easy to configure frontend for the raw metrics measured by
   PHP Depend.
 
