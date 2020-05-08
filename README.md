@@ -32,6 +32,7 @@ this topic will be welcome as well as links related to actual linters.
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
+  - [Elm](#elm)
   - [English](#english)
   - [Env](#env)
   - [Erlang](#erlang)
@@ -149,7 +150,7 @@ this topic will be welcome as well as links related to actual linters.
   Dockerfilelint is an node module that analyzes a Dockerfile and looks for
   common traps, mistakes and helps enforce best practices
 - [Dockerlint](https://github.com/RedCoolBeans/dockerlint) Linting tool for
-  Dockerfiles based on recommendations from Dockerfile Reference and Best 
+  Dockerfiles based on recommendations from Dockerfile Reference and Best
   practices for writing Dockerfiles as of Docker 1.6.
 - [hadolint](https://github.com/hadolint/hadolint) - Linter for Dockerfiles. The
   linter is parsing the Dockerfile into an AST and performs rules on top of the
@@ -160,6 +161,12 @@ this topic will be welcome as well as links related to actual linters.
 
 - [credo](https://github.com/rrrene/credo) - Static code analysis tool for the
   Elixir language with a focus on code consistency and teaching.
+
+### Elm
+
+- [elm-review](https://github.com/jfmengels/elm-review) - Analyzes whole Elm
+  projects, with a focus on shareable and custom rules written in Elm that add
+  guarantees the Elm compiler doesn't give you.
 
 ### English
 
