@@ -87,7 +87,7 @@ this topic will be welcome as well as links related to actual linters.
 ### Awesome Lists
 
 - [awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for
-  Awesome lists. Helps to createa and maintain Awesome lists. Written in
+  Awesome lists. Helps to create and maintain Awesome lists. Written in
   JavaScript.
 
 ### C/C++
