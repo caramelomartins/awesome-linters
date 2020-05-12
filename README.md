@@ -87,8 +87,8 @@ this topic will be welcome as well as links related to actual linters.
 ### Awesome Lists
 
 - [awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for
-  Awesome lists. Helps to createa and maintain Awesome lists. Written in
-  Javascript.
+  Awesome lists. Helps to create and maintain Awesome lists. Written in
+  JavaScript.
 
 ### C/C++
 
@@ -121,16 +121,16 @@ this topic will be welcome as well as links related to actual linters.
 ### CSS
 
 - [csslint](https://github.com/CSSLint/csslint) - CSS static analysis written in
-  Javascript. Uses pluggable rules.
+  JavaScript. Uses pluggable rules.
 - [csscomb](https://github.com/csscomb/csscomb.js) - CSS tool that beautifies
   CSS based on a configuration. Helps with keeping CSS consistent. Written in
-  Javascript.
+  JavaScript.
 - [ie8linter](https://github.com/israelidanny/ie8linter) - Static analysis for
-  Internet Explorer 8 compatibility. Written in Javascript.
+  Internet Explorer 8 compatibility. Written in JavaScript.
 - [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter) - Plugin
-  for PostCSS to lint CSS according to _BEM-style_. Written in Javascript.
+  for PostCSS to lint CSS according to _BEM-style_. Written in JavaScript.
 - [stylelint](http://stylelint.io) - CSS linter that is unopinionated, supports
-  plugins and has a wide range of rules built-in. Written in Javascript, it
+  plugins and has a wide range of rules built-in. Written in JavaScript, it
   parses by default CSS-like syntaxes such as SCSS, Sass, Less and SugarSS.
 
 ### Dart
@@ -147,7 +147,7 @@ this topic will be welcome as well as links related to actual linters.
   by the rule file writer. The linter can also be used to check LABEL rules
   against docker images.
 - [Dockerfilelint](https://github.com/replicatedhq/dockerfilelint)
-  Dockerfilelint is an node module that analyzes a Dockerfile and looks for
+  Dockerfilelint is a node module that analyzes a Dockerfile and looks for
   common traps, mistakes and helps enforce best practices
 - [Dockerlint](https://github.com/RedCoolBeans/dockerlint) Linting tool for
   Dockerfiles based on recommendations from Dockerfile Reference and Best
@@ -171,7 +171,7 @@ this topic will be welcome as well as links related to actual linters.
 ### English
 
 - [alex](https://github.com/wooorm/alex) - Linter to help catch insensitive
-  writing in English. Written in Javascript.
+  writing in English. Written in JavaScript.
 - [proselint](https://github.com/amperser/proselint) - Linter for English that
   provides guidelines to make better writing. It has plugins for several editors
   and is configurable.
@@ -251,7 +251,7 @@ this topic will be welcome as well as links related to actual linters.
 - [prettier](https://github.com/jlongster/prettier) - Opinionated JavaScript
   formatter inspired by refmt with advanced support for language features from
   ES2017, JSX, and Flow.
-- [standard](https://github.com/feross/standard) - Javascript style linter that
+- [standard](https://github.com/feross/standard) - JavaScript style linter that
   allows no configuration.
 - [xo](https://github.com/sindresorhus/xo) - Opinionated but configurable ESLint
   wrapper with lots of goodies included. Enforces strict and readable code.
@@ -272,7 +272,7 @@ this topic will be welcome as well as links related to actual linters.
   checker and lint tool for Markdown/CommonMark files.
 - [mdl](https://github.com/mivok/markdownlint) - Check markdown files and flag
   style issues. Written in ruby and is distributed as a rubygem.
-- [remark-lint](https://github.com/wooorm/remark-lint) - Written in Javascript.
+- [remark-lint](https://github.com/wooorm/remark-lint) - Written in JavaScript.
   remark-lint provides configurable Markdown style linting.
 
 ### npm
@@ -302,7 +302,7 @@ this topic will be welcome as well as links related to actual linters.
 - [phplint](https://www.npmjs.com/package/phplint) - Node wrapper around the
   native php linter that allows for parallel linting and integration with build
   systems like Grunt, Gulp and more.
-- [PHP Mess Detector](https://github.com/phpmd/phpmd) - PHPMD can be seen as an
+- [PHP Mess Detector](https://github.com/phpmd/phpmd) - PHPMD can be seen as a
   user friendly and easy to configure frontend for the raw metrics measured by
   PHP Depend.
 
@@ -371,7 +371,7 @@ this topic will be welcome as well as links related to actual linters.
   files clean and readable by running it against a collection of configurable
   linter rules.
 - [stylelint](http://stylelint.io) - CSS linter that is unopinionated, supports
-  plugins and has a wide range of rules built-in. Written in Javascript, it
+  plugins and has a wide range of rules built-in. Written in JavaScript, it
   parses by default CSS-like syntaxes such as SCSS, Sass, Less and SugarSS.
 
 ### Scala
