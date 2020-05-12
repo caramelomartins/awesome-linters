@@ -78,6 +78,9 @@ this topic will be welcome as well as links related to actual linters.
 - [commitlint](https://github.com/conventional-changelog/commitlint) -
   commitlint checks if your commit messages meet the
   [conventional commit format](https://conventionalcommits.org).
+- [tidyall](https://metacpan.org/release/Code-TidyAll) - an all-in-one code
+  tidier and validator with many available backends, caching,
+  filtering-by-paths, and some other features.
 
 ### Ansible
 
