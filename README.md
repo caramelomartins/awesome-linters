@@ -290,6 +290,10 @@ this topic will be welcome as well as links related to actual linters.
 - [uncrustify](https://github.com/uncrustify/uncrustify) - Source code
   beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 
+### OpenAPI (Swagger)
+- [speccy](https://github.com/wework/speccy) - A handy toolkit for OpenAPI, 
+  with a linter to enforce quality rules.
+
 ### Perl
 
 - [perlcritic](https://github.com/Perl-Critic) - The leading static analyzer for
