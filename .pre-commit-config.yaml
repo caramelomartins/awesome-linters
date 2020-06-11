@@ -3,8 +3,6 @@ fail_fast: false
 
 repos:
   - repo: https://github.com/prettier/prettier
-    rev: master
+    rev: 2.0.3
     hooks:
       - id: prettier
-        args: ["--write", "--prose-wrap", "always"]
-        additional_dependencies: ['prettier@1.1.0']
