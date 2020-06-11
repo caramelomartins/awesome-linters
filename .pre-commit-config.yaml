@@ -7,4 +7,4 @@ repos:
     hooks:
       - id: prettier
         args: ["--write", "--prose-wrap", "always"]
-        additional_dependencies: [prettier]
+        additional_dependencies: ['prettier@1.1.0']
