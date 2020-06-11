@@ -411,6 +411,8 @@ this topic will be welcome as well as links related to actual linters.
 
 ### YAML
 
+- [spectral](https://github.com/stoplightio/spectral) - A flexible JSON/YAML
+  linter, with out of the box support for OpenAPI v2/v3 and AsyncAPI v2.
 - [yamllint](https://github.com/adrienverge/yamllint) - Linter for YAML files.
 
 ## Contributing
