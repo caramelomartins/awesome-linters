@@ -255,7 +255,7 @@ this topic will be welcome as well as links related to actual linters.
   formatter inspired by refmt with advanced support for language features from
   ES2017, JSX, and Flow.
 - [putout](https://github.com/coderaiser/putout) - Linter that fixes everything
-it can find, supports JS/TS/Flow and wrap ESLint (when `eslintrc` exists).
+  it can find, supports JS/TS/Flow and wrap ESLint (when `eslintrc` exists).
 - [standard](https://github.com/feross/standard) - JavaScript style linter that
   allows no configuration.
 - [xo](https://github.com/sindresorhus/xo) - Opinionated but configurable ESLint
