@@ -9,7 +9,7 @@ your code for common mistakes and bad coding style/practices thus helping you
 catch errors before compilation/interpretation and forcing you and your team to
 keep a consistent code style within a project.
 
-Most of the linters in this list have plugins available for popular text editors
+Most of the linters in this list have plugins available for popular       text editors
 and IDEs and are pretty easy to setup and automate (via a pre-commit hook or a
 CI service for example).
 
