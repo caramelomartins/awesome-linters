@@ -224,6 +224,8 @@ this topic will be welcome as well as links related to actual linters.
 
 - [htmlhint](https://github.com/yaniswang/HTMLHint) - HTMLHint is a Static Code
   Analysis Tool for HTML, you can use it with IDE or in build system.
+- [html-validate](https://html-validate.org) - Offline HTML5 validator.
+  Validates either a full document or a smaller (incomplete) template.
 - [bootlint](https://github.com/twbs/bootlint) - Bootlint is a tool that checks
   for several common HTML mistakes in webpages that are using Bootstrap.
 - [jinjalint](https://github.com/motet-a/jinjalint) - A prototype linter which
