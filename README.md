@@ -400,6 +400,8 @@ this topic will be welcome as well as links related to actual linters.
 
 - [shellcheck](https://github.com/koalaman/shellcheck) - Gives warnings and
   suggestions for bash/sh shell scripts.
+- [shfmt](https://github.com/mvdan/sh) - a shell (POSIX shell / bash / mksh)
+  parser, formatter, and interpreter written in Go 1.13-and-above.
 
 ### Swift
 
