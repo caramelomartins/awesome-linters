@@ -73,6 +73,9 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Language Agnostic
 
+- [check-all-the-things](https://github.com/collab-qa/check-all-the-things) - A
+  tool to run many checking tools. Probably not suitable for running in untrusted
+  directories.
 - [coala](https://github.com/coala-analyzer/coala) - Language agnostic linter
   based on rules and standards. Written in Python.
 - [commitlint](https://github.com/conventional-changelog/commitlint) -
