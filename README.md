@@ -113,6 +113,8 @@ this topic will be welcome as well as links related to actual linters.
   Objective-C. Written in C++.
 - [uncrustify](https://github.com/uncrustify/uncrustify) - Source code
   beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
+- [cpplin](https://github.com/cpplint/cpplint) - Source code checker for C/C++
+  files following Google's internal C++ style guide.
 
 ### CoffeeScript
 
