@@ -242,6 +242,7 @@ this topic will be welcome as well as links related to actual linters.
   standard.
 - [findbugs](http://findbugs.sourceforge.net) - Uses static analysis to look for
   bugs in Java code.
+- [Oversecured](https://oversecured.com/) - A SaaS-based static code analyzer for Android apps. Designed to detect security vulnerabilities. Contains 90+ vulnerability categories.
 - [pmd](http://pmd.github.io) - Static analyzer that finds common programming
   flaws. It supports Java, JavaScript, Salesforce.com Apex, PLSQL, Apache
   Velocity, XML, XSL.
