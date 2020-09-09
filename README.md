@@ -339,7 +339,9 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Python
 
-- [black](https://github.com/psf/black) - The uncompromising Python code formatter. Blackened code looks the same regardless of the project you're reading.
+- [black](https://github.com/psf/black) - The uncompromising Python code
+  formatter. Blackened code looks the same regardless of the project you're
+  reading.
 - [flake8](https://github.com/PyCQA/flake8) - Runs PyFlakes, pycodestyle and
   other tools from only one CLI. Written in Python.
 - [pycodestyle (formerly called pep8)](https://github.com/PyCQA/pycodestyle) -
