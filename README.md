@@ -107,6 +107,8 @@ this topic will be welcome as well as links related to actual linters.
   focuses on detecting undefined behaviour and dangerous coding constructs. The
   goal is to detect only real errors in the code (i.e. have very few false
   positives).
+- [cpplint](https://github.com/cpplint/cpplint) - Source code checker for C/C++
+  files following Google's internal C++ style guide.
 - [oclint](https://github.com/oclint/oclint) - Static analysis for C, C++ and
   Objective-C. Written in C++.
 - [uncrustify](https://github.com/uncrustify/uncrustify) - Source code
