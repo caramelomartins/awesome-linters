@@ -186,8 +186,8 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Env
 
-- [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast 
-  linter for `.env` files. Written in Rust 🦀 
+- [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast
+  linter for `.env` files. Written in Rust 🦀
 
 ### Erlang
 
