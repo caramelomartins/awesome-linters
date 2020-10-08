@@ -2,7 +2,7 @@
 
 > A community-driven list of awesome linters.
 
-Code linters are programs that performs static analysis on your code. They check
+Code linters are programs that perform static analysis on your code. They check
 your code for common mistakes and bad coding style/practices thus helping you
 catch errors before compilation/interpretation and forcing you and your team to
 keep a consistent code style within a project.
