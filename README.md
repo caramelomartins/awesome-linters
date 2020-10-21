@@ -36,6 +36,7 @@ this topic will be welcome as well as links related to actual linters.
   - [Erlang](#erlang)
   - [Go](#go)
   - [GraphQL](#graphql)
+  - [Groovy](#groovy)
   - [Haskell](#haskell)
   - [Haxe](#haxe)
   - [HTML](#html)
@@ -210,6 +211,11 @@ this topic will be welcome as well as links related to actual linters.
 
 - [graphql-schema-linter](https://github.com/cjoudrey/graphql-schema-linter) -
   Validate GraphQL schema definitions against a set of rules.
+
+### Groovy
+
+- [npm-groovy-lint](https://github.com/nvuillam/npm-groovy-lint) -
+  Validate, format and auto-fix Groovy, Jenkinsfile and Gradle files
 
 ### Haskell
 
