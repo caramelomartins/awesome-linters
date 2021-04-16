@@ -33,6 +33,7 @@ this topic will be welcome as well as links related to actual linters.
   - [Elm](#elm)
   - [English](#english)
   - [Env](#env)
+  - [EPUB](#epub)
   - [Erlang](#erlang)
   - [Go](#go)
   - [GraphQL](#graphql)
@@ -192,6 +193,12 @@ this topic will be welcome as well as links related to actual linters.
 
 - [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast
   linter for `.env` files. Written in Rust 🦀
+
+### EPUB
+
+- [EPUBCheck](https://github.com/w3c/epubcheck) - a tool to validate the
+  conformance of EPUB publications against the EPUB specifications. Can be run
+  as a standalone command-line tool or used as a Java library.
 
 ### Erlang
 
