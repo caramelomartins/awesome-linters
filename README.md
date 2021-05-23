@@ -60,6 +60,7 @@ this topic will be welcome as well as links related to actual linters.
   - [Sass](#sass)
   - [Scala](#scala)
   - [Shell](#shell)
+  - [SQL](#sql)
   - [Swift](#swift)
   - [TypeScript](#typescript)
   - [YAML](#yaml)
@@ -419,6 +420,11 @@ this topic will be welcome as well as links related to actual linters.
   suggestions for bash/sh shell scripts.
 - [shfmt](https://github.com/mvdan/sh) - a shell (POSIX shell / bash / mksh)
   parser, formatter, and interpreter written in Go 1.13-and-above.
+
+### SQL
+
+- [sqlfluff](https://github.com/sqlfluff/sqlfluff) - SQLFluff is
+  a dialect-flexible and configurable SQL linter.
 
 ### Swift
 
