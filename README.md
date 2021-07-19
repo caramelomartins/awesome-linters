@@ -251,6 +251,7 @@ this topic will be welcome as well as links related to actual linters.
 - [jinjalint](https://github.com/motet-a/jinjalint) - A prototype linter which
   checks the indentation and the correctness of Jinja-like/HTML templates. Also
   supports Django Templates.
+- [LintHTML](https://github.com/linthtml/linthtml) - LintHTML is a fork of htmllint. It is extendable via plugins.
 
 ### Java
 
