@@ -281,6 +281,8 @@ this topic will be welcome as well as links related to actual linters.
   it can find, supports JS/TS/Flow and wrap ESLint (when `eslintrc` exists).
 - [standard](https://github.com/feross/standard) - JavaScript style linter that
   allows no configuration.
+- [quick-lint-js](https://quick-lint-js.com) - Finds bugs in JavaScript
+  programs. Designed for editors.
 - [xo](https://github.com/sindresorhus/xo) - Opinionated but configurable ESLint
   wrapper with lots of goodies included. Enforces strict and readable code.
 
