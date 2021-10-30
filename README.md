@@ -279,6 +279,8 @@ this topic will be welcome as well as links related to actual linters.
   ES2017, JSX, and Flow.
 - [putout](https://github.com/coderaiser/putout) - Linter that fixes everything
   it can find, supports JS/TS/Flow and wrap ESLint (when `eslintrc` exists).
+- [quick-lint-js](https://quick-lint-js.com) - Finds bugs in JavaScript
+  programs. Designed for editors.
 - [standard](https://github.com/feross/standard) - JavaScript style linter that
   allows no configuration.
 - [xo](https://github.com/sindresorhus/xo) - Opinionated but configurable ESLint
