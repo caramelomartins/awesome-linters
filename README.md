@@ -252,6 +252,7 @@ this topic will be welcome as well as links related to actual linters.
   checks the indentation and the correctness of Jinja-like/HTML templates. Also
   supports Django Templates.
 - [LintHTML](https://github.com/linthtml/linthtml) - LintHTML is a fork of htmllint. It is extendable via plugins.
+- [Nu Html Checker](https://github.com/validator/validator/) - An offline version of W3C's official validator for HTML, CSS, and SVG. Written in Java.
 
 ### Java
 
