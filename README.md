@@ -129,8 +129,10 @@ this topic will be welcome as well as links related to actual linters.
 
 ### CoffeeScript
 
-- [coffeelint](https://github.com/clutchski/coffeelint) - Configurable linter
+- [@coffelint/cli](https://github.com/coffeelint/coffeelint) - Configurable linter
   written in CoffeScript to analyze CoffeScript.
+- [coffeelint](https://github.com/clutchski/coffeelint) - Deprecated predecessor
+  of `@coffelint/cli`.
 
 ### Crystal
 
