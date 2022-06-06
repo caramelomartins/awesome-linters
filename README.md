@@ -49,6 +49,7 @@ this topic will be welcome as well as links related to actual linters.
   - [npm](#npm)
   - [Objective-C](#objective-c)
   - [Perl](#perl)
+  - [Plain Text](#plain-text)
   - [PHP](#php)
   - [Polymer](#polymer)
   - [Pug](#pug)
@@ -331,6 +332,12 @@ this topic will be welcome as well as links related to actual linters.
   Perl. Configurable, extensible, powerful.
 - [Perltidy](http://perltidy.sourceforge.net/) - a Perl code
   autoformatter/beautifier.
+
+### Plain Text
+
+- [ptlint.pl](https://github.com/rdiez/Tools/tree/master/PlainTextLinter) -
+  A simple linter for plain text files. It can check for things like
+  trailing whitespace, tabs, ASCII control codes, max line length, UTF-8 BOM.
 
 ### PHP
 
