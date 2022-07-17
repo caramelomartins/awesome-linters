@@ -154,7 +154,8 @@ this topic will be welcome as well as links related to actual linters.
 
 ### CSV
 
-- [csvlint.rb](https://github.com/Data-Liberation-Front/csvlint.rb) - The gem behind http://csvlint.io.
+- [csvlint.rb](https://github.com/Data-Liberation-Front/csvlint.rb) - The gem
+  behind http://csvlint.io.
 
 ### Dart
 
