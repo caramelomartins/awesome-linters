@@ -79,9 +79,9 @@ this topic will be welcome as well as links related to actual linters.
 - [commitlint](https://github.com/conventional-changelog/commitlint) -
   commitlint checks if your commit messages meet the
   [conventional commit format](https://conventionalcommits.org).
-- [Mega-Linter](https://nvuillam.github.io/mega-linter) - Linters aggregator
-  of 37 languages, 12 formats, 15 tooling formats , copy-pastes and spell.
-  Can automatically apply fixes with commit or Pull Request
+- [Mega-Linter](https://nvuillam.github.io/mega-linter) - Linters aggregator of
+  37 languages, 12 formats, 15 tooling formats , copy-pastes and spell. Can
+  automatically apply fixes with commit or Pull Request
 - [tidyall](https://metacpan.org/release/Code-TidyAll) - an all-in-one code
   tidier and validator with many available backends, caching,
   filtering-by-paths, and some other features.
@@ -192,8 +192,8 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Env
 
-- [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast
-  linter for `.env` files. Written in Rust 🦀
+- [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) -
+  ⚡️Lightning-fast linter for `.env` files. Written in Rust 🦀
 
 ### EPUB
 
@@ -225,8 +225,8 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Groovy
 
-- [npm-groovy-lint](https://github.com/nvuillam/npm-groovy-lint) -
-  Validate, format and auto-fix Groovy, Jenkinsfile and Gradle files
+- [npm-groovy-lint](https://github.com/nvuillam/npm-groovy-lint) - Validate,
+  format and auto-fix Groovy, Jenkinsfile and Gradle files
 
 ### Haskell
 
@@ -251,8 +251,10 @@ this topic will be welcome as well as links related to actual linters.
 - [jinjalint](https://github.com/motet-a/jinjalint) - A prototype linter which
   checks the indentation and the correctness of Jinja-like/HTML templates. Also
   supports Django Templates.
-- [LintHTML](https://github.com/linthtml/linthtml) - LintHTML is a fork of htmllint. It is extendable via plugins.
-- [Nu Html Checker](https://github.com/validator/validator/) - An offline version of W3C's official validator for HTML, CSS, and SVG. Written in Java.
+- [LintHTML](https://github.com/linthtml/linthtml) - LintHTML is a fork of
+  htmllint. It is extendable via plugins.
+- [Nu Html Checker](https://github.com/validator/validator/) - An offline
+  version of W3C's official validator for HTML, CSS, and SVG. Written in Java.
 
 ### Java
 
@@ -434,8 +436,8 @@ this topic will be welcome as well as links related to actual linters.
 
 ### SQL
 
-- [sqlfluff](https://github.com/sqlfluff/sqlfluff) - SQLFluff is
-  a dialect-flexible and configurable SQL linter.
+- [sqlfluff](https://github.com/sqlfluff/sqlfluff) - SQLFluff is a
+  dialect-flexible and configurable SQL linter.
 
 ### Swift
 
