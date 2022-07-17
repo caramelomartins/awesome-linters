@@ -27,6 +27,7 @@ this topic will be welcome as well as links related to actual linters.
   - [CoffeeScript](#coffeescript)
   - [Crystal](#crystal)
   - [CSS](#css)
+  - [CSV](#csv)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
@@ -150,6 +151,11 @@ this topic will be welcome as well as links related to actual linters.
 - [stylelint](http://stylelint.io) - CSS linter that is unopinionated, supports
   plugins and has a wide range of rules built-in. Written in JavaScript, it
   parses by default CSS-like syntaxes such as SCSS, Sass, Less and SugarSS.
+
+### CSV
+
+- [csvlint.rb](https://github.com/Data-Liberation-Front/csvlint.rb) - The gem
+  behind http://csvlint.io.
 
 ### Dart
 
