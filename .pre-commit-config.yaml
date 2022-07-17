@@ -3,6 +3,6 @@ fail_fast: false
 
 repos:
   - repo: https://github.com/prettier/prettier
-    rev: 2.0.3
+    rev: 2.7.1
     hooks:
       - id: prettier
