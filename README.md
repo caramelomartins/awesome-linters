@@ -82,6 +82,12 @@ this topic will be welcome as well as links related to actual linters.
 - [Mega-Linter](https://nvuillam.github.io/mega-linter) - Linters aggregator of
   37 languages, 12 formats, 15 tooling formats , copy-pastes and spell. Can
   automatically apply fixes with commit or Pull Request
+- [Mega-Linter](https://nvuillam.github.io/mega-linter) - Linters aggregator of
+  37 languages, 12 formats, 15 tooling formats , copy-pastes and spell. Can
+  automatically apply fixes with commit or Pull Request
+- [Scanmycode CE (Community Edition)](https://github.com/marcinguy/scanmycode-ce) -
+  Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One
+  Report.
 - [tidyall](https://metacpan.org/release/Code-TidyAll) - an all-in-one code
   tidier and validator with many available backends, caching,
   filtering-by-paths, and some other features.
