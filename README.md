@@ -80,6 +80,8 @@ this topic will be welcome as well as links related to actual linters.
 - [commitlint](https://github.com/conventional-changelog/commitlint) -
   commitlint checks if your commit messages meet the
   [conventional commit format](https://conventionalcommits.org).
+- [inflint](https://github.com/Exlint/Inflint) - Inflint allows you to 
+  easily set file names convention in your repository.
 - [Mega-Linter](https://nvuillam.github.io/mega-linter) - Linters aggregator of
   37 languages, 12 formats, 15 tooling formats , copy-pastes and spell. Can
   automatically apply fixes with commit or Pull Request
