@@ -308,6 +308,7 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Lua
 
+- [luacheck](https://github.com/lunarmodules/luacheck) - A tool for linting and static analysis of Lua code.
 - [lualint](https://github.com/philips/lualint) - lualint performs luac-based
   static analysis of global variable usage in Lua source code.
 
