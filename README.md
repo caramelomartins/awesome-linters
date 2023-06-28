@@ -55,6 +55,7 @@ this topic will be welcome as well as links related to actual linters.
   - [Pug](#pug)
   - [Puppet](#puppet)
   - [Python](#python)
+  - [Rego](#rego)
   - [reStructuredText](#restructuredtext)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -390,6 +391,13 @@ this topic will be welcome as well as links related to actual linters.
   The strictest and most opinionated python linter ever.
 - [yala](https://github.com/cemsbr/yala) - YALA combines many linters to improve
   the quality of your code.
+
+### Rego
+
+- [regal](https://github.com/StyraInc/regal) - Regal is a linter for the policy
+  language [Rego](https://www.openpolicyagent.org/docs/latest/policy-language/).
+  Regal aims to catch bugs and mistakes in policy code, while at the same time
+  helping people learn the language, best practices and idiomatic constructs.
 
 ### reStructuredText
 
