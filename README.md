@@ -92,6 +92,9 @@ this topic will be welcome as well as links related to actual linters.
 - [tidyall](https://metacpan.org/release/Code-TidyAll) - an all-in-one code
   tidier and validator with many available backends, caching,
   filtering-by-paths, and some other features.
+- [Trunk Check](https://github.com/trunk-io/plugins) - Protect your repos with 
+  100+ security tools, static analyzers, linters & formatters. Automatically
+  configures according to your tech stack. Run locally or with a git hook.
 - [violations-lib](https://github.com/tomasbjerre/violations-lib) - a library
   for parsing reports from static code analyzers. Can be used with Jenkins,
   Gradle, Maven and command line tools.
