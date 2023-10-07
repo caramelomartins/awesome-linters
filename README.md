@@ -89,6 +89,8 @@ this topic will be welcome as well as links related to actual linters.
 - [Scanmycode CE (Community Edition)](https://github.com/marcinguy/scanmycode-ce) -
   Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One
   Report.
+- [Sophie](https://github.com/ma-ilsi/Sophie) - *A Sophisticated Copyright
+  Linter* for maintaining copyright headers and meeting legal standards.
 - [tidyall](https://metacpan.org/release/Code-TidyAll) - an all-in-one code
   tidier and validator with many available backends, caching,
   filtering-by-paths, and some other features.
