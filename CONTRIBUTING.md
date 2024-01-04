@@ -14,7 +14,7 @@ the following:
 
 - `pre-commit run --all-files` before you commit, each time.
 
-- `prettier --write --prose-wrap always` before each commit, every time.
+- `prettier --write --prose-wrap always .` before each commit, every time.
 
 `pre-commit install` is the easier way to guarantee the linting is performed
 before each commit.
