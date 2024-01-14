@@ -55,6 +55,7 @@ this topic will be welcome as well as links related to actual linters.
   - [Pug](#pug)
   - [Puppet](#puppet)
   - [Python](#python)
+  - [Rego](#rego)
   - [reStructuredText](#restructuredtext)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -382,10 +383,18 @@ this topic will be welcome as well as links related to actual linters.
 - [pylint](https://github.com/PyCQA/pylint) - Source code analyzer which looks
   for programming errors, helps enforcing a coding standard and sniffs for some
   code smells.
+- [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust which is orders of magnitude faster than alternative tools while integrating more functionality behind a single, common interface.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -
   The strictest and most opinionated python linter ever.
 - [yala](https://github.com/cemsbr/yala) - YALA combines many linters to improve
   the quality of your code.
+
+### Rego
+
+- [regal](https://github.com/StyraInc/regal) - Regal is a linter for the policy
+  language [Rego](https://www.openpolicyagent.org/docs/latest/policy-language/).
+  Regal aims to catch bugs and mistakes in policy code, while at the same time
+  helping people learn the language, best practices and idiomatic constructs.
 
 ### reStructuredText
 
