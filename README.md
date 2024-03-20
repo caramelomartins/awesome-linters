@@ -271,11 +271,13 @@ this topic will be welcome as well as links related to actual linters.
 - [checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a
   development tool to help programmers write Java code that adheres to a coding
   standard.
-- [findbugs](http://findbugs.sourceforge.net) - Uses static analysis to look for
-  bugs in Java code.
 - [pmd](http://pmd.github.io) - Static analyzer that finds common programming
   flaws. It supports Java, JavaScript, Salesforce.com Apex, PLSQL, Apache
   Velocity, XML, XSL.
+- [SpotBugs](https://github.com/spotbugs/spotbugs) - Uses static analysis to look for
+  bugs in Java code.
+   - [fb-contrib](https://github.com/mebigfatguy/fb-contrib) - Plugin for SpotBugs or doing static code analysis on java byte code.
+   - [find-sec-bugs](https://github.com/find-sec-bugs/find-sec-bugs) - Plugin for SpotBugs for security audits of Java web applications and Android applications.
 - [uncrustify](https://github.com/uncrustify/uncrustify) - Source code
   beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
 
