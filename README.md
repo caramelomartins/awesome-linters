@@ -316,6 +316,8 @@ this topic will be welcome as well as links related to actual linters.
   checker and lint tool for Markdown/CommonMark files.
 - [mdl](https://github.com/mivok/markdownlint) - Check markdown files and flag
   style issues. Written in ruby and is distributed as a rubygem.
+- [mdsf](https://github.com/hougesen/mdsf) - Use your preferred code formatter
+  to format markdown code snippets.
 - [remark-lint](https://github.com/wooorm/remark-lint) - Written in JavaScript.
   remark-lint provides configurable Markdown style linting.
 
