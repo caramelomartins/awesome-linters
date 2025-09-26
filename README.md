@@ -76,6 +76,8 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Language Agnostic
 
+- [blockwatch](https://github.com/mennanov/blockwatch) - Keeps your code and
+  documentation in sync and valid. Also available as a Github Action.
 - [coala](https://github.com/coala-analyzer/coala) - Language agnostic linter
   based on rules and standards. Written in Python.
 - [commitlint](https://github.com/conventional-changelog/commitlint) -
