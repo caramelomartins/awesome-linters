@@ -278,6 +278,8 @@ this topic will be welcome as well as links related to actual linters.
   Velocity, XML, XSL.
 - [uncrustify](https://github.com/uncrustify/uncrustify) - Source code
   beautifier for C, C++, C#, ObjectiveC, D, Java, Pawn and VALA.
+- [jfmt](https://github.com/bmarwell/jfmt) - jfmt is an opinionated java source
+  code formatter for the command line  
 
 ### JavaScript
 
