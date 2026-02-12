@@ -76,6 +76,9 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Language Agnostic
 
+- [agnix](https://github.com/avifenesh/agnix) - Linter for AI agent
+  configuration files (CLAUDE.md, SKILL.md, hooks, MCP, .cursorrules) with 156
+  rules, auto-fix, and LSP server. Written in Rust.
 - [coala](https://github.com/coala-analyzer/coala) - Language agnostic linter
   based on rules and standards. Written in Python.
 - [commitlint](https://github.com/conventional-changelog/commitlint) -
