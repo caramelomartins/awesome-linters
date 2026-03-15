@@ -87,6 +87,7 @@ this topic will be welcome as well as links related to actual linters.
 - [Scanmycode CE (Community Edition)](https://github.com/marcinguy/scanmycode-ce) -
   Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One
   Report.
+- [Open Code Review](https://github.com/raye-deng/open-code-review) - AI-powered static analysis tool that detects AI-generated code defects (phantom packages, hallucinated APIs, context window breaks) invisible to traditional linters. Supports TypeScript, Python, Java, Go, Kotlin with SARIF output.
 - [tidyall](https://metacpan.org/release/Code-TidyAll) - an all-in-one code
   tidier and validator with many available backends, caching,
   filtering-by-paths, and some other features.
