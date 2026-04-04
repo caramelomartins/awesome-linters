@@ -76,6 +76,10 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Language Agnostic
 
+- [AgentLint](https://github.com/0xmariowu/AgentLint) - Linter for AI-friendly
+  repos. 33 evidence-backed checks across file structure, instruction quality,
+  build setup, session continuity, and security posture. Claude Code plugin with
+  auto-fix.
 - [coala](https://github.com/coala-analyzer/coala) - Language agnostic linter
   based on rules and standards. Written in Python.
 - [commitlint](https://github.com/conventional-changelog/commitlint) -
