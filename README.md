@@ -90,6 +90,9 @@ this topic will be welcome as well as links related to actual linters.
 - [tidyall](https://metacpan.org/release/Code-TidyAll) - an all-in-one code
   tidier and validator with many available backends, caching,
   filtering-by-paths, and some other features.
+- [vibecheck](https://github.com/yuvrajangadsingh/vibecheck) - Detects
+  AI-generated code smells in JavaScript/TypeScript and Python with 34 rules.
+  Runs as a CLI, pre-commit hook, or GitHub Action.
 - [violations-lib](https://github.com/tomasbjerre/violations-lib) - a library
   for parsing reports from static code analyzers. Can be used with Jenkins,
   Gradle, Maven and command line tools.
@@ -306,7 +309,8 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Lua
 
-- [luacheck](https://github.com/lunarmodules/luacheck) - A tool for linting and static analysis of Lua code.
+- [luacheck](https://github.com/lunarmodules/luacheck) - A tool for linting and
+  static analysis of Lua code.
 - [lualint](https://github.com/philips/lualint) - lualint performs luac-based
   static analysis of global variable usage in Lua source code.
 
@@ -383,7 +387,9 @@ this topic will be welcome as well as links related to actual linters.
 - [pylint](https://github.com/PyCQA/pylint) - Source code analyzer which looks
   for programming errors, helps enforcing a coding standard and sniffs for some
   code smells.
-- [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust which is orders of magnitude faster than alternative tools while integrating more functionality behind a single, common interface.
+- [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter,
+  written in Rust which is orders of magnitude faster than alternative tools
+  while integrating more functionality behind a single, common interface.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -
   The strictest and most opinionated python linter ever.
 - [yala](https://github.com/cemsbr/yala) - YALA combines many linters to improve
