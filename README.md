@@ -76,6 +76,10 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Language Agnostic
 
+- [asqav](https://github.com/jagmarques/asqav-compliance) - AI compliance linter
+  for CI/CD pipelines. Scans codebases for EU AI Act violations, prompt
+  injection risks, and missing guardrails in AI agent code. Available as a
+  GitHub Action and Python SDK.
 - [coala](https://github.com/coala-analyzer/coala) - Language agnostic linter
   based on rules and standards. Written in Python.
 - [commitlint](https://github.com/conventional-changelog/commitlint) -
