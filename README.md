@@ -78,6 +78,9 @@ this topic will be welcome as well as links related to actual linters.
 
 - [coala](https://github.com/coala-analyzer/coala) - Language agnostic linter
   based on rules and standards. Written in Python.
+- [ctxlint](https://github.com/YawLabs/ctxlint) - Lints AI agent context files
+  (CLAUDE.md, .cursorrules, copilot-instructions.md) against the actual
+  codebase.
 - [commitlint](https://github.com/conventional-changelog/commitlint) -
   commitlint checks if your commit messages meet the
   [conventional commit format](https://conventionalcommits.org).
