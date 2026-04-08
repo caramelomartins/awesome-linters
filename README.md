@@ -19,7 +19,6 @@ this topic will be welcome as well as links related to actual linters.
 ## Contents
 
 - [Linters](#linters)
-
   - [Language Agnostic](#language-agnostic)
   - [Ansible](#ansible)
   - [Awesome Lists](#awesome-lists)
@@ -306,12 +305,16 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Lua
 
-- [luacheck](https://github.com/lunarmodules/luacheck) - A tool for linting and static analysis of Lua code.
+- [luacheck](https://github.com/lunarmodules/luacheck) - A tool for linting and
+  static analysis of Lua code.
 - [lualint](https://github.com/philips/lualint) - lualint performs luac-based
   static analysis of global variable usage in Lua source code.
 
 ### Markdown
 
+- [kb-lint](https://github.com/SingggggYee/kb-lint) - Linter for LLM-compiled
+  markdown knowledge bases. Detects broken links, orphan pages, missing
+  frontmatter, inconsistent terminology, and coverage gaps. Written in Python.
 - [markdownlint](https://github.com/DavidAnson/markdownlint) - Node.js style
   checker and lint tool for Markdown/CommonMark files.
 - [mdl](https://github.com/mivok/markdownlint) - Check markdown files and flag
@@ -383,7 +386,9 @@ this topic will be welcome as well as links related to actual linters.
 - [pylint](https://github.com/PyCQA/pylint) - Source code analyzer which looks
   for programming errors, helps enforcing a coding standard and sniffs for some
   code smells.
-- [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust which is orders of magnitude faster than alternative tools while integrating more functionality behind a single, common interface.
+- [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter,
+  written in Rust which is orders of magnitude faster than alternative tools
+  while integrating more functionality behind a single, common interface.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -
   The strictest and most opinionated python linter ever.
 - [yala](https://github.com/cemsbr/yala) - YALA combines many linters to improve
