@@ -81,6 +81,10 @@ this topic will be welcome as well as links related to actual linters.
 - [commitlint](https://github.com/conventional-changelog/commitlint) -
   commitlint checks if your commit messages meet the
   [conventional commit format](https://conventionalcommits.org).
+- [ctxlint](https://github.com/vamshidhar199/Ctxlint) - Lints AI agent context
+  files (AGENTS.md, CLAUDE.md, .cursorrules, .mcp.json) for stale file
+  references, dead build commands, hardcoded secrets, and token waste. Includes
+  auto-fix, MCP config validation, and drift detection.
 - [MegaLinter](https://oxsecurity.github.io/megalinter) - Linters aggregator of
   49 languages, 22 formats, 21 tooling formats , copy-pastes and spell. Can
   automatically apply fixes with commit or Pull Request
