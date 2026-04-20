@@ -76,6 +76,7 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Language Agnostic
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - AI-powered real-time code analysis intelligence layer with pattern memory, predictive bug detection, and neural mesh networking. Written in TypeScript.
 - [coala](https://github.com/coala-analyzer/coala) - Language agnostic linter
   based on rules and standards. Written in Python.
 - [commitlint](https://github.com/conventional-changelog/commitlint) -
