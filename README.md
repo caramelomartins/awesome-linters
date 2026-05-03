@@ -194,6 +194,10 @@ this topic will be welcome as well as links related to actual linters.
 
 - [alex](https://github.com/wooorm/alex) - Linter to help catch insensitive
   writing in English. Written in JavaScript.
+- [belikenative-grammar-check](https://github.com/theluckystrike/belikenative-grammar-check) -
+  L1-aware grammar linter for English with 70 local rules tailored for
+  non-native speakers. Available as a GitHub Action and CLI. Written in
+  JavaScript.
 - [proselint](https://github.com/amperser/proselint) - Linter for English that
   provides guidelines to make better writing. It has plugins for several editors
   and is configurable.
