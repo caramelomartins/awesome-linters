@@ -66,6 +66,7 @@ this topic will be welcome as well as links related to actual linters.
   - [SQL](#sql)
   - [Swift](#swift)
   - [TypeScript](#typescript)
+  - [XML](#xml)
   - [YAML](#yaml)
 
 - [Contribution Guidelines](#contributing)
@@ -467,6 +468,11 @@ this topic will be welcome as well as links related to actual linters.
 
 - [tslint](https://github.com/palantir/tslint) - Customizable TypeScript linter
   with automatic fixing of formating and style violations.
+
+### XML
+
+- [vastlint](https://github.com/aleksUIX/vastlint) - Open-source validator and
+  linter for VAST XML ad tags across IAB VAST 2.0-4.3. Written in Rust.
 
 ### YAML
 
