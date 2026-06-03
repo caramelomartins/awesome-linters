@@ -192,6 +192,9 @@ this topic will be welcome as well as links related to actual linters.
 
 ### English
 
+- [ai-slop-detect](https://github.com/antydizajn/ai-slop-detect) - Linter for
+  AI-generated text patterns in markdown and prose (em-dashes, ChatGPT phrases,
+  punctuation density, zero-width unicode). Written in Python. EN+PL.
 - [alex](https://github.com/wooorm/alex) - Linter to help catch insensitive
   writing in English. Written in JavaScript.
 - [proselint](https://github.com/amperser/proselint) - Linter for English that
