@@ -49,6 +49,7 @@ this topic will be welcome as well as links related to actual linters.
   - [Markdown](#markdown)
   - [npm](#npm)
   - [Objective-C](#objective-c)
+  - [OpenRTB](#openrtb)
   - [Perl](#perl)
   - [PHP](#php)
   - [Polymer](#polymer)
@@ -338,6 +339,13 @@ this topic will be welcome as well as links related to actual linters.
 
 - [speccy](https://github.com/wework/speccy) - A handy toolkit for OpenAPI, with
   a linter to enforce quality rules.
+
+### OpenRTB
+
+- [rtblint](https://github.com/aleksUIX/rtblint) - Validates OpenRTB bid
+  requests against the IAB Tech Lab spec: malformed JSON, missing fields,
+  unknown/deprecated fields, type mismatches. CLI and MCP server, written in
+  Rust.
 
 ### Perl
 
