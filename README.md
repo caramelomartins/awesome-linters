@@ -199,6 +199,8 @@ this topic will be welcome as well as links related to actual linters.
   and is configurable.
 - [textlint](https://textlint.github.io/) - The pluggable linting tool for
   natural language texts.
+- [wsc-lint](https://github.com/theserverlessdev/wsc) - Prose linter with an
+  AI-tells detector; runs as a CLI, HTTP API, MCP server, and GitHub Action.
 
 ### Env
 
