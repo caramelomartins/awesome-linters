@@ -383,6 +383,9 @@ this topic will be welcome as well as links related to actual linters.
 - [pylint](https://github.com/PyCQA/pylint) - Source code analyzer which looks
   for programming errors, helps enforcing a coding standard and sniffs for some
   code smells.
+- [qual](https://github.com/Poietra/qual) - Manim-aware linter that catches
+  render-time errors, silent visual bugs, and per-frame performance traps in
+  Manim animation scenes. Written in Rust.
 - [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust which is orders of magnitude faster than alternative tools while integrating more functionality behind a single, common interface.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -
   The strictest and most opinionated python linter ever.
