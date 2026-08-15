@@ -76,128 +76,143 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Language Agnostic
 
-- [codespell](https://github.com/codespell-project/codespell) - Fast spell checker
-for source code, identifiers, and comments with low false-positive rates.
-- [commitlint](https://github.com/conventional-changelog/commitlint) - Checks if your
-commit messages meet the [Conventional Commits](https://conventionalcommits.org) format.
+- [codespell](https://github.com/codespell-project/codespell) - Fast spell
+  checker for source code, identifiers, and comments with low false-positive
+  rates.
+- [commitlint](https://github.com/conventional-changelog/commitlint) - Checks if
+  your commit messages meet the
+  [Conventional Commits](https://conventionalcommits.org) format.
 - [editorconfig-checker](https://github.com/editorconfig-checker/editorconfig-checker) -
-Fast tool written in Go to verify that files adhere to `.editorconfig` rules across any language.
-- [MegaLinter](https://oxsecurity.github.io/megalinter) - Comprehensive CI linter
-aggregator supporting 50+ languages, 20+ formats, and security scanners. Can automatically
- apply fixes via PR/commit.
-- [pre-commit](https://github.com/pre-commit/pre-commit) - Multi-language framework for
-managing and maintaining clean pre-commit hooks to automate linting workflows.
-- [Semgrep](https://github.com/semgrep/semgrep) - Fast, lightweight, open-source static
-analysis engine for enforcing code standards, bug detection, and security policies across
-30+ languages using syntax-aware pattern matching.
-- [tidyall](https://metacpan.org/release/Code-TidyAll) - All-in-one code tidier and
-validator engine with caching, path filtering, and pluggable backends.
-- [Trunk Check](https://github.com/trunk-io/trunk) - Blazingly fast meta-linter and
-aggregator that manages and runs linters/formatters hermetically across any repo.
-- [typos](https://github.com/crate-ci/typos) - Source code spell checker written in Rust;
-optimized for minimal false positives on variable names and raw strings.
-- [violations-lib](https://github.com/tomasbjerre/violations-lib) - Java library for parsing
-diagnostic reports across 100+ static code analyzers for Jenkins, Maven, and CLI tools.
-- [coala](https://github.com/coala-analyzer/coala) - *(⚠️ Inactive / Deprecated)*
-Language-agnostic analysis framework based on customizable rules. Python 3.7 legacy ecosystem;
-superseded by Semgrep and Trunk.
-- [Scanmycode CE](https://github.com/marcinguy/scanmycode-ce) - *(⚠️ Stale / Low Maintenance)*
-Code scanning / SAST aggregator web UI.
+  Fast tool written in Go to verify that files adhere to `.editorconfig` rules
+  across any language.
+- [MegaLinter](https://oxsecurity.github.io/megalinter) - Comprehensive CI
+  linter aggregator supporting 50+ languages, 20+ formats, and security
+  scanners. Can automatically apply fixes via PR/commit.
+- [pre-commit](https://github.com/pre-commit/pre-commit) - Multi-language
+  framework for managing and maintaining clean pre-commit hooks to automate
+  linting workflows.
+- [Semgrep](https://github.com/semgrep/semgrep) - Fast, lightweight, open-source
+  static analysis engine for enforcing code standards, bug detection, and
+  security policies across 30+ languages using syntax-aware pattern matching.
+- [tidyall](https://metacpan.org/release/Code-TidyAll) - All-in-one code tidier
+  and validator engine with caching, path filtering, and pluggable backends.
+- [Trunk Check](https://github.com/trunk-io/trunk) - Blazingly fast meta-linter
+  and aggregator that manages and runs linters/formatters hermetically across
+  any repo.
+- [typos](https://github.com/crate-ci/typos) - Source code spell checker written
+  in Rust; optimized for minimal false positives on variable names and raw
+  strings.
+- [violations-lib](https://github.com/tomasbjerre/violations-lib) - Java library
+  for parsing diagnostic reports across 100+ static code analyzers for Jenkins,
+  Maven, and CLI tools.
+- [coala](https://github.com/coala-analyzer/coala) - _(⚠️ Inactive /
+  Deprecated)_ Language-agnostic analysis framework based on customizable rules.
+  Python 3.7 legacy ecosystem; superseded by Semgrep and Trunk.
+- [Scanmycode CE](https://github.com/marcinguy/scanmycode-ce) - _(⚠️ Stale / Low
+  Maintenance)_ Code scanning / SAST aggregator web UI.
 
 ### Ansible
 
-- [ansible-lint](https://github.com/ansible/ansible-lint) - Official linter checking
-- playbooks, roles, and collections for syntax errors, deprecations, security flaws,
+- [ansible-lint](https://github.com/ansible/ansible-lint) - Official linter
+  checking
+- playbooks, roles, and collections for syntax errors, deprecations, security
+  flaws,
 - and idiomatic best practices.
-- [yamllint](https://github.com/adrienverge/yamllint) - General YAML linter commonly
-paired with `ansible-lint` to validate strict structure, indentation, and trailing
-spaces in Ansible configurations.
+- [yamllint](https://github.com/adrienverge/yamllint) - General YAML linter
+  commonly paired with `ansible-lint` to validate strict structure, indentation,
+  and trailing spaces in Ansible configurations.
 
 ### Awesome Lists
 
-- [awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for Awesome
-lists ensuring standard formatting, clean Markdown hierarchies, valid URLs, and list
-consistency.
+- [awesome-lint](https://github.com/sindresorhus/awesome-lint) - Linter for
+  Awesome lists ensuring standard formatting, clean Markdown hierarchies, valid
+  URLs, and list consistency.
 
 ### C/C++
 
-- [clang-format](https://clang.llvm.org/docs/ClangFormat.html) - Canonical Clang/LLVM
-formatter supporting standard style guides (Google, LLVM, Mozilla, Chromium, Microsoft)
-and granular `.clang-format` configurations.
-- [clang-tidy](https://clang.llvm.org/extra/clang-tidy/) - LLVM-based linter and static
-analyzer providing AST-level diagnostics, modernizing checks (C++11 to C++23),
-bug pattern detection, and automatic fixes.
-- [CodeChecker](https://github.com/Ericsson/codechecker) - Advanced static analysis
-infrastructure wrapper around Clang Static Analyzer and Clang-Tidy with web reporting
-and CI triage workflows.
-- [cppcheck](https://cppcheck.sourceforge.io/) - Dedicated C/C++ static analysis engine
-focused on undefined behavior, pointer issues, memory leaks, and logic flaws with a strict
-focus on zero false positives.
-- [cpplint](https://github.com/cpplint/cpplint) - Python CLI static checker strictly
-enforcing the [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html).
-*(Note: Primarily regex/token-based; lacks full AST semantics compared to Clang-Tidy).*
-- [flawfinder](https://dwheeler.com/flawfinder/) - Lexical security scanner checking
-C/C++ source code against Common Weakness Enumeration (CWE) databases for buffer overflows,
-race conditions, and unsafe API usage.
-- [IKOS](https://github.com/NASA-SW-VnV/ikos) - High-assurance static analyzer from
-NASA based on Abstract Interpretation for proving the absence of runtime errors
-(buffer overflows, division by zero, null pointer dereferences).
-- [include-what-you-use](https://include-what-you-use.org/) - Clang-based tool analyzing
-`#include` directives to eliminate redundant imports and ensure forward declarations or
-required headers are explicitly referenced.
-- [infer](https://fbinfer.com/) - Static analyzer from Meta supporting C, C++, Java,
-and Objective-C; detects complex null-pointer dereferences, data races, memory corruption,
- and resource leaks via separation logic.
-- [uncrustify](https://github.com/uncrustify/uncrustify) - Highly configurable source
-code beautifier and structural formatter supporting C, C++, C#, D, and Java.
-- [oclint](https://oclint.org/) - *(⚠️ Inactive / Slow LLVM support)* Static analysis
-engine for C, C++, and Objective-C inspecting ASTs for complexity smells and dead code.
+- [clang-format](https://clang.llvm.org/docs/ClangFormat.html) - Canonical
+  Clang/LLVM formatter supporting standard style guides (Google, LLVM, Mozilla,
+  Chromium, Microsoft) and granular `.clang-format` configurations.
+- [clang-tidy](https://clang.llvm.org/extra/clang-tidy/) - LLVM-based linter and
+  static analyzer providing AST-level diagnostics, modernizing checks (C++11 to
+  C++23), bug pattern detection, and automatic fixes.
+- [CodeChecker](https://github.com/Ericsson/codechecker) - Advanced static
+  analysis infrastructure wrapper around Clang Static Analyzer and Clang-Tidy
+  with web reporting and CI triage workflows.
+- [cppcheck](https://cppcheck.sourceforge.io/) - Dedicated C/C++ static analysis
+  engine focused on undefined behavior, pointer issues, memory leaks, and logic
+  flaws with a strict focus on zero false positives.
+- [cpplint](https://github.com/cpplint/cpplint) - Python CLI static checker
+  strictly enforcing the
+  [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html).
+  _(Note: Primarily regex/token-based; lacks full AST semantics compared to
+  Clang-Tidy)._
+- [flawfinder](https://dwheeler.com/flawfinder/) - Lexical security scanner
+  checking C/C++ source code against Common Weakness Enumeration (CWE) databases
+  for buffer overflows, race conditions, and unsafe API usage.
+- [IKOS](https://github.com/NASA-SW-VnV/ikos) - High-assurance static analyzer
+  from NASA based on Abstract Interpretation for proving the absence of runtime
+  errors (buffer overflows, division by zero, null pointer dereferences).
+- [include-what-you-use](https://include-what-you-use.org/) - Clang-based tool
+  analyzing `#include` directives to eliminate redundant imports and ensure
+  forward declarations or required headers are explicitly referenced.
+- [infer](https://fbinfer.com/) - Static analyzer from Meta supporting C, C++,
+  Java, and Objective-C; detects complex null-pointer dereferences, data races,
+  memory corruption, and resource leaks via separation logic.
+- [uncrustify](https://github.com/uncrustify/uncrustify) - Highly configurable
+  source code beautifier and structural formatter supporting C, C++, C#, D, and
+  Java.
+- [oclint](https://oclint.org/) - _(⚠️ Inactive / Slow LLVM support)_ Static
+  analysis engine for C, C++, and Objective-C inspecting ASTs for complexity
+  smells and dead code.
 
 ### CoffeeScript
 
-- [coffeelint](https://github.com/coffeelint/coffeelint) - *(⚠️ Legacy / Deprecated)*
-Configurable style checker and linter written in CoffeeScript for CoffeeScript source
-files.
+- [coffeelint](https://github.com/coffeelint/coffeelint) - _(⚠️ Legacy /
+  Deprecated)_ Configurable style checker and linter written in CoffeeScript for
+  CoffeeScript source files.
 
 ### Crystal
 
-- [ameba](https://github.com/crystal-ameba/ameba) - Standard AST-based static code
-analysis tool and linter for Crystal, enforcing idioms, code smells, and performance
-anti-patterns.
-- `crystal tool format` - Built-in canonical formatter and syntax validator bundled
-with the Crystal compiler toolchain.
+- [ameba](https://github.com/crystal-ameba/ameba) - Standard AST-based static
+  code analysis tool and linter for Crystal, enforcing idioms, code smells, and
+  performance anti-patterns.
+- `crystal tool format` - Built-in canonical formatter and syntax validator
+  bundled with the Crystal compiler toolchain.
 
 ### CSS
 
-- [Biome](https://biomejs.dev/) - High-performance Rust-based toolchain providing
-fast formatting and linting for CSS and modern web standards.
+- [Biome](https://biomejs.dev/) - High-performance Rust-based toolchain
+  providing fast formatting and linting for CSS and modern web standards.
 - [Lightning CSS](https://lightningcss.dev/) - Ultra-fast Rust-based CSS parser,
-transformer, minifier, and structural validator.
-- [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter) - PostCSS plugin
-validating that stylesheet selectors strictly adhere to BEM (Block Element Modifier)
-architecture.
-- [Prettier](https://prettier.io/) - Opinionated multi-format code formatter with complete
-support for CSS, SCSS, and Less.
-- [stylelint](https://stylelint.io/) - Industry standard, pluggable CSS/SCSS/Less linter.
-Enforces conventions, avoids errors, and supports custom plugins and CSS modules.
-- [csscomb](https://github.com/csscomb/csscomb.js) - *(⚠️ Unmaintained)* CSS formatter
-and property sorter; superseded by Prettier and Stylelint plugins (e.g., `stylelint-order`).
-- [csslint](https://github.com/CSSLint/csslint) - *(⚠️ Deprecated / Archived)* Legacy
- CSS static analysis engine; superseded by Stylelint.
-- [ie8linter](https://github.com/israelidanny/ie8linter) - *(⚠️ Obsolete)*
-Static analyzer for Internet Explorer 8 compatibility.
+  transformer, minifier, and structural validator.
+- [postcss-bem-linter](https://github.com/postcss/postcss-bem-linter) - PostCSS
+  plugin validating that stylesheet selectors strictly adhere to BEM (Block
+  Element Modifier) architecture.
+- [Prettier](https://prettier.io/) - Opinionated multi-format code formatter
+  with complete support for CSS, SCSS, and Less.
+- [stylelint](https://stylelint.io/) - Industry standard, pluggable
+  CSS/SCSS/Less linter. Enforces conventions, avoids errors, and supports custom
+  plugins and CSS modules.
+- [csscomb](https://github.com/csscomb/csscomb.js) - _(⚠️ Unmaintained)_ CSS
+  formatter and property sorter; superseded by Prettier and Stylelint plugins
+  (e.g., `stylelint-order`).
+- [csslint](https://github.com/CSSLint/csslint) - _(⚠️ Deprecated / Archived)_
+  Legacy CSS static analysis engine; superseded by Stylelint.
+- [ie8linter](https://github.com/israelidanny/ie8linter) - _(⚠️ Obsolete)_
+  Static analyzer for Internet Explorer 8 compatibility.
 
 ### CSV
 
 - [csvclean](https://csvkit.readthedocs.io/en/latest/scripts/csvclean.html) -
-Part of the Python `csvkit` suite; scans CSV files for malformed rows, syntax errors,
-delimiter inconsistencies, and structural anomalies.
+  Part of the Python `csvkit` suite; scans CSV files for malformed rows, syntax
+  errors, delimiter inconsistencies, and structural anomalies.
 - [csvlint.rb](https://github.com/Data-Liberation-Front/csvlint.rb) - Ruby gem
-validating CSV structure against the W3C CSV on the Web specifications and
-standard RFC 4180 rules.
+  validating CSV structure against the W3C CSV on the Web specifications and
+  standard RFC 4180 rules.
 - [qsv validate](https://github.com/jqnatividad/qsv) - Ultra-fast Rust-based CSV
-processor capable of validating structure, delimiter hygiene, and schema
-compliance against JSON Schema.
+  processor capable of validating structure, delimiter hygiene, and schema
+  compliance against JSON Schema.
 
 ### Dart
 
@@ -206,30 +221,30 @@ compliance against JSON Schema.
 - [custom_lint](https://github.com/invertase/custom_lint) - Community framework
   for writing custom linter rules, diagnostics, and auto-fixes for Dart and
   Flutter projects.
-- [linter](https://github.com/dart-lang/linter) - *(⚠️ Integrated)* Official
+- [linter](https://github.com/dart-lang/linter) - _(⚠️ Integrated)_ Official
   Dart linter repository; now bundled and shipped directly within the Dart SDK.
 
 ### Dockerfile
 
 - [hadolint](https://github.com/hadolint/hadolint) - Smarter Dockerfile linter
-  that parses Dockerfiles into an AST and evaluates rules using `ShellCheck`
-  to validate inline `RUN` shell scripts.
-- [dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) - *(⚠️
-  Deprecated / Archived)* Red Hat / ProjectAtomic rule-based syntax and label
+  that parses Dockerfiles into an AST and evaluates rules using `ShellCheck` to
+  validate inline `RUN` shell scripts.
+- [dockerfile_lint](https://github.com/projectatomic/dockerfile_lint) - _(⚠️
+  Deprecated / Archived)_ Red Hat / ProjectAtomic rule-based syntax and label
   checker.
-- [Dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - *(⚠️
-  Unmaintained)* Node.js module checking Dockerfiles for common mistakes and
+- [Dockerfilelint](https://github.com/replicatedhq/dockerfilelint) - _(⚠️
+  Unmaintained)_ Node.js module checking Dockerfiles for common mistakes and
   anti-patterns.
-- [Dockerlint](https://github.com/RedCoolBeans/dockerlint) - *(⚠️ Obsolete)*
+- [Dockerlint](https://github.com/RedCoolBeans/dockerlint) - _(⚠️ Obsolete)_
   Legacy parser based on obsolete Docker 1.6 recommendations.
 
 ### Elixir
 
 - [credo](https://github.com/rrrene/credo) - Static code analysis and linting
   tool for Elixir focusing on consistency, refactoring, and teaching idioms.
-- [dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks wrapping
-  Erlang's Dialyzer to provide thorough static type analysis and discrepancy
-  detection in Elixir.
+- [dialyxir](https://github.com/jeremyjh/dialyxir) - Mix tasks wrapping Erlang's
+  Dialyzer to provide thorough static type analysis and discrepancy detection in
+  Elixir.
 - [sobelow](https://github.com/nccgroup/sobelow) - Security-focused static
   analysis tool designed specifically for the Phoenix framework ecosystem.
 
@@ -245,8 +260,8 @@ compliance against JSON Schema.
 
 - [alex](https://github.com/wooorm/alex) - Linter that detects insensitive,
   inconsiderate, or gender-biased phrasing in markdown and prose.
-- [proselint](https://github.com/amperser/proselint) - Command-line prose
-  linter enforcing stylistic rules curated from world-class authors and editors.
+- [proselint](https://github.com/amperser/proselint) - Command-line prose linter
+  enforcing stylistic rules curated from world-class authors and editors.
 - [textlint](https://textlint.github.io/) - Pluggable natural language linter
   supporting custom rules, presets, and AST parsing for Markdown and plain text.
 - [Vale](https://github.com/errata-ai/vale) - Blazingly fast, syntax-aware
@@ -257,8 +272,9 @@ compliance against JSON Schema.
 
 ### Env
 
-- [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - Lightning-fast
-  linter written in Rust to validate, sort, and standardize `.env` files.
+- [dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) -
+  Lightning-fast linter written in Rust to validate, sort, and standardize
+  `.env` files.
 
 ### EPUB
 
@@ -268,11 +284,12 @@ compliance against JSON Schema.
 ### Erlang
 
 - [dialyzer](https://www.erlang.org/doc/man/dialyzer.html) - Erlang's built-in
-  Discrepancy Analyzer identifying type errors, dead code, and unreachable paths.
+  Discrepancy Analyzer identifying type errors, dead code, and unreachable
+  paths.
 - [elvis](https://github.com/inaka/elvis) - Configurable Erlang style and
   convention linter enforcing uniform code layout.
-- [rebar3_hank](https://github.com/AdRoll/rebar3_hank) - Rebar3 plugin acting
-  as an aggressive dead-code cleaner and unused macro/record linter.
+- [rebar3_hank](https://github.com/AdRoll/rebar3_hank) - Rebar3 plugin acting as
+  an aggressive dead-code cleaner and unused macro/record linter.
 
 ### Go
 
@@ -288,11 +305,11 @@ compliance against JSON Schema.
   extensible drop-in replacement for the archived `golint`.
 - [staticcheck](https://staticcheck.dev/) - Advanced Go static analysis engine
   employing SSA to detect bugs, dead branches, and performance regressions.
-- [golint](https://github.com/golang/lint) - *(⚠️ Deprecated / Archived)*
-  Legacy style linter archived by the Go team; superseded by `revive` and
+- [golint](https://github.com/golang/lint) - _(⚠️ Deprecated / Archived)_ Legacy
+  style linter archived by the Go team; superseded by `revive` and
   `staticcheck`.
-- [gometalinter](https://github.com/alecthomas/gometalinter) - *(⚠️ Deprecated
-  / Archived)* Predecessor linter runner; superseded by `golangci-lint`.
+- [gometalinter](https://github.com/alecthomas/gometalinter) - _(⚠️ Deprecated /
+  Archived)_ Predecessor linter runner; superseded by `golangci-lint`.
 
 ### GraphQL
 
@@ -309,14 +326,13 @@ compliance against JSON Schema.
   engine for Groovy source code featuring hundreds of rules for defects,
   conventions, and complexity.
 - [npm-groovy-lint](https://github.com/nvuillam/npm-groovy-lint) - Node-based
-  wrapper providing linting, formatting, and auto-fixes for Groovy,
-  Jenkinsfile, and Gradle files via CodeNarc.
+  wrapper providing linting, formatting, and auto-fixes for Groovy, Jenkinsfile,
+  and Gradle files via CodeNarc.
 
 ### Haskell
 
 - [hlint](https://github.com/ndmitchell/hlint) - Tool for suggesting code
-  improvements, simplifying constructs, and eliminating redundancies in
-  Haskell.
+  improvements, simplifying constructs, and eliminating redundancies in Haskell.
 - [stan](https://github.com/kowainik/stan) - Static analysis tool for Haskell
   focusing on performance anti-patterns, modern idioms, and potential bugs.
 - [weeder](https://github.com/ocharles/weeder) - Dead-code analysis utility
@@ -344,10 +360,10 @@ compliance against JSON Schema.
   first-class support for raw HTML, JSX, Vue, Svelte, and web components.
 - [Nu Html Checker](https://github.com/validator/validator/) - Official W3C
   offline validator for HTML5, CSS, and SVG documents written in Java.
-- [bootlint](https://github.com/twbs/bootlint) - *(⚠️ Deprecated / Archived)*
+- [bootlint](https://github.com/twbs/bootlint) - _(⚠️ Deprecated / Archived)_
   Legacy Bootstrap 3/4 HTML structure analyzer by the Bootstrap core team.
-- [jinjalint](https://github.com/motet-a/jinjalint) - *(⚠️ Inactive /
-  Prototype)* Experimental Jinja linter; superseded by `djlint`.
+- [jinjalint](https://github.com/motet-a/jinjalint) - _(⚠️ Inactive /
+  Prototype)_ Experimental Jinja linter; superseded by `djlint`.
 
 ### Java
 
@@ -360,11 +376,11 @@ compliance against JSON Schema.
 - [PMD](https://pmd.github.io/) - Extensible multi-language static analyzer
   identifying bad practices, inefficient code, and duplicate logic in Java.
 - [SpotBugs](https://github.com/spotbugs/spotbugs) - Active spiritual successor
-  to FindBugs; analyzes Java bytecode to identify 400+ bug patterns and
-  security vulnerabilities (often paired with Find Security Bugs).
+  to FindBugs; analyzes Java bytecode to identify 400+ bug patterns and security
+  vulnerabilities (often paired with Find Security Bugs).
 - [uncrustify](https://github.com/uncrustify/uncrustify) - Configurable source
   code formatter and indenter supporting Java, C, C++, and C#.
-- [FindBugs](http://findbugs.sourceforge.net) - *(⚠️ Deprecated / Archived)*
+- [FindBugs](http://findbugs.sourceforge.net) - _(⚠️ Deprecated / Archived)_
   Legacy bytecode static analysis tool; superseded by `SpotBugs`.
 
 ### JavaScript
@@ -380,18 +396,18 @@ compliance against JSON Schema.
 - [Prettier](https://github.com/prettier/prettier) - Opinionated multi-language
   code formatter enforcing consistent code style across JavaScript, JSX, and
   modern web formats.
-- [putout](https://github.com/coderaiser/putout) - Pluggable linter, transformer,
-  and code refactoring engine capable of automatically fixing complex JS/TS AST
-  issues.
+- [putout](https://github.com/coderaiser/putout) - Pluggable linter,
+  transformer, and code refactoring engine capable of automatically fixing
+  complex JS/TS AST issues.
 - [quick-lint-js](https://quick-lint-js.com) - Zero-config, lightweight C++
   linter providing instantaneous error detection inside text editors.
 - [Standard](https://github.com/standard/standard) - Zero-config JavaScript
   style linter and formatter enforcing standard rules.
 - [XO](https://github.com/xojs/xo) - Opinionated, batteries-included ESLint
   wrapper enforcing strict and readable defaults without manual setup.
-- [clinton](https://github.com/SamVerschueren/clinton) - *(⚠️ Unmaintained)*
-  CLI tool for validating JavaScript package conventions and repository files.
-- [JSHint](https://github.com/jshint/jshint) - *(⚠️ Legacy / Superseded)*
+- [clinton](https://github.com/SamVerschueren/clinton) - _(⚠️ Unmaintained)_ CLI
+  tool for validating JavaScript package conventions and repository files.
+- [JSHint](https://github.com/jshint/jshint) - _(⚠️ Legacy / Superseded)_
   Historical static analysis tool; superseded by ESLint and Biome.
 
 ### Kotlin
@@ -413,7 +429,7 @@ compliance against JSON Schema.
   written in Rust with detailed diagnostics and standard library awareness.
 - [StyLua](https://github.com/JohnnyMorganz/StyLua) - Opinionated, highly
   performant Lua 5.1/5.2/5.3/5.4 and Luau code formatter written in Rust.
-- [lualint](https://github.com/philips/lualint) - *(⚠️ Obsolete / Archived)*
+- [lualint](https://github.com/philips/lualint) - _(⚠️ Obsolete / Archived)_
   Legacy `luac`-based global variable scanner; superseded by `luacheck` and
   `selene`.
 
@@ -427,7 +443,7 @@ compliance against JSON Schema.
   caching.
 - [remark-lint](https://github.com/remarkjs/remark-lint) - Highly pluggable
   Markdown style linter powered by the unified / remark AST ecosystem.
-- [mdl](https://github.com/markdownlint/markdownlint) - *(⚠️ Stale / Legacy)*
+- [mdl](https://github.com/markdownlint/markdownlint) - _(⚠️ Stale / Legacy)_
   Ruby gem linter for Markdown; superseded by David Anson's `markdownlint`.
 
 ### npm
@@ -456,28 +472,28 @@ compliance against JSON Schema.
   Objective-C.
 - [uncrustify](https://github.com/uncrustify/uncrustify) - Highly configurable
   source code formatter and beautifier supporting Objective-C.
-- [oclint](https://oclint.org/) - *(⚠️ Inactive / Slow LLVM support)* Static
+- [oclint](https://oclint.org/) - _(⚠️ Inactive / Slow LLVM support)_ Static
   analyzer inspecting Objective-C ASTs to detect dead code and code smells.
 
 ### OpenAPI (Swagger)
 
-- [Redocly CLI](https://github.com/Redocly/redocly-cli) - Fast OpenAPI / AsyncAPI
-  linter, validator, and documentation bundler supporting built-in rulesets and
-  decorators.
+- [Redocly CLI](https://github.com/Redocly/redocly-cli) - Fast OpenAPI /
+  AsyncAPI linter, validator, and documentation bundler supporting built-in
+  rulesets and decorators.
 - [Spectral](https://github.com/stoplightio/spectral) - Flexible, JSON/YAML and
   OpenAPI (v2/v3/v3.1) linter powered by customizable JSONPath rules.
 - [vacuum](https://github.com/daveshanley/vacuum) - Blazingly fast OpenAPI
   linter and quality scoring tool written in Go, fully compatible with Spectral
   rulesets.
-- [speccy](https://github.com/wework/speccy) - *(⚠️ Deprecated / Archived)*
-  OpenAPI 3.0 linter previously maintained by WeWork; superseded by Spectral
-  and Redocly.
+- [speccy](https://github.com/wework/speccy) - _(⚠️ Deprecated / Archived)_
+  OpenAPI 3.0 linter previously maintained by WeWork; superseded by Spectral and
+  Redocly.
 
 ### Perl
 
 - [Perl::Critic](https://metacpan.org/dist/Perl-Critic) - Extensible and
-  configurable static analysis engine enforcing best practices from the *Perl
-  Best Practices* book.
+  configurable static analysis engine enforcing best practices from the _Perl
+  Best Practices_ book.
 - [Perl::Critic::Community](https://metacpan.org/dist/Perl-Critic-Community) -
   Modernized, community-maintained policies for Perl::Critic targeting modern
   Perl versions (5.20+).
@@ -489,37 +505,37 @@ compliance against JSON Schema.
 - [PHP-CS-Fixer](https://github.com/PHP-CS-Fixer/PHP-CS-Fixer) - Highly
   configurable coding standards fixer detecting and auto-correcting PHP style
   violations (PSR-12, PER-CS).
-- [PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) - Tokenizes
-  PHP files to detect and fix violations of defined coding standards (maintained
-  by PHPCSStandards).
-- [PHP Mess Detector](https://github.com/phpmd/phpmd) - Static analyzer detecting
-  code smells, cyclomatic complexity, suboptimal code, and unused parameters in
-  PHP.
+- [PHP_CodeSniffer](https://github.com/PHPCSStandards/PHP_CodeSniffer) -
+  Tokenizes PHP files to detect and fix violations of defined coding standards
+  (maintained by PHPCSStandards).
+- [PHP Mess Detector](https://github.com/phpmd/phpmd) - Static analyzer
+  detecting code smells, cyclomatic complexity, suboptimal code, and unused
+  parameters in PHP.
 - [PHPStan](https://github.com/phpstan/phpstan) - Leading industrial static
   analysis engine finding bugs, type discrepancies, and edge cases in PHP
   without writing tests.
 - [Psalm](https://github.com/vimeo/psalm) - Advanced static analysis tool by
   Vimeo for identifying type issues, logic errors, and security vulnerabilities
   in PHP.
-- [phplint](https://www.npmjs.com/package/phplint) - *(⚠️ Basic)* Node.js
+- [phplint](https://www.npmjs.com/package/phplint) - _(⚠️ Basic)_ Node.js
   wrapper around `php -l` for parallel syntax checking; superseded by native
   analyzers like PHPStan.
 
 ### Polymer
 
 - [lit-analyzer](https://github.com/runem/lit-analyzer) - CLI and language
-  server linter checking type safety, bindings, and HTML syntax in modern
-  Lit and Web Components.
-- [polylint](https://github.com/PolymerLabs/polylint) - *(⚠️ Deprecated /
-  Archived)* Legacy linter for Polymer projects; superseded by Lit and
+  server linter checking type safety, bindings, and HTML syntax in modern Lit
+  and Web Components.
+- [polylint](https://github.com/PolymerLabs/polylint) - _(⚠️ Deprecated /
+  Archived)_ Legacy linter for Polymer projects; superseded by Lit and
   `lit-analyzer`.
 
 ### Pug
 
 - [@prettier/plugin-pug](https://github.com/prettier/plugin-pug) - Opinionated
   code formatter for Pug templates within the Prettier ecosystem.
-- [pug-lint](https://github.com/pugjs/pug-lint) - Configurable linter and
-  style checker for Pug (formerly Jade) template files.
+- [pug-lint](https://github.com/pugjs/pug-lint) - Configurable linter and style
+  checker for Pug (formerly Jade) template files.
 
 ### Puppet
 
@@ -534,29 +550,28 @@ compliance against JSON Schema.
 
 - [Bandit](https://github.com/PyCQA/bandit) - Security-focused static analyzer
   designed to scan Python source code for common vulnerabilities (CWE mappings).
-- [Black](https://github.com/psf/black) - Uncompromising, deterministic
-  Python code formatter enforcing standard PEP 8 formatting conventions.
+- [Black](https://github.com/psf/black) - Uncompromising, deterministic Python
+  code formatter enforcing standard PEP 8 formatting conventions.
 - [Flake8](https://github.com/PyCQA/flake8) - Modular CLI wrapper combining
   PyFlakes, pycodestyle, and McCabe complexity checks with a large plugin
   ecosystem.
 - [Mypy](https://github.com/python/mypy) - Canonical optional static type
   checker for Python enforcing PEP 484 type annotations and preventing type
   bugs.
-- [PyLint](https://github.com/pylint-dev/pylint) - Comprehensive static
-  analyzer checking for logic errors, refactoring opportunities, and code
-  smells.
+- [PyLint](https://github.com/pylint-dev/pylint) - Comprehensive static analyzer
+  checking for logic errors, refactoring opportunities, and code smells.
 - [Pyright / Basedpyright](https://github.com/microsoft/pyright) - Ultra-fast,
   spec-compliant static type checker and analyzer for Python written in
   TypeScript.
-- [Ruff](https://github.com/astral-sh/ruff) - Extremely fast Python linter
-  and formatter written in Rust; acts as a drop-in replacement for Flake8,
-  isort, Black, and dozens of plugins with near-instant execution.
+- [Ruff](https://github.com/astral-sh/ruff) - Extremely fast Python linter and
+  formatter written in Rust; acts as a drop-in replacement for Flake8, isort,
+  Black, and dozens of plugins with near-instant execution.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -
   Strict and opinionated Flake8 plugin enforcing granular stylistic and
   architectural constraints.
-- [pycodestyle](https://github.com/PyCQA/pycodestyle) - *(⚠️ Integrated)*
-  PEP 8 compliance checker; typically run via Flake8 or replaced by Ruff.
-- [yala](https://github.com/cemsbr/yala) - *(⚠️ Stale / Low Maintenance)*
+- [pycodestyle](https://github.com/PyCQA/pycodestyle) - _(⚠️ Integrated)_ PEP 8
+  compliance checker; typically run via Flake8 or replaced by Ruff.
+- [yala](https://github.com/cemsbr/yala) - _(⚠️ Stale / Low Maintenance)_
   Multi-linter aggregator CLI; superseded by Ruff and pre-commit hooks.
 
 ### Rego
@@ -571,8 +586,8 @@ compliance against JSON Schema.
 - [doc8](https://github.com/PyCQA/doc8) - Opinionated style and structure
   checker for rst documentation, maintained by PyCQA.
 - [restructuredtext-lint](https://github.com/twolfson/restructuredtext-lint) -
-  ReST validator using the Docutils parser, available as a Python module or
-  CLI utility.
+  ReST validator using the Docutils parser, available as a Python module or CLI
+  utility.
 - [rstcheck](https://github.com/rstcheck/rstcheck) - Advanced validator and
   linter checking syntax across rst files and embedded code blocks (Python,
   JSON, YAML, Bash).
@@ -591,8 +606,8 @@ compliance against JSON Schema.
 ### Rust
 
 - [cargo-audit](https://github.com/rustsec/rustsec/tree/main/cargo-audit) -
-  Audit `Cargo.lock` files against the RustSec Advisory Database for crates
-  with reported security vulnerabilities.
+  Audit `Cargo.lock` files against the RustSec Advisory Database for crates with
+  reported security vulnerabilities.
 - [cargo-deny](https://github.com/EmbarkStudios/cargo-deny) - Cargo plugin to
   lint dependency graphs for security advisories, forbidden licenses,
   duplicates, and source origins.
@@ -613,37 +628,37 @@ compliance against JSON Schema.
   first-class formatting support for SCSS and Sass stylesheets.
 - [stylelint](https://stylelint.io/) - Industry-standard linter supporting
   SCSS/Sass via plugins like `stylelint-scss` to validate rules and syntax.
-- [sass-lint](https://github.com/sasstools/sass-lint) - *(⚠️ Deprecated /
-  Archived)* Node-based Sass/SCSS linter; unmaintained and superseded by
+- [sass-lint](https://github.com/sasstools/sass-lint) - _(⚠️ Deprecated /
+  Archived)_ Node-based Sass/SCSS linter; unmaintained and superseded by
   Stylelint.
-- [scss-lint](https://github.com/causes/scss-lint) - *(⚠️ Deprecated /
-  Archived)* Legacy Ruby gem for SCSS linting; superseded by Stylelint with
+- [scss-lint](https://github.com/causes/scss-lint) - _(⚠️ Deprecated /
+  Archived)_ Legacy Ruby gem for SCSS linting; superseded by Stylelint with
   `stylelint-scss`.
 
 ### Scala
 
 - [Scalafix](https://scalacenter.github.io/scalafix/) - Extensible, syntactic
   and semantic linter and code refactoring engine for Scala by the Scala Center.
-- [Scalafmt](https://scalameta.org/scalafmt/) - Deterministic code formatter
-  for Scala supporting customizable and dialect-aware style rules.
+- [Scalafmt](https://scalameta.org/scalafmt/) - Deterministic code formatter for
+  Scala supporting customizable and dialect-aware style rules.
 - [Scapegoat](https://github.com/sksamuel/scapegoat) - Scala compiler plugin
   performing static code analysis to catch code smells, security risks, and
   bugs.
 - [WartRemover](https://github.com/wartremover/wartremover) - Flexible,
-  compile-time Scala linter configured to flag unsafe language constructs
-  and warts.
-- [linter](https://github.com/HairyFotr/linter) - *(⚠️ Obsolete / Archived)*
+  compile-time Scala linter configured to flag unsafe language constructs and
+  warts.
+- [linter](https://github.com/HairyFotr/linter) - _(⚠️ Obsolete / Archived)_
   Scala 2 compiler plugin; unmaintained.
-- [Scalastyle](http://www.scalastyle.org) - *(⚠️ Stale / Legacy)* Java-like
+- [Scalastyle](http://www.scalastyle.org) - _(⚠️ Stale / Legacy)_ Java-like
   style checker for Scala; largely superseded by Scalafix and Scalafmt.
 
 ### Shell
 
 - [ShellCheck](https://github.com/koalaman/shellcheck) - Static analysis tool
-  giving warnings and suggestions for bash/sh shell scripts to avoid syntax
-  and semantic bugs.
-- [shellharden](https://github.com/anordal/shellharden) - Syntax highlighter
-  and hardener that semi-automatically rewrites scripts to quote variables
+  giving warnings and suggestions for bash/sh shell scripts to avoid syntax and
+  semantic bugs.
+- [shellharden](https://github.com/anordal/shellharden) - Syntax highlighter and
+  hardener that semi-automatically rewrites scripts to quote variables
   correctly.
 - [shfmt](https://github.com/mvdan/sh) - POSIX shell, Bash, and mksh parser,
   formatter, and interpreter written in Go.
@@ -653,18 +668,18 @@ compliance against JSON Schema.
 - [sqlfluff](https://github.com/sqlfluff/sqlfluff) - Dialect-flexible and
   configurable SQL linter and auto-formatter supporting Postgres, Snowflake,
   BigQuery, MySQL, and more.
-- [sqlfmt](https://sqlfmt.com/) - Opinionated, automated SQL formatter
-  designed for dbt projects and modern data pipelines.
-- [sqruff](https://github.com/quarylabs/sqruff) - Blazingly fast SQL linter
-  and formatter written in Rust, maintaining compatibility with SQLFluff
+- [sqlfmt](https://sqlfmt.com/) - Opinionated, automated SQL formatter designed
+  for dbt projects and modern data pipelines.
+- [sqruff](https://github.com/quarylabs/sqruff) - Blazingly fast SQL linter and
+  formatter written in Rust, maintaining compatibility with SQLFluff
   configuration files.
 
 ### Swift
 
 - [swift-format](https://github.com/apple/swift-format) - Official formatting
   and linting tool developed by Apple for Swift source code.
-- [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - Code library
-  and CLI tool for reformatting Swift code with customizable style rules.
+- [SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - Code library and
+  CLI tool for reformatting Swift code with customizable style rules.
 - [SwiftLint](https://github.com/realm/SwiftLint) - Widely-adopted static
   analysis tool to enforce Swift style and conventions based on community
   guidelines.
@@ -676,9 +691,9 @@ compliance against JSON Schema.
 - [Oxlint](https://github.com/oxc-project/oxc) - High-performance Rust-based
   linter supporting TypeScript with near-instant execution and zero config.
 - [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint) -
-  Official tooling enabling ESLint to analyze TypeScript codebases with rich
-  AST and type-aware linting.
-- [tslint](https://github.com/palantir/tslint) - *(⚠️ Deprecated / Archived)*
+  Official tooling enabling ESLint to analyze TypeScript codebases with rich AST
+  and type-aware linting.
+- [tslint](https://github.com/palantir/tslint) - _(⚠️ Deprecated / Archived)_
   Legacy TypeScript linter deprecated by Palantir in favor of
   `typescript-eslint`.
 
@@ -697,8 +712,8 @@ compliance against JSON Schema.
 - [Prettier](https://prettier.io/) - Multi-language, opinionated code formatter
   providing deterministic formatting support for YAML files.
 - [Spectral](https://github.com/stoplightio/spectral) - Flexible JSON and YAML
-  linter powered by custom JSONPath rules, with built-in support for OpenAPI
-  and AsyncAPI schemas.
+  linter powered by custom JSONPath rules, with built-in support for OpenAPI and
+  AsyncAPI schemas.
 - [yamlfmt](https://github.com/google/yamlfmt) - Extensible command-line tool
   and library developed by Google to format and standardize YAML files.
 - [yamllint](https://github.com/adrienverge/yamllint) - Standard Python-based
