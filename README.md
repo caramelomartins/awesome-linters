@@ -318,6 +318,9 @@ this topic will be welcome as well as links related to actual linters.
   style issues. Written in ruby and is distributed as a rubygem.
 - [remark-lint](https://github.com/wooorm/remark-lint) - Written in JavaScript.
   remark-lint provides configurable Markdown style linting.
+- [llmlint](https://github.com/la2278647-arch/llmlint) - Linter for
+  AI-generated Markdown: 24 rules, a 0-100 score, a CLI plus an MCP server.
+  Zero runtime dependencies, runs fully locally. Written in JavaScript.
 
 ### npm
 
