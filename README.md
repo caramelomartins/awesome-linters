@@ -376,6 +376,10 @@ this topic will be welcome as well as links related to actual linters.
 - [black](https://github.com/psf/black) - The uncompromising Python code
   formatter. Blackened code looks the same regardless of the project you're
   reading.
+- [drift](https://github.com/rosie-dev-ilands/drift-linter) - Finds where your
+  Python code and configuration stop agreeing: keyword arguments a callee
+  cannot accept, config keys read but never defined, magic numbers doing a
+  constant's job, and names used but never defined.
 - [flake8](https://github.com/PyCQA/flake8) - Runs PyFlakes, pycodestyle and
   other tools from only one CLI. Written in Python.
 - [pycodestyle (formerly called pep8)](https://github.com/PyCQA/pycodestyle) -
