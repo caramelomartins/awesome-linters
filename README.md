@@ -84,6 +84,8 @@ this topic will be welcome as well as links related to actual linters.
 - [MegaLinter](https://oxsecurity.github.io/megalinter) - Linters aggregator of
   49 languages, 22 formats, 21 tooling formats , copy-pastes and spell. Can
   automatically apply fixes with commit or Pull Request
+- [Perch](https://github.com/lakeday-org/perch) - Semantic code linter for saved
+  plain-English requirements, with coding-agent and CI workflows.
 - [Scanmycode CE (Community Edition)](https://github.com/marcinguy/scanmycode-ce) -
   Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One
   Report.
@@ -306,7 +308,8 @@ this topic will be welcome as well as links related to actual linters.
 
 ### Lua
 
-- [luacheck](https://github.com/lunarmodules/luacheck) - A tool for linting and static analysis of Lua code.
+- [luacheck](https://github.com/lunarmodules/luacheck) - A tool for linting and
+  static analysis of Lua code.
 - [lualint](https://github.com/philips/lualint) - lualint performs luac-based
   static analysis of global variable usage in Lua source code.
 
@@ -383,7 +386,9 @@ this topic will be welcome as well as links related to actual linters.
 - [pylint](https://github.com/PyCQA/pylint) - Source code analyzer which looks
   for programming errors, helps enforcing a coding standard and sniffs for some
   code smells.
-- [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust which is orders of magnitude faster than alternative tools while integrating more functionality behind a single, common interface.
+- [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter,
+  written in Rust which is orders of magnitude faster than alternative tools
+  while integrating more functionality behind a single, common interface.
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -
   The strictest and most opinionated python linter ever.
 - [yala](https://github.com/cemsbr/yala) - YALA combines many linters to improve
