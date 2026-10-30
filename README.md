@@ -384,6 +384,7 @@ this topic will be welcome as well as links related to actual linters.
   for programming errors, helps enforcing a coding standard and sniffs for some
   code smells.
 - [ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter, written in Rust which is orders of magnitude faster than alternative tools while integrating more functionality behind a single, common interface.
+- [silent-failure-lint](https://github.com/stackscribe-ai/silent-failure-lint) - AST-based linter that flags 5 async/backend patterns that fail silently in production (bare except, fire-and-forget tasks, unawaited gather results, pool exhaustion, retries without jitter).
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide) -
   The strictest and most opinionated python linter ever.
 - [yala](https://github.com/cemsbr/yala) - YALA combines many linters to improve
